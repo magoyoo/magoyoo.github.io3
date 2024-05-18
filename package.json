@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "npx http-server out",
-    "deploy": "git add -f out/ && git checkout -b temp-for-deploy-gh-pages && git commit -m \"Deploy Next.js to gh-pages\" && git subtree split --prefix out -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages && git checkout master && git branch -D temp-for-deploy-gh-pages"
+    "deploy": "git add -f out/ && git checkout -b temp-for-deploy-gh-pages && git commit -m \"Deploy Next.js to gh-pages\" && git subtree split --prefix out -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages && git checkout main && git branch -D temp-for-deploy-gh-pages"
   },
   "author": "magoyoo <magoyoooooo@gmail.com>",
   "license": "MIT"

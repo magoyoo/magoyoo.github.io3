@@ -1,0 +1,132 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI-%EA%B3%A0%EA%B8%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-e2940d7e","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI-고급-애니메이션-라이브러리-사용법-e2940d7e\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI-%EA%B3%A0%EA%B8%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-e2940d7e","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI-고급-애니메이션-라이브러리-사용법-e2940d7e\"}"},"styles":[]}],"segment":["slug","SwiftUI-%EA%B3%A0%EA%B8%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-e2940d7e","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI 고급 애니메이션 라이브러리 사용법 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글에서는 SwiftUI의 고급 애니메이션 라이브러리를 사용하는 방법에 대해 다룹니다. 커스텀 애니메이션을 통해 사용자 경험을 향상시키는 방법을 단계별로 설명합니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,애니메이션,iOS,Swift"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI-%EA%B3%A0%EA%B8%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-e2940d7e"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI 고급 애니메이션 라이브러리 사용법 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI 고급 애니메이션 라이브러리 사용법 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글에서는 SwiftUI의 고급 애니메이션 라이브러리를 사용하는 방법에 대해 다룹니다. 커스텀 애니메이션을 통해 사용자 경험을 향상시키는 방법을 단계별로 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI-%EA%B3%A0%EA%B8%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-e2940d7e"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI 고급 애니메이션 라이브러리 사용법 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글에서는 SwiftUI의 고급 애니메이션 라이브러리를 사용하는 방법에 대해 다룹니다. 커스텀 애니메이션을 통해 사용자 경험을 향상시키는 방법을 단계별로 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T5a4,import SwiftUI
+import Combine
+
+struct Particle: Identifiable {
+    var id: UUID = UUID()
+    var x: CGFloat
+    var y: CGFloat
+    var color: Color
+    var size: CGFloat
+}
+
+class ParticleSystem: ObservableObject {
+    @Published var particles: [Particle] = []
+    var timer: AnyCancellable?
+
+    init() {
+        self.timer = Timer.publish(every: 0.05, on: .main, in: .common).autoconnect().sink { _ in
+            self.updateParticles()
+        }
+    }
+
+    func updateParticles() {
+        let newParticle = Particle(
+            x: CGFloat.random(in: 0...300),
+            y: CGFloat.random(in: 0...300),
+            color: .blue,
+            size: CGFloat.random(in: 5...10)
+        )
+        particles.append(newParticle)
+        if particles.count > 100 {
+            particles.removeFirst()
+        }
+    }
+}
+
+struct ParticleView: View {
+    @StateObject var particleSystem = ParticleSystem()
+
+    var body: some View {
+        ZStack {
+            ForEach(particleSystem.particles) { particle in
+                Circle()
+                    .fill(particle.color)
+                    .frame(width: particle.size, height: particle.size)
+                    .position(x: particle.x, y: particle.y)
+                    .animation(.easeOut(duration: 2))
+            }
+        }
+        .background(Color.black)
+        .edgesIgnoringSafeArea(.all)
+    }
+}
+
+struct ContentView: View {
+    var body: some View {
+        ParticleView()
+    }
+}
+f:T5a4,import SwiftUI
+import Combine
+
+struct Particle: Identifiable {
+    var id: UUID = UUID()
+    var x: CGFloat
+    var y: CGFloat
+    var color: Color
+    var size: CGFloat
+}
+
+class ParticleSystem: ObservableObject {
+    @Published var particles: [Particle] = []
+    var timer: AnyCancellable?
+
+    init() {
+        self.timer = Timer.publish(every: 0.05, on: .main, in: .common).autoconnect().sink { _ in
+            self.updateParticles()
+        }
+    }
+
+    func updateParticles() {
+        let newParticle = Particle(
+            x: CGFloat.random(in: 0...300),
+            y: CGFloat.random(in: 0...300),
+            color: .blue,
+            size: CGFloat.random(in: 5...10)
+        )
+        particles.append(newParticle)
+        if particles.count > 100 {
+            particles.removeFirst()
+        }
+    }
+}
+
+struct ParticleView: View {
+    @StateObject var particleSystem = ParticleSystem()
+
+    var body: some View {
+        ZStack {
+            ForEach(particleSystem.particles) { particle in
+                Circle()
+                    .fill(particle.color)
+                    .frame(width: particle.size, height: particle.size)
+                    .position(x: particle.x, y: particle.y)
+                    .animation(.easeOut(duration: 2))
+            }
+        }
+        .background(Color.black)
+        .edgesIgnoringSafeArea(.all)
+    }
+}
+
+struct ContentView: View {
+    var body: some View {
+        ParticleView()
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner4.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI 고급 애니메이션 라이브러리 사용법"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI 고급 애니메이션 라이브러리 사용법"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-14"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"6c29a49f","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI 고급 애니메이션 라이브러리 사용법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 Apple에서 개발한 사용자 인터페이스 툴킷으로, 선언형 문법을 통해 매우 간편하게 애니메이션을 구현할 수 있습니다. 이 글에서는 SwiftUI의 고급 애니메이션 라이브러리를 사용해 고수준의 애니메이션을 만드는 방법을 다룹니다."}],"\n",["$","h2",null,{"id":"ac03cd7c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"SwiftUI 애니메이션 기본 개념"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI에서 애니메이션은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"withAnimation","position":{"start":{"line":8,"column":18,"offset":210},"end":{"line":8,"column":33,"offset":225}}}],"position":{"start":{"line":8,"column":18,"offset":210},"end":{"line":8,"column":33,"offset":225}}},"children":"withAnimation"}}]," 블록을 통해 쉽게 적용할 수 있습니다. 아래 코드는 버튼을 눌렀을 때 뷰의 크기가 변하는 간단한 애니메이션을 보여줍니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"struct ContentView: View {\n    @State private var scale: CGFloat = 1.0\n\n    var body: some View {\n        VStack {\n            Button(action: {\n                withAnimation {\n                    self.scale += 1.0\n                }\n            }) {\n                Text(\"Animate\")\n            }\n            .padding()\n\n            Rectangle()\n                .frame(width: 100, height: 100)\n                .scaleEffect(scale)\n        }\n    }\n}\n"}],"position":{"start":{"line":10,"column":1,"offset":295},"end":{"line":31,"column":4,"offset":752}}},"children":"struct ContentView: View {\n    @State private var scale: CGFloat = 1.0\n\n    var body: some View {\n        VStack {\n            Button(action: {\n                withAnimation {\n                    self.scale += 1.0\n                }\n            }) {\n                Text(\"Animate\")\n            }\n            .padding()\n\n            Rectangle()\n                .frame(width: 100, height: 100)\n                .scaleEffect(scale)\n        }\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"withAnimation","position":{"start":{"line":33,"column":1,"offset":754},"end":{"line":33,"column":16,"offset":769}}}],"position":{"start":{"line":33,"column":1,"offset":754},"end":{"line":33,"column":16,"offset":769}}},"children":"withAnimation"}}]," 블록 내부의 코드는 자동으로 애니메이션 처리됩니다. 그러나 고급 애니메이션을 구현하려면 커스터마이징 할 수 있는 라이브러리가 필요합니다."]}],"\n",["$","h2",null,{"id":"11594bd6","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"AnimatableModifier 사용하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AnimatableModifier","position":{"start":{"line":37,"column":10,"offset":885},"end":{"line":37,"column":30,"offset":905}}}],"position":{"start":{"line":37,"column":10,"offset":885},"end":{"line":37,"column":30,"offset":905}}},"children":"AnimatableModifier"}}],"를 사용하면 좀 더 복잡한 애니메이션을 구현할 수 있습니다. 예를 들어, 텍스트의 변화에 따라 애니메이션을 적용하려면 아래와 같은 코드를 사용할 수 있습니다."]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"struct AnimatingNumberModifier: AnimatableModifier {\n    var number: Double\n\n    var animatableData: Double {\n        get { number }\n        set { number = newValue }\n    }\n\n    func body(content: Content) -> some View {\n        content.overlay(\n            Text(String(format: \"%.0f\", number))\n                .font(.largeTitle)\n                .foregroundColor(.black)\n        )\n    }\n}\n\nextension View {\n    func animatingNumber(to number: Double) -> some View {\n        self.modifier(AnimatingNumberModifier(number: number))\n    }\n}\n\nstruct ContentView: View {\n    @State private var number: Double = 0\n\n    var body: some View {\n        VStack {\n            Text(\"Tap to animate number\")\n                .onTapGesture {\n                    withAnimation(.easeInOut(duration: 2)) {\n                        self.number = 100\n                    }\n                }\n            Rectangle()\n                .frame(width: 200, height: 200)\n                .animatingNumber(to: number)\n        }\n    }\n}\n"}],"position":{"start":{"line":39,"column":1,"offset":995},"end":{"line":80,"column":4,"offset":2010}}},"children":"struct AnimatingNumberModifier: AnimatableModifier {\n    var number: Double\n\n    var animatableData: Double {\n        get { number }\n        set { number = newValue }\n    }\n\n    func body(content: Content) -> some View {\n        content.overlay(\n            Text(String(format: \"%.0f\", number))\n                .font(.largeTitle)\n                .foregroundColor(.black)\n        )\n    }\n}\n\nextension View {\n    func animatingNumber(to number: Double) -> some View {\n        self.modifier(AnimatingNumberModifier(number: number))\n    }\n}\n\nstruct ContentView: View {\n    @State private var number: Double = 0\n\n    var body: some View {\n        VStack {\n            Text(\"Tap to animate number\")\n                .onTapGesture {\n                    withAnimation(.easeInOut(duration: 2)) {\n                        self.number = 100\n                    }\n                }\n            Rectangle()\n                .frame(width: 200, height: 200)\n                .animatingNumber(to: number)\n        }\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["여기서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AnimatableModifier","position":{"start":{"line":82,"column":5,"offset":2016},"end":{"line":82,"column":25,"offset":2036}}}],"position":{"start":{"line":82,"column":5,"offset":2016},"end":{"line":82,"column":25,"offset":2036}}},"children":"AnimatableModifier"}}],"는 상태 변화를 애니메이션으로 보여줄 수 있게 해줍니다."]}],"\n",["$","h2",null,{"id":"7a21348c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"파티클 애니메이션 구현하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["고급 애니메이션을 구현하기 위해 파티클 시스템을 만들 수도 있습니다. SwiftUI에서 파티클 시스템을 구현하려면, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Canvas","position":{"start":{"line":86,"column":66,"offset":2153},"end":{"line":86,"column":74,"offset":2161}}}],"position":{"start":{"line":86,"column":66,"offset":2153},"end":{"line":86,"column":74,"offset":2161}}},"children":"Canvas"}}]," 뷰와 타이머를 사용하면 됩니다. 아래 예제는 간단한 파티클 시스템을 보여줍니다."]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":88,"column":1,"offset":2208},"end":{"line":147,"column":4,"offset":3664}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["파티클 시스템은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Timer","position":{"start":{"line":149,"column":10,"offset":3675},"end":{"line":149,"column":17,"offset":3682}}}],"position":{"start":{"line":149,"column":10,"offset":3675},"end":{"line":149,"column":17,"offset":3682}}},"children":"Timer"}}],"를 사용해 주기적으로 파티클을 생성하고, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"ForEach","position":{"start":{"line":149,"column":40,"offset":3705},"end":{"line":149,"column":49,"offset":3714}}}],"position":{"start":{"line":149,"column":40,"offset":3705},"end":{"line":149,"column":49,"offset":3714}}},"children":"ForEach"}}],"를 사용해 모든 파티클을 화면에 그립니다. 이렇게 하면 실시간으로 파티클 애니메이션을 구현할 수 있습니다."]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI의 고급 애니메이션 라이브러리를 활용하면 더 복잡하고 독창적인 애니메이션을 구현할 수 있습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AnimatableModifier","position":{"start":{"line":153,"column":62,"offset":3843},"end":{"line":153,"column":82,"offset":3863}}}],"position":{"start":{"line":153,"column":62,"offset":3843},"end":{"line":153,"column":82,"offset":3863}}},"children":"AnimatableModifier"}}],"와 파티클 시스템은 이러한 목적을 달성하는 데 유용한 도구입니다. 이 글에서 다룬 내용을 바탕으로 고급 애니메이션을 구현해 사용자 경험을 더욱 향상시킬 수 있을 것입니다."]}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"SwiftUI 고급 애니메이션 라이브러리 사용법","toc":[{"tagName":"h1","title":"SwiftUI 고급 애니메이션 라이브러리 사용법","id":"6c29a49f"},{"tagName":"h2","title":"SwiftUI 애니메이션 기본 개념","id":"ac03cd7c"},{"tagName":"h2","title":"AnimatableModifier 사용하기","id":"11594bd6"},{"tagName":"h2","title":"파티클 애니메이션 구현하기","id":"7a21348c"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

@@ -1,0 +1,248 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","Swift-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-Xcode-%EA%B3%84%EC%A0%95-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C-4c17671d","d"],{"children":["__PAGE__?{\"slug\":\"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","Swift-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-Xcode-%EA%B3%84%EC%A0%95-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C-4c17671d","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d\"}"},"styles":[]}],"segment":["slug","Swift-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-Xcode-%EA%B3%84%EC%A0%95-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C-4c17671d","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Swift 개발 시 Xcode 계정 에러 해결 가이드 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다."}],["$","meta","3",{"name":"keywords","content":"Swift,Xcode,에러 해결,개발"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/Swift-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-Xcode-%EA%B3%84%EC%A0%95-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C-4c17671d"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"Swift 개발 시 Xcode 계정 에러 해결 가이드 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"Swift 개발 시 Xcode 계정 에러 해결 가이드 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/Swift-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-Xcode-%EA%B3%84%EC%A0%95-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-%EA%B0%80%EC%9D%B4%EB%93%9C-4c17671d"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"Swift 개발 시 Xcode 계정 에러 해결 가이드 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T1642,
+# Swift 개발 시 Xcode 계정 에러 해결 가이드
+
+Swift 개발을 하면서 Xcode를 사용할 때 계정 관련 이슈가 빈번하게 발생하곤 합니다. 프로젝트를 빌드하거나 배포하는 과정에서 이러한 문제는 생산성을 저하시키고 큰 스트레스를 유발할 수 있습니다. 이 글에서는 대표적인 Xcode 계정 관련 에러와 그에 대한 해결 방법을 소개하도록 하겠습니다.
+
+## Apple ID 인증 실패
+
+Xcode에서 Apple ID를 등록할 때나 기존 계정의 인증이 실패할 때 발생하는 에러입니다. 이는 주로 비밀번호 문제, 계정 정보 오류, Apple 서버 문제 등에서 기인합니다.
+
+해결 방법:
+
+1. **비밀번호 오류 확인**: Apple ID에 설정된 비밀번호가 옳은지 확인하고 올바르게 입력했는지 다시 한번 확인합니다.
+2. **이중 인증**: Apple ID에 이중 인증이 설정되어 있는지 확인합니다. 설정되어 있지 않다면, 애플의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에 로그인하여 이중 인증을 활성화합니다.
+3. **Apple 서버 상태 확인**: Apple의 [시스템 상태 페이지](https://www.apple.com/support/systemstatus/)를 통해 Apple ID 인증 서버가 정상적으로 작동 중인지 확인합니다. 서버 문제일 경우 문제 해결을 위해 기다려야 합니다.
+4. **네트워크 설정 확인**: 네트워크 연결 상태를 확인하고, 가능한 경우 다른 네트워크 연결을 시도합니다.
+
+## 팀 없음(Total no teams found) 에러
+
+Xcode에서 프로젝트를 빌드할 때 'No teams found for specified Apple ID' 오류가 발생하는 경우입니다. 이는 Xcode가 사용하는 Apple ID에 대한 프로비저닝 프로파일이 없기 때문입니다.
+
+해결 방법:
+
+1. **Apple Developer Program 가입**: Apple Developer Program에 가입되어 있는지 확인합니다. 미가입 상태에서는 팀을 구성할 수 없습니다.
+2. **프로비저닝 프로파일 생성**: 회원 가입 후 애플의 [디베로퍼 계정](https://developer.apple.com/account/)에 로그인하여 기본 프로비저닝 프로파일을 생성합니다.
+3. **팀 선택 및 업데이트**: Xcode의 'Preferences' 메뉴에서 'Account' 탭을 선택하고 사용자의 Apple ID를 선택합니다. 'Details' 버튼을 클릭하여 업데이트된 팀 정보를 불러옵니다.
+4. **프로젝트 설정 변경**: Xcode 프로젝트에서 'General' 탭을 선택한 후, 'Signing' 섹션에서 새로 생성된 프로비저닝 프로파일과 팀을 선택합니다.
+
+## 앱 서명 관련 문제
+
+'Codesign' 관련 오류는 앱을 서명할 때 발생할 수 있으며, 이는 주로 설정된 서명 자격증명이 올바르지 않거나 유효하지 않을 때 발생합니다.
+
+해결 방법:
+
+1. **서명 자격증명 확인**: Xcode 프로젝트의 'Signing & Capabilities'에서 설정된 서명 자격증명이 올바른지 확인합니다. 필요하다면 Apple Developer 계정에서 새로운 자격증명을 생성하고 다운로드 받습니다.
+2. **키체인 접근 설정 확인**: macOS의 '키체인 접근' 앱을 실행하여 올바른 서명 자격증명이 키체인에 추가되어 있는지 확인합니다. 만약 자격증명이 없다면, Apple Developer 계정에서 다시 다운로드 받아 추가합니다.
+3. **프로비저닝 프로파일 재설정**: Apple Developer 계정의 Certificates, Identifiers & Profiles 섹션에서 프로비저닝 프로파일을 재생성하고, Xcode에서 새로 생성된 프로파일을 적용합니다.
+4. **빌드 설정 갱신**: Xcode에서 'Product' -> 'Clean Build Folder'를 선택하여 빌드 폴더를 청소하고, 'Product' -> 'Build'를 통해 다시 빌드합니다.
+
+## 토큰 만료(Token Expiry) 오류
+
+이 오류는 주로 Apple ID 로그인 토큰이 만료되었을 때 발생합니다. 이는 로그인 세션이 만료되어 애플 서버와의 인증이 실패할 때 발생하는 오류입니다.
+
+해결 방법:
+
+1. **Xcode 재시작**: 간단히 Xcode를 재시작하면 토큰이 갱신될 수 있습니다.
+2. **재로그인**: Xcode의 'Preferences' -> 'Accounts'에서 현재 로그인된 Apple ID를 로그아웃 한 후, 다시 로그인합니다.
+3. **계정 상태 확인**: Apple의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에서 계정 상태를 확인하고, 문제가 없는지 확인합니다.
+
+## 기타 일반적인 문제 해결법
+
+때로는 위의 방법으로도 해결되지 않는 계정 관련 문제가 발생할 수 있습니다. 이럴 경우 다음의 일반적인 문제 해결법들을 시도해볼 수 있습니다.
+
+1. **소프트웨어 업데이트**: Xcode와 macOS가 최신 버전인지 확인하고, 필요한 경우 업데이트합니다. 종종 업데이트된 버전에서 문제를 해결할 수 있습니다.
+2. **시스템 재시작**: 시스템 재시작을 통해 임시적으로 발생한 네트워크 및 캐시 문제를 해결할 수 있습니다.
+3. **설정 초기화**: Xcode의 설정을 초기화하여 설정 문제를 해결할 수 있습니다. 이는 '~/Library/Preferences/com.apple.dt.Xcode.plist' 파일을 삭제하여 수행할 수 있습니다.
+4. **애플 지원 요청**: 위의 모든 방법으로도 해결되지 않는 경우, Apple 지원팀에 직접 문의하여 문제를 해결합니다.
+
+위의 방법들을 통해 Xcode에서 발생하는 다양한 계정 관련 문제를 효과적으로 해결할 수 있습니다. Swift 개발의 원활한 진행을 위해 이러한 문제들을 사전에 예방하고 신속히 대처하는 것이 중요합니다.
+f:T1642,
+# Swift 개발 시 Xcode 계정 에러 해결 가이드
+
+Swift 개발을 하면서 Xcode를 사용할 때 계정 관련 이슈가 빈번하게 발생하곤 합니다. 프로젝트를 빌드하거나 배포하는 과정에서 이러한 문제는 생산성을 저하시키고 큰 스트레스를 유발할 수 있습니다. 이 글에서는 대표적인 Xcode 계정 관련 에러와 그에 대한 해결 방법을 소개하도록 하겠습니다.
+
+## Apple ID 인증 실패
+
+Xcode에서 Apple ID를 등록할 때나 기존 계정의 인증이 실패할 때 발생하는 에러입니다. 이는 주로 비밀번호 문제, 계정 정보 오류, Apple 서버 문제 등에서 기인합니다.
+
+해결 방법:
+
+1. **비밀번호 오류 확인**: Apple ID에 설정된 비밀번호가 옳은지 확인하고 올바르게 입력했는지 다시 한번 확인합니다.
+2. **이중 인증**: Apple ID에 이중 인증이 설정되어 있는지 확인합니다. 설정되어 있지 않다면, 애플의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에 로그인하여 이중 인증을 활성화합니다.
+3. **Apple 서버 상태 확인**: Apple의 [시스템 상태 페이지](https://www.apple.com/support/systemstatus/)를 통해 Apple ID 인증 서버가 정상적으로 작동 중인지 확인합니다. 서버 문제일 경우 문제 해결을 위해 기다려야 합니다.
+4. **네트워크 설정 확인**: 네트워크 연결 상태를 확인하고, 가능한 경우 다른 네트워크 연결을 시도합니다.
+
+## 팀 없음(Total no teams found) 에러
+
+Xcode에서 프로젝트를 빌드할 때 'No teams found for specified Apple ID' 오류가 발생하는 경우입니다. 이는 Xcode가 사용하는 Apple ID에 대한 프로비저닝 프로파일이 없기 때문입니다.
+
+해결 방법:
+
+1. **Apple Developer Program 가입**: Apple Developer Program에 가입되어 있는지 확인합니다. 미가입 상태에서는 팀을 구성할 수 없습니다.
+2. **프로비저닝 프로파일 생성**: 회원 가입 후 애플의 [디베로퍼 계정](https://developer.apple.com/account/)에 로그인하여 기본 프로비저닝 프로파일을 생성합니다.
+3. **팀 선택 및 업데이트**: Xcode의 'Preferences' 메뉴에서 'Account' 탭을 선택하고 사용자의 Apple ID를 선택합니다. 'Details' 버튼을 클릭하여 업데이트된 팀 정보를 불러옵니다.
+4. **프로젝트 설정 변경**: Xcode 프로젝트에서 'General' 탭을 선택한 후, 'Signing' 섹션에서 새로 생성된 프로비저닝 프로파일과 팀을 선택합니다.
+
+## 앱 서명 관련 문제
+
+'Codesign' 관련 오류는 앱을 서명할 때 발생할 수 있으며, 이는 주로 설정된 서명 자격증명이 올바르지 않거나 유효하지 않을 때 발생합니다.
+
+해결 방법:
+
+1. **서명 자격증명 확인**: Xcode 프로젝트의 'Signing & Capabilities'에서 설정된 서명 자격증명이 올바른지 확인합니다. 필요하다면 Apple Developer 계정에서 새로운 자격증명을 생성하고 다운로드 받습니다.
+2. **키체인 접근 설정 확인**: macOS의 '키체인 접근' 앱을 실행하여 올바른 서명 자격증명이 키체인에 추가되어 있는지 확인합니다. 만약 자격증명이 없다면, Apple Developer 계정에서 다시 다운로드 받아 추가합니다.
+3. **프로비저닝 프로파일 재설정**: Apple Developer 계정의 Certificates, Identifiers & Profiles 섹션에서 프로비저닝 프로파일을 재생성하고, Xcode에서 새로 생성된 프로파일을 적용합니다.
+4. **빌드 설정 갱신**: Xcode에서 'Product' -> 'Clean Build Folder'를 선택하여 빌드 폴더를 청소하고, 'Product' -> 'Build'를 통해 다시 빌드합니다.
+
+## 토큰 만료(Token Expiry) 오류
+
+이 오류는 주로 Apple ID 로그인 토큰이 만료되었을 때 발생합니다. 이는 로그인 세션이 만료되어 애플 서버와의 인증이 실패할 때 발생하는 오류입니다.
+
+해결 방법:
+
+1. **Xcode 재시작**: 간단히 Xcode를 재시작하면 토큰이 갱신될 수 있습니다.
+2. **재로그인**: Xcode의 'Preferences' -> 'Accounts'에서 현재 로그인된 Apple ID를 로그아웃 한 후, 다시 로그인합니다.
+3. **계정 상태 확인**: Apple의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에서 계정 상태를 확인하고, 문제가 없는지 확인합니다.
+
+## 기타 일반적인 문제 해결법
+
+때로는 위의 방법으로도 해결되지 않는 계정 관련 문제가 발생할 수 있습니다. 이럴 경우 다음의 일반적인 문제 해결법들을 시도해볼 수 있습니다.
+
+1. **소프트웨어 업데이트**: Xcode와 macOS가 최신 버전인지 확인하고, 필요한 경우 업데이트합니다. 종종 업데이트된 버전에서 문제를 해결할 수 있습니다.
+2. **시스템 재시작**: 시스템 재시작을 통해 임시적으로 발생한 네트워크 및 캐시 문제를 해결할 수 있습니다.
+3. **설정 초기화**: Xcode의 설정을 초기화하여 설정 문제를 해결할 수 있습니다. 이는 '~/Library/Preferences/com.apple.dt.Xcode.plist' 파일을 삭제하여 수행할 수 있습니다.
+4. **애플 지원 요청**: 위의 모든 방법으로도 해결되지 않는 경우, Apple 지원팀에 직접 문의하여 문제를 해결합니다.
+
+위의 방법들을 통해 Xcode에서 발생하는 다양한 계정 관련 문제를 효과적으로 해결할 수 있습니다. Swift 개발의 원활한 진행을 위해 이러한 문제들을 사전에 예방하고 신속히 대처하는 것이 중요합니다.
+10:T1642,
+# Swift 개발 시 Xcode 계정 에러 해결 가이드
+
+Swift 개발을 하면서 Xcode를 사용할 때 계정 관련 이슈가 빈번하게 발생하곤 합니다. 프로젝트를 빌드하거나 배포하는 과정에서 이러한 문제는 생산성을 저하시키고 큰 스트레스를 유발할 수 있습니다. 이 글에서는 대표적인 Xcode 계정 관련 에러와 그에 대한 해결 방법을 소개하도록 하겠습니다.
+
+## Apple ID 인증 실패
+
+Xcode에서 Apple ID를 등록할 때나 기존 계정의 인증이 실패할 때 발생하는 에러입니다. 이는 주로 비밀번호 문제, 계정 정보 오류, Apple 서버 문제 등에서 기인합니다.
+
+해결 방법:
+
+1. **비밀번호 오류 확인**: Apple ID에 설정된 비밀번호가 옳은지 확인하고 올바르게 입력했는지 다시 한번 확인합니다.
+2. **이중 인증**: Apple ID에 이중 인증이 설정되어 있는지 확인합니다. 설정되어 있지 않다면, 애플의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에 로그인하여 이중 인증을 활성화합니다.
+3. **Apple 서버 상태 확인**: Apple의 [시스템 상태 페이지](https://www.apple.com/support/systemstatus/)를 통해 Apple ID 인증 서버가 정상적으로 작동 중인지 확인합니다. 서버 문제일 경우 문제 해결을 위해 기다려야 합니다.
+4. **네트워크 설정 확인**: 네트워크 연결 상태를 확인하고, 가능한 경우 다른 네트워크 연결을 시도합니다.
+
+## 팀 없음(Total no teams found) 에러
+
+Xcode에서 프로젝트를 빌드할 때 'No teams found for specified Apple ID' 오류가 발생하는 경우입니다. 이는 Xcode가 사용하는 Apple ID에 대한 프로비저닝 프로파일이 없기 때문입니다.
+
+해결 방법:
+
+1. **Apple Developer Program 가입**: Apple Developer Program에 가입되어 있는지 확인합니다. 미가입 상태에서는 팀을 구성할 수 없습니다.
+2. **프로비저닝 프로파일 생성**: 회원 가입 후 애플의 [디베로퍼 계정](https://developer.apple.com/account/)에 로그인하여 기본 프로비저닝 프로파일을 생성합니다.
+3. **팀 선택 및 업데이트**: Xcode의 'Preferences' 메뉴에서 'Account' 탭을 선택하고 사용자의 Apple ID를 선택합니다. 'Details' 버튼을 클릭하여 업데이트된 팀 정보를 불러옵니다.
+4. **프로젝트 설정 변경**: Xcode 프로젝트에서 'General' 탭을 선택한 후, 'Signing' 섹션에서 새로 생성된 프로비저닝 프로파일과 팀을 선택합니다.
+
+## 앱 서명 관련 문제
+
+'Codesign' 관련 오류는 앱을 서명할 때 발생할 수 있으며, 이는 주로 설정된 서명 자격증명이 올바르지 않거나 유효하지 않을 때 발생합니다.
+
+해결 방법:
+
+1. **서명 자격증명 확인**: Xcode 프로젝트의 'Signing & Capabilities'에서 설정된 서명 자격증명이 올바른지 확인합니다. 필요하다면 Apple Developer 계정에서 새로운 자격증명을 생성하고 다운로드 받습니다.
+2. **키체인 접근 설정 확인**: macOS의 '키체인 접근' 앱을 실행하여 올바른 서명 자격증명이 키체인에 추가되어 있는지 확인합니다. 만약 자격증명이 없다면, Apple Developer 계정에서 다시 다운로드 받아 추가합니다.
+3. **프로비저닝 프로파일 재설정**: Apple Developer 계정의 Certificates, Identifiers & Profiles 섹션에서 프로비저닝 프로파일을 재생성하고, Xcode에서 새로 생성된 프로파일을 적용합니다.
+4. **빌드 설정 갱신**: Xcode에서 'Product' -> 'Clean Build Folder'를 선택하여 빌드 폴더를 청소하고, 'Product' -> 'Build'를 통해 다시 빌드합니다.
+
+## 토큰 만료(Token Expiry) 오류
+
+이 오류는 주로 Apple ID 로그인 토큰이 만료되었을 때 발생합니다. 이는 로그인 세션이 만료되어 애플 서버와의 인증이 실패할 때 발생하는 오류입니다.
+
+해결 방법:
+
+1. **Xcode 재시작**: 간단히 Xcode를 재시작하면 토큰이 갱신될 수 있습니다.
+2. **재로그인**: Xcode의 'Preferences' -> 'Accounts'에서 현재 로그인된 Apple ID를 로그아웃 한 후, 다시 로그인합니다.
+3. **계정 상태 확인**: Apple의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에서 계정 상태를 확인하고, 문제가 없는지 확인합니다.
+
+## 기타 일반적인 문제 해결법
+
+때로는 위의 방법으로도 해결되지 않는 계정 관련 문제가 발생할 수 있습니다. 이럴 경우 다음의 일반적인 문제 해결법들을 시도해볼 수 있습니다.
+
+1. **소프트웨어 업데이트**: Xcode와 macOS가 최신 버전인지 확인하고, 필요한 경우 업데이트합니다. 종종 업데이트된 버전에서 문제를 해결할 수 있습니다.
+2. **시스템 재시작**: 시스템 재시작을 통해 임시적으로 발생한 네트워크 및 캐시 문제를 해결할 수 있습니다.
+3. **설정 초기화**: Xcode의 설정을 초기화하여 설정 문제를 해결할 수 있습니다. 이는 '~/Library/Preferences/com.apple.dt.Xcode.plist' 파일을 삭제하여 수행할 수 있습니다.
+4. **애플 지원 요청**: 위의 모든 방법으로도 해결되지 않는 경우, Apple 지원팀에 직접 문의하여 문제를 해결합니다.
+
+위의 방법들을 통해 Xcode에서 발생하는 다양한 계정 관련 문제를 효과적으로 해결할 수 있습니다. Swift 개발의 원활한 진행을 위해 이러한 문제들을 사전에 예방하고 신속히 대처하는 것이 중요합니다.
+11:T1642,
+# Swift 개발 시 Xcode 계정 에러 해결 가이드
+
+Swift 개발을 하면서 Xcode를 사용할 때 계정 관련 이슈가 빈번하게 발생하곤 합니다. 프로젝트를 빌드하거나 배포하는 과정에서 이러한 문제는 생산성을 저하시키고 큰 스트레스를 유발할 수 있습니다. 이 글에서는 대표적인 Xcode 계정 관련 에러와 그에 대한 해결 방법을 소개하도록 하겠습니다.
+
+## Apple ID 인증 실패
+
+Xcode에서 Apple ID를 등록할 때나 기존 계정의 인증이 실패할 때 발생하는 에러입니다. 이는 주로 비밀번호 문제, 계정 정보 오류, Apple 서버 문제 등에서 기인합니다.
+
+해결 방법:
+
+1. **비밀번호 오류 확인**: Apple ID에 설정된 비밀번호가 옳은지 확인하고 올바르게 입력했는지 다시 한번 확인합니다.
+2. **이중 인증**: Apple ID에 이중 인증이 설정되어 있는지 확인합니다. 설정되어 있지 않다면, 애플의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에 로그인하여 이중 인증을 활성화합니다.
+3. **Apple 서버 상태 확인**: Apple의 [시스템 상태 페이지](https://www.apple.com/support/systemstatus/)를 통해 Apple ID 인증 서버가 정상적으로 작동 중인지 확인합니다. 서버 문제일 경우 문제 해결을 위해 기다려야 합니다.
+4. **네트워크 설정 확인**: 네트워크 연결 상태를 확인하고, 가능한 경우 다른 네트워크 연결을 시도합니다.
+
+## 팀 없음(Total no teams found) 에러
+
+Xcode에서 프로젝트를 빌드할 때 'No teams found for specified Apple ID' 오류가 발생하는 경우입니다. 이는 Xcode가 사용하는 Apple ID에 대한 프로비저닝 프로파일이 없기 때문입니다.
+
+해결 방법:
+
+1. **Apple Developer Program 가입**: Apple Developer Program에 가입되어 있는지 확인합니다. 미가입 상태에서는 팀을 구성할 수 없습니다.
+2. **프로비저닝 프로파일 생성**: 회원 가입 후 애플의 [디베로퍼 계정](https://developer.apple.com/account/)에 로그인하여 기본 프로비저닝 프로파일을 생성합니다.
+3. **팀 선택 및 업데이트**: Xcode의 'Preferences' 메뉴에서 'Account' 탭을 선택하고 사용자의 Apple ID를 선택합니다. 'Details' 버튼을 클릭하여 업데이트된 팀 정보를 불러옵니다.
+4. **프로젝트 설정 변경**: Xcode 프로젝트에서 'General' 탭을 선택한 후, 'Signing' 섹션에서 새로 생성된 프로비저닝 프로파일과 팀을 선택합니다.
+
+## 앱 서명 관련 문제
+
+'Codesign' 관련 오류는 앱을 서명할 때 발생할 수 있으며, 이는 주로 설정된 서명 자격증명이 올바르지 않거나 유효하지 않을 때 발생합니다.
+
+해결 방법:
+
+1. **서명 자격증명 확인**: Xcode 프로젝트의 'Signing & Capabilities'에서 설정된 서명 자격증명이 올바른지 확인합니다. 필요하다면 Apple Developer 계정에서 새로운 자격증명을 생성하고 다운로드 받습니다.
+2. **키체인 접근 설정 확인**: macOS의 '키체인 접근' 앱을 실행하여 올바른 서명 자격증명이 키체인에 추가되어 있는지 확인합니다. 만약 자격증명이 없다면, Apple Developer 계정에서 다시 다운로드 받아 추가합니다.
+3. **프로비저닝 프로파일 재설정**: Apple Developer 계정의 Certificates, Identifiers & Profiles 섹션에서 프로비저닝 프로파일을 재생성하고, Xcode에서 새로 생성된 프로파일을 적용합니다.
+4. **빌드 설정 갱신**: Xcode에서 'Product' -> 'Clean Build Folder'를 선택하여 빌드 폴더를 청소하고, 'Product' -> 'Build'를 통해 다시 빌드합니다.
+
+## 토큰 만료(Token Expiry) 오류
+
+이 오류는 주로 Apple ID 로그인 토큰이 만료되었을 때 발생합니다. 이는 로그인 세션이 만료되어 애플 서버와의 인증이 실패할 때 발생하는 오류입니다.
+
+해결 방법:
+
+1. **Xcode 재시작**: 간단히 Xcode를 재시작하면 토큰이 갱신될 수 있습니다.
+2. **재로그인**: Xcode의 'Preferences' -> 'Accounts'에서 현재 로그인된 Apple ID를 로그아웃 한 후, 다시 로그인합니다.
+3. **계정 상태 확인**: Apple의 [계정 관리 페이지](https://appleid.apple.com/account/manage)에서 계정 상태를 확인하고, 문제가 없는지 확인합니다.
+
+## 기타 일반적인 문제 해결법
+
+때로는 위의 방법으로도 해결되지 않는 계정 관련 문제가 발생할 수 있습니다. 이럴 경우 다음의 일반적인 문제 해결법들을 시도해볼 수 있습니다.
+
+1. **소프트웨어 업데이트**: Xcode와 macOS가 최신 버전인지 확인하고, 필요한 경우 업데이트합니다. 종종 업데이트된 버전에서 문제를 해결할 수 있습니다.
+2. **시스템 재시작**: 시스템 재시작을 통해 임시적으로 발생한 네트워크 및 캐시 문제를 해결할 수 있습니다.
+3. **설정 초기화**: Xcode의 설정을 초기화하여 설정 문제를 해결할 수 있습니다. 이는 '~/Library/Preferences/com.apple.dt.Xcode.plist' 파일을 삭제하여 수행할 수 있습니다.
+4. **애플 지원 요청**: 위의 모든 방법으로도 해결되지 않는 경우, Apple 지원팀에 직접 문의하여 문제를 해결합니다.
+
+위의 방법들을 통해 Xcode에서 발생하는 다양한 계정 관련 문제를 효과적으로 해결할 수 있습니다. Swift 개발의 원활한 진행을 위해 이러한 문제들을 사전에 예방하고 신속히 대처하는 것이 중요합니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"Swift 개발 시 Xcode 계정 에러 해결 가이드"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"Swift 개발 시 Xcode 계정 에러 해결 가이드"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-20"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"5b31f501","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Swift 개발 시 Xcode 계정 에러 해결 가이드"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Swift 개발을 하면서 Xcode를 사용할 때 계정 관련 이슈가 빈번하게 발생하곤 합니다. 프로젝트를 빌드하거나 배포하는 과정에서 이러한 문제는 생산성을 저하시키고 큰 스트레스를 유발할 수 있습니다. 이 글에서는 대표적인 Xcode 계정 관련 에러와 그에 대한 해결 방법을 소개하도록 하겠습니다."}],"\n",["$","h2",null,{"id":"4869b593","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Apple ID 인증 실패"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Xcode에서 Apple ID를 등록할 때나 기존 계정의 인증이 실패할 때 발생하는 에러입니다. 이는 주로 비밀번호 문제, 계정 정보 오류, Apple 서버 문제 등에서 기인합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"해결 방법:"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"비밀번호 오류 확인"}],": Apple ID에 설정된 비밀번호가 옳은지 확인하고 올바르게 입력했는지 다시 한번 확인합니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"이중 인증"}],": Apple ID에 이중 인증이 설정되어 있는지 확인합니다. 설정되어 있지 않다면, 애플의 ",["$","$Ld",null,{"props":{"href":"https://appleid.apple.com/account/manage","node":{"type":"element","tagName":"a","properties":{"href":"https://appleid.apple.com/account/manage"},"children":[{"type":"text","value":"계정 관리 페이지","position":{"start":{"line":13,"column":66,"offset":469},"end":{"line":13,"column":75,"offset":478}}}],"position":{"start":{"line":13,"column":65,"offset":468},"end":{"line":13,"column":118,"offset":521}}},"children":"계정 관리 페이지"},"post":{"id":"4c17671d-6138-43e3-875d-9e9b59b40de0","title":"Swift 개발 시 Xcode 계정 에러 해결 가이드","fileName":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","description":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다.","date":"2024-07-20T06:02:36.557Z","tags":[{"name":"Swift","path":"/tags/swift","id":"swift"},{"name":"Xcode","path":"/tags/xcode","id":"xcode"},{"name":"에러 해결","path":"/tags/에러-해결","id":"에러-해결"},{"name":"개발","path":"/tags/개발","id":"개발"}],"banner":"/images/swiftBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","content":"$e","category":"swift","readMin":"5.5"},"language":"kr"}],"에 로그인하여 이중 인증을 활성화합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"Apple 서버 상태 확인"}],": Apple의 ",["$","$Ld",null,{"props":{"href":"https://www.apple.com/support/systemstatus/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.apple.com/support/systemstatus/"},"children":[{"type":"text","value":"시스템 상태 페이지","position":{"start":{"line":14,"column":32,"offset":575},"end":{"line":14,"column":42,"offset":585}}}],"position":{"start":{"line":14,"column":31,"offset":574},"end":{"line":14,"column":88,"offset":631}}},"children":"시스템 상태 페이지"},"post":{"id":"4c17671d-6138-43e3-875d-9e9b59b40de0","title":"Swift 개발 시 Xcode 계정 에러 해결 가이드","fileName":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","description":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다.","date":"2024-07-20T06:02:36.557Z","tags":[{"name":"Swift","path":"/tags/swift","id":"swift"},{"name":"Xcode","path":"/tags/xcode","id":"xcode"},{"name":"에러 해결","path":"/tags/에러-해결","id":"에러-해결"},{"name":"개발","path":"/tags/개발","id":"개발"}],"banner":"/images/swiftBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","content":"$f","category":"swift","readMin":"5.5"},"language":"kr"}],"를 통해 Apple ID 인증 서버가 정상적으로 작동 중인지 확인합니다. 서버 문제일 경우 문제 해결을 위해 기다려야 합니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"네트워크 설정 확인"}],": 네트워크 연결 상태를 확인하고, 가능한 경우 다른 네트워크 연결을 시도합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"6ba98953","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"팀 없음(Total no teams found) 에러"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Xcode에서 프로젝트를 빌드할 때 'No teams found for specified Apple ID' 오류가 발생하는 경우입니다. 이는 Xcode가 사용하는 Apple ID에 대한 프로비저닝 프로파일이 없기 때문입니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"해결 방법:"}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"Apple Developer Program 가입"}],": Apple Developer Program에 가입되어 있는지 확인합니다. 미가입 상태에서는 팀을 구성할 수 없습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"프로비저닝 프로파일 생성"}],": 회원 가입 후 애플의 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/account/","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/account/"},"children":[{"type":"text","value":"디베로퍼 계정","position":{"start":{"line":24,"column":36,"offset":1071},"end":{"line":24,"column":43,"offset":1078}}}],"position":{"start":{"line":24,"column":35,"offset":1070},"end":{"line":24,"column":82,"offset":1117}}},"children":"디베로퍼 계정"},"post":{"id":"4c17671d-6138-43e3-875d-9e9b59b40de0","title":"Swift 개발 시 Xcode 계정 에러 해결 가이드","fileName":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","description":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다.","date":"2024-07-20T06:02:36.557Z","tags":[{"name":"Swift","path":"/tags/swift","id":"swift"},{"name":"Xcode","path":"/tags/xcode","id":"xcode"},{"name":"에러 해결","path":"/tags/에러-해결","id":"에러-해결"},{"name":"개발","path":"/tags/개발","id":"개발"}],"banner":"/images/swiftBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","content":"$10","category":"swift","readMin":"5.5"},"language":"kr"}],"에 로그인하여 기본 프로비저닝 프로파일을 생성합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"팀 선택 및 업데이트"}],": Xcode의 'Preferences' 메뉴에서 'Account' 탭을 선택하고 사용자의 Apple ID를 선택합니다. 'Details' 버튼을 클릭하여 업데이트된 팀 정보를 불러옵니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"프로젝트 설정 변경"}],": Xcode 프로젝트에서 'General' 탭을 선택한 후, 'Signing' 섹션에서 새로 생성된 프로비저닝 프로파일과 팀을 선택합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"e5e0157a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"앱 서명 관련 문제"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"'Codesign' 관련 오류는 앱을 서명할 때 발생할 수 있으며, 이는 주로 설정된 서명 자격증명이 올바르지 않거나 유효하지 않을 때 발생합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"해결 방법:"}],"\n",["$","ol","ol-2",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"서명 자격증명 확인"}],": Xcode 프로젝트의 'Signing & Capabilities'에서 설정된 서명 자격증명이 올바른지 확인합니다. 필요하다면 Apple Developer 계정에서 새로운 자격증명을 생성하고 다운로드 받습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"키체인 접근 설정 확인"}],": macOS의 '키체인 접근' 앱을 실행하여 올바른 서명 자격증명이 키체인에 추가되어 있는지 확인합니다. 만약 자격증명이 없다면, Apple Developer 계정에서 다시 다운로드 받아 추가합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"프로비저닝 프로파일 재설정"}],": Apple Developer 계정의 Certificates, Identifiers & Profiles 섹션에서 프로비저닝 프로파일을 재생성하고, Xcode에서 새로 생성된 프로파일을 적용합니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"빌드 설정 갱신"}],": Xcode에서 'Product' -> 'Clean Build Folder'를 선택하여 빌드 폴더를 청소하고, 'Product' -> 'Build'를 통해 다시 빌드합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"8e4d714c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"토큰 만료(Token Expiry) 오류"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 오류는 주로 Apple ID 로그인 토큰이 만료되었을 때 발생합니다. 이는 로그인 세션이 만료되어 애플 서버와의 인증이 실패할 때 발생하는 오류입니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"해결 방법:"}],"\n",["$","ol","ol-3",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"Xcode 재시작"}],": 간단히 Xcode를 재시작하면 토큰이 갱신될 수 있습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"재로그인"}],": Xcode의 'Preferences' -> 'Accounts'에서 현재 로그인된 Apple ID를 로그아웃 한 후, 다시 로그인합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"계정 상태 확인"}],": Apple의 ",["$","$Ld",null,{"props":{"href":"https://appleid.apple.com/account/manage","node":{"type":"element","tagName":"a","properties":{"href":"https://appleid.apple.com/account/manage"},"children":[{"type":"text","value":"계정 관리 페이지","position":{"start":{"line":47,"column":26,"offset":2277},"end":{"line":47,"column":35,"offset":2286}}}],"position":{"start":{"line":47,"column":25,"offset":2276},"end":{"line":47,"column":78,"offset":2329}}},"children":"계정 관리 페이지"},"post":{"id":"4c17671d-6138-43e3-875d-9e9b59b40de0","title":"Swift 개발 시 Xcode 계정 에러 해결 가이드","fileName":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","description":"이 글은 Swift 개발 시 Xcode에서 발생하는 계정 관련 에러를 효과적으로 해결하기 위한 가이드입니다. 각 주요 에러 유형과 그에 따른 해결 방법을 자세히 설명합니다.","date":"2024-07-20T06:02:36.557Z","tags":[{"name":"Swift","path":"/tags/swift","id":"swift"},{"name":"Xcode","path":"/tags/xcode","id":"xcode"},{"name":"에러 해결","path":"/tags/에러-해결","id":"에러-해결"},{"name":"개발","path":"/tags/개발","id":"개발"}],"banner":"/images/swiftBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift-개발-시-Xcode-계정-에러-해결-가이드-4c17671d","content":"$11","category":"swift","readMin":"5.5"},"language":"kr"}],"에서 계정 상태를 확인하고, 문제가 없는지 확인합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"76b0c919","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"기타 일반적인 문제 해결법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"때로는 위의 방법으로도 해결되지 않는 계정 관련 문제가 발생할 수 있습니다. 이럴 경우 다음의 일반적인 문제 해결법들을 시도해볼 수 있습니다."}],"\n",["$","ol","ol-4",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"소프트웨어 업데이트"}],": Xcode와 macOS가 최신 버전인지 확인하고, 필요한 경우 업데이트합니다. 종종 업데이트된 버전에서 문제를 해결할 수 있습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"시스템 재시작"}],": 시스템 재시작을 통해 임시적으로 발생한 네트워크 및 캐시 문제를 해결할 수 있습니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"설정 초기화"}],": Xcode의 설정을 초기화하여 설정 문제를 해결할 수 있습니다. 이는 '~/Library/Preferences/com.apple.dt.Xcode.plist' 파일을 삭제하여 수행할 수 있습니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"애플 지원 요청"}],": 위의 모든 방법으로도 해결되지 않는 경우, Apple 지원팀에 직접 문의하여 문제를 해결합니다."]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위의 방법들을 통해 Xcode에서 발생하는 다양한 계정 관련 문제를 효과적으로 해결할 수 있습니다. Swift 개발의 원활한 진행을 위해 이러한 문제들을 사전에 예방하고 신속히 대처하는 것이 중요합니다."}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"Swift 개발 시 Xcode 계정 에러 해결 가이드","toc":[{"tagName":"h1","title":"Swift 개발 시 Xcode 계정 에러 해결 가이드","id":"5b31f501"},{"tagName":"h2","title":"Apple ID 인증 실패","id":"4869b593"},{"tagName":"h2","title":"팀 없음(Total no teams found) 에러","id":"6ba98953"},{"tagName":"h2","title":"앱 서명 관련 문제","id":"e5e0157a"},{"tagName":"h2","title":"토큰 만료(Token Expiry) 오류","id":"8e4d714c"},{"tagName":"h2","title":"기타 일반적인 문제 해결법","id":"76b0c919"}],"language":"kr"}]}]]}]]
+8:null

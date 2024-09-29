@@ -1,0 +1,176 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-f4f585bb","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI에서-이미지-편집-기능-구현하기-f4f585bb\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-f4f585bb","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI에서-이미지-편집-기능-구현하기-f4f585bb\"}"},"styles":[]}],"segment":["slug","SwiftUI%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-f4f585bb","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI에서 이미지 편집 기능 구현하기 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글에서는 SwiftUI를 사용하여 간단한 이미지 편집 기능을 구현하는 방법에 대해 자세히 설명합니다. 이미지 필터 적용, 크기 조정, 자르기 등의 기본적인 편집 기능을 다룹니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,이미지 편집,iOS 개발,Swift"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-f4f585bb"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI에서 이미지 편집 기능 구현하기 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI에서 이미지 편집 기능 구현하기 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글에서는 SwiftUI를 사용하여 간단한 이미지 편집 기능을 구현하는 방법에 대해 자세히 설명합니다. 이미지 필터 적용, 크기 조정, 자르기 등의 기본적인 편집 기능을 다룹니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-f4f585bb"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI에서 이미지 편집 기능 구현하기 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글에서는 SwiftUI를 사용하여 간단한 이미지 편집 기능을 구현하는 방법에 대해 자세히 설명합니다. 이미지 필터 적용, 크기 조정, 자르기 등의 기본적인 편집 기능을 다룹니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T555,struct ContentView: View {
+    @State private var selectedImage: UIImage? = nil
+    @State private var processedImage: UIImage? = nil
+    @State private var showingImagePicker = false
+
+    var body: some View {
+        VStack {
+            if let uiImage = selectedImage {
+                Image(uiImage: uiImage)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(maxHeight: 300)
+
+                Button(action: applyFilter) {
+                    Text("Apply Filter")
+                }
+            } else {
+                Text("Select an Image")
+            }
+
+            Button(action: { showingImagePicker = true }) {
+                Text("Choose Image")
+            }
+        }
+        .sheet(isPresented: $showingImagePicker) {
+            ImagePicker(image: $selectedImage)
+        }
+    }
+
+    func applyFilter() {
+        guard let selectedImage = selectedImage else { return }
+        let ciImage = CIImage(image: selectedImage)
+        let context = CIContext()
+
+        let sepiaFilter = CIFilter.sepiaTone()
+        sepiaFilter.inputImage = ciImage
+        sepiaFilter.intensity = 1.0
+
+        guard let outputImage = sepiaFilter.outputImage,
+              let cgImage = context.createCGImage(outputImage, from: outputImage.extent) else { return }
+
+        processedImage = UIImage(cgImage: cgImage)
+    }
+}
+f:T555,struct ContentView: View {
+    @State private var selectedImage: UIImage? = nil
+    @State private var processedImage: UIImage? = nil
+    @State private var showingImagePicker = false
+
+    var body: some View {
+        VStack {
+            if let uiImage = selectedImage {
+                Image(uiImage: uiImage)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(maxHeight: 300)
+
+                Button(action: applyFilter) {
+                    Text("Apply Filter")
+                }
+            } else {
+                Text("Select an Image")
+            }
+
+            Button(action: { showingImagePicker = true }) {
+                Text("Choose Image")
+            }
+        }
+        .sheet(isPresented: $showingImagePicker) {
+            ImagePicker(image: $selectedImage)
+        }
+    }
+
+    func applyFilter() {
+        guard let selectedImage = selectedImage else { return }
+        let ciImage = CIImage(image: selectedImage)
+        let context = CIContext()
+
+        let sepiaFilter = CIFilter.sepiaTone()
+        sepiaFilter.inputImage = ciImage
+        sepiaFilter.intensity = 1.0
+
+        guard let outputImage = sepiaFilter.outputImage,
+              let cgImage = context.createCGImage(outputImage, from: outputImage.extent) else { return }
+
+        processedImage = UIImage(cgImage: cgImage)
+    }
+}
+10:T45d,import SwiftUI
+import UIKit
+
+struct ImagePicker: UIViewControllerRepresentable {
+    @Binding var image: UIImage?
+    
+    class Coordinator: NSObject, UINavigationControllerDelegate, UIImagePickerControllerDelegate {
+        let parent: ImagePicker
+
+        init(parent: ImagePicker) {
+            self.parent = parent
+        }
+
+        func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey: Any]) {
+            if let uiImage = info[.originalImage] as? UIImage {
+                parent.image = uiImage
+            }
+
+            parent.presentationMode.wrappedValue.dismiss()
+        }
+    }
+
+    func makeCoordinator() -> Coordinator {
+        Coordinator(parent: self)
+    }
+
+    @Environment(".presentationMode") var presentationMode
+
+    func makeUIViewController(context: Context) -> UIImagePickerController {
+        let picker = UIImagePickerController()
+        picker.delegate = context.coordinator
+        return picker
+    }
+
+    func updateUIViewController(_ uiViewController: UIImagePickerController, context: Context) {}
+}
+11:T45d,import SwiftUI
+import UIKit
+
+struct ImagePicker: UIViewControllerRepresentable {
+    @Binding var image: UIImage?
+    
+    class Coordinator: NSObject, UINavigationControllerDelegate, UIImagePickerControllerDelegate {
+        let parent: ImagePicker
+
+        init(parent: ImagePicker) {
+            self.parent = parent
+        }
+
+        func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey: Any]) {
+            if let uiImage = info[.originalImage] as? UIImage {
+                parent.image = uiImage
+            }
+
+            parent.presentationMode.wrappedValue.dismiss()
+        }
+    }
+
+    func makeCoordinator() -> Coordinator {
+        Coordinator(parent: self)
+    }
+
+    @Environment(".presentationMode") var presentationMode
+
+    func makeUIViewController(context: Context) -> UIImagePickerController {
+        let picker = UIImagePickerController()
+        picker.delegate = context.coordinator
+        return picker
+    }
+
+    func updateUIViewController(_ uiViewController: UIImagePickerController, context: Context) {}
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI에서 이미지 편집 기능 구현하기"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI에서 이미지 편집 기능 구현하기"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-08-06"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"680edf8e","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI에서 이미지 편집 기능 구현하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 애플의 선언적 UI 프레임워크로, 간결하고 효율적으로 사용자 인터페이스를 구현할 수 있게 해줍니다. 이번 글에서는 SwiftUI를 활용해 이미지 편집 기능을 구현하는 방법을 단계별로 설명합니다. 이미지 필터 적용, 크기 조정, 자르기 등의 기본적인 편집 기능을 중심으로 다룹니다."}],"\n",["$","h2",null,{"id":"35ce895d","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"프로젝트 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI 프로젝트를 새롭게 시작하려면 Xcode를 엽니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"File > New > Project","position":{"start":{"line":8,"column":37,"offset":244},"end":{"line":8,"column":59,"offset":266}}}],"position":{"start":{"line":8,"column":37,"offset":244},"end":{"line":8,"column":59,"offset":266}}},"children":"File > New > Project"}}],"를 선택한 후, SwiftUI App 템플릿을 사용해 새 프로젝트를 생성합니다. 프로젝트 이름과 저장 위치를 설정한 후, 기본 설정으로 프로젝트를 생성합니다."]}],"\n",["$","h3",null,{"id":"bf3ab403","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"필요한 라이브러리 추가"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI는 기본적으로 여러 기능을 지원하지만, 이미지 편집 기능을 효율적으로 구현하기 위해서는 추가적인 라이브러리가 필요할 수 있습니다. 여기서는 유명한 'Core Image' 라이브러리를 사용합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"CoreImage","position":{"start":{"line":12,"column":117,"offset":490},"end":{"line":12,"column":128,"offset":501}}}],"position":{"start":{"line":12,"column":117,"offset":490},"end":{"line":12,"column":128,"offset":501}}},"children":"CoreImage"}}],"는 애플의 기본 이미지 처리 라이브러리로, 다양한 이미지 필터와 변환 기능을 제공합니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\nimport CoreImage\nimport CoreImage.CIFilterBuiltins\n"}],"position":{"start":{"line":14,"column":1,"offset":552},"end":{"line":18,"column":4,"offset":630}}},"children":"import SwiftUI\nimport CoreImage\nimport CoreImage.CIFilterBuiltins\n"}}]}],"\n",["$","h2",null,{"id":"b4e32a6c","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"기본 구조 설정하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"프로젝트가 생성되면, 먼저 기본적인 UI를 설정합니다. 이미지를 선택하고, 편집할 수 있는 View를 구성합니다. 이를 위해 간단한 SwiftUI View를 작성합니다."}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":24,"column":1,"offset":743},"end":{"line":69,"column":4,"offset":2120}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드에서는 간단한 필터 적용 기능을 구현했습니다. 여기서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"ImagePicker","position":{"start":{"line":71,"column":35,"offset":2156},"end":{"line":71,"column":48,"offset":2169}}}],"position":{"start":{"line":71,"column":35,"offset":2156},"end":{"line":71,"column":48,"offset":2169}}},"children":"ImagePicker"}}],"는 사용자가 이미지를 선택할 수 있도록 하기 위한 별도의 SwiftUI View입니다. 이를 만들기 위해서는 새로운 Swift 파일을 생성하고 다음과 같은 코드를 작성합니다."]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":73,"column":1,"offset":2268},"end":{"line":110,"column":4,"offset":3397}}},"children":"$11"}}]}],"\n",["$","h2",null,{"id":"0bd7f9dd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"이미지 크기 조정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이미지의 크기를 조정하는 것은 필터를 적용하는 것보다 더 간단합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIImage","position":{"start":{"line":114,"column":40,"offset":3452},"end":{"line":114,"column":49,"offset":3461}}}],"position":{"start":{"line":114,"column":40,"offset":3452},"end":{"line":114,"column":49,"offset":3461}}},"children":"UIImage"}}],"의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"resizable()","position":{"start":{"line":114,"column":51,"offset":3463},"end":{"line":114,"column":64,"offset":3476}}}],"position":{"start":{"line":114,"column":51,"offset":3463},"end":{"line":114,"column":64,"offset":3476}}},"children":"resizable()"}}]," 메서드를 사용하여 크기를 조정할 수 있습니다. 다음은 SwiftUI View에서 이미지를 크기 조정하는 예제입니다."]}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"struct ImageResizerView: View {\n    @State private var imageSize: CGSize = CGSize(width: 100, height: 100)\n    var image: UIImage\n    \n    var body: some View {\n        VStack {\n            Image(uiImage: image)\n                .resizable()\n                .frame(width: imageSize.width, height: imageSize.height)\n                .aspectRatio(contentMode: .fit)\n                .clipped()\n\n            Slider(value: $imageSize.width, in: 50...300, step: 1) {\n                Text(\"Width\")\n            }\n            Slider(value: $imageSize.height, in: 50...300, step: 1) {\n                Text(\"Height\")\n            }\n        }\n    }\n}\n"}],"position":{"start":{"line":116,"column":1,"offset":3543},"end":{"line":138,"column":4,"offset":4191}}},"children":"struct ImageResizerView: View {\n    @State private var imageSize: CGSize = CGSize(width: 100, height: 100)\n    var image: UIImage\n    \n    var body: some View {\n        VStack {\n            Image(uiImage: image)\n                .resizable()\n                .frame(width: imageSize.width, height: imageSize.height)\n                .aspectRatio(contentMode: .fit)\n                .clipped()\n\n            Slider(value: $imageSize.width, in: 50...300, step: 1) {\n                Text(\"Width\")\n            }\n            Slider(value: $imageSize.height, in: 50...300, step: 1) {\n                Text(\"Height\")\n            }\n        }\n    }\n}\n"}}]}],"\n",["$","h2",null,{"id":"d7c28c0a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"이미지 자르기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이미지를 자르는 작업은 Core Image로 구성할 수 있지만, 인터페이스 측면에서는 약간 더 복잡합니다. 이미지의 특정 영역을 선택하고 자르기를 수행하는 기능을 추가할 수 있습니다."}],"\n",["$","pre","pre-4",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"struct ImageCropperView: View {\n    @State private var cropRect: CGRect = CGRect(x: 0, y: 0, width: 100, height: 100)\n    var image: UIImage\n    \n    var body: some View {\n        VStack {\n            GeometryReader { geometry in\n                Image(uiImage: image)\n                    .resizable()\n                    .scaledToFit()\n                    .overlay(Rectangle().stroke(Color.red, lineWidth: 2).frame(width: cropRect.width, height: cropRect.height).position(x: cropRect.midX, y: cropRect.midY))\n            }\n\n            Button(action: cropImage) {\n                Text(\"Crop Image\")\n            }\n        }\n    }\n\n    func cropImage() {\n        guard let cgImage = image.cgImage?.cropping(to: cropRect) else { return }\n        let croppedUIImage = UIImage(cgImage: cgImage)\n        // Use cropped UIImage as needed.\n    }\n}\n"}],"position":{"start":{"line":144,"column":1,"offset":4309},"end":{"line":170,"column":4,"offset":5161}}},"children":"struct ImageCropperView: View {\n    @State private var cropRect: CGRect = CGRect(x: 0, y: 0, width: 100, height: 100)\n    var image: UIImage\n    \n    var body: some View {\n        VStack {\n            GeometryReader { geometry in\n                Image(uiImage: image)\n                    .resizable()\n                    .scaledToFit()\n                    .overlay(Rectangle().stroke(Color.red, lineWidth: 2).frame(width: cropRect.width, height: cropRect.height).position(x: cropRect.midX, y: cropRect.midY))\n            }\n\n            Button(action: cropImage) {\n                Text(\"Crop Image\")\n            }\n        }\n    }\n\n    func cropImage() {\n        guard let cgImage = image.cgImage?.cropping(to: cropRect) else { return }\n        let croppedUIImage = UIImage(cgImage: cgImage)\n        // Use cropped UIImage as needed.\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위 코드는 선택한 이미지의 특정 영역에 빨간색 사각형을 오버레이하고 자르기 기능을 제공합니다. 버튼을 클릭하면 설정된 영역이 잘라집니다."}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI를 사용하면 이미지 편집 기능을 구현하는 것이 상대적으로 간단해집니다. 이 글에서는 이미지 필터 적용, 크기 조정, 자르기 등을 다루었습니다. 이를 통해 SwiftUI의 선언적 UI의 힘을 활용하여 복잡한 이미지 편집 기능을 효율적으로 구현할 수 있습니다. 추가적인 이미지 편집 기능을 적용하려면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Core Image","position":{"start":{"line":176,"column":174,"offset":5421},"end":{"line":176,"column":186,"offset":5433}}}],"position":{"start":{"line":176,"column":174,"offset":5421},"end":{"line":176,"column":186,"offset":5433}}},"children":"Core Image"}}],"의 다양한 필터와 변환 기능을 살펴보는 것이 좋습니다."]}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"SwiftUI에서 이미지 편집 기능 구현하기","toc":[{"tagName":"h1","title":"SwiftUI에서 이미지 편집 기능 구현하기","id":"680edf8e"},{"tagName":"h2","title":"프로젝트 설정","id":"35ce895d"},{"tagName":"h3","title":"필요한 라이브러리 추가","id":"bf3ab403"},{"tagName":"h2","title":"기본 구조 설정하기","id":"b4e32a6c"},{"tagName":"h2","title":"이미지 크기 조정","id":"0bd7f9dd"},{"tagName":"h2","title":"이미지 자르기","id":"d7c28c0a"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

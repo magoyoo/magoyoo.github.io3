@@ -1,0 +1,385 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["algorithm",{"children":[["slug","swift%2B%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%2B%EC%86%8C%EA%B0%9C","d"],{"children":["__PAGE__?{\"slug\":\"swift+이진탐색+소개\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children",["slug","swift%2B%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%2B%EC%86%8C%EA%B0%9C","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"swift+이진탐색+소개\"}"},"styles":[]}],"segment":["slug","swift%2B%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%2B%EC%86%8C%EA%B0%9C","d"]},"styles":[]}],"segment":"algorithm"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"[Swift + Algorithm] 이진탐색이란? | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다."}],["$","meta","3",{"name":"keywords","content":"coding test,알고리즘,코딩테스트,algorithm"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/algorithm/swift+%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89+%EC%86%8C%EA%B0%9C"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"[Swift + Algorithm] 이진탐색이란? | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"[Swift + Algorithm] 이진탐색이란? | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/algorithm/swift+%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89+%EC%86%8C%EA%B0%9C"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"[Swift + Algorithm] 이진탐색이란? | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+13:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+14:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+f:T1239,
+# 이진탐색이란 ?
+
+---
+
+이진 탐색은 **이미 정렬된 리스트**에서 원하는 값을 찾는 데에 사용되는 검색 알고리즘입니다. 이진 탐색은 divide-and-conquer(분할 정복) 전략을 사용하여 리스트를 반으로 나누고, 찾고자 하는 값과 중간값을 비교하여 해당 값이 중간값보다 작으면 왼쪽 반에서 탐색을 계속하고, 크면 오른쪽 반에서 탐색을 계속합니다. 이러한 과정을 반복하면서 원하는 값이 나올 때까지 계속 반으로 나누어 찾아가는 것입니다.
+
+이진 탐색은 최악의 경우에도 O(log n)의 시간 복잡도를 가지므로 매우 효율적인 검색 알고리즘 중 하나입니다. 하지만 리스트가 정렬되어 있어야 하고, 새로운 값을 추가할 때마다 리스트를 다시 정렬해야 하므로 삽입/삭제 연산에는 적합하지 않습니다.
+
+# 이진 탐색 코드 구현(Swift)
+
+---
+
+```swift
+func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {
+    var lowerBound = 0
+    var upperBound = array.count - 1
+
+    while lowerBound <= upperBound {
+        let midIndex = (lowerBound + upperBound) / 2
+        let midValue = array[midIndex]
+
+        if midValue == key {
+            return midIndex
+        } else if midValue < key {
+            lowerBound = midIndex + 1
+        } else {
+            upperBound = midIndex - 1
+        }
+    }
+
+    return nil
+}
+```
+
+위 코드에서는 제네릭(Generic)을 사용하여 모든 타입의 배열에서 이진 탐색을 할 수 있도록 구현하였습니다. 함수의 인자로는 배열과 찾고자 하는 값이 들어갑니다. 함수 내부에서는 lowerBound와 upperBound 변수를 사용하여 검색 범위를 설정하고, while 루프를 통해 중간값을 계속해서 찾아가며 탐색을 진행합니다. 찾고자 하는 값과 중간값을 비교하여 검색 범위를 좁혀나가다가, 원하는 값이 나올 경우 해당 인덱스를 반환하고, 값이 없을 경우 nil을 반환합니다.
+
+> 참고
+>
+> ["Comparable Protocol 이란 ?"](https://magomercy.com/swift/comparable+protocol) 글 참고
+>
+> 비교가 가능한 protocol이며 대표적으로 아래의 type들이 Comparable protocol을 준수하고 있습니다.
+>
+> - Int, UInt, Double, Float, CGFloat
+> - String, Character
+
+# 재귀함수로 작성
+
+---
+
+아래 함수는 그래프의 인접 리스트와 시작 노드를 인자로 받아, BFS를 수행하고 방문한 노드를 출력합니다.
+
+```swift
+func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {
+    if range.lowerBound >= range.upperBound {
+        return nil
+    } else {
+        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2
+        if array[midIndex] > key {
+            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)
+        } else if array[midIndex] < key {
+            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)
+        } else {
+            return midIndex
+        }
+    }
+}
+```
+
+# 이진 탐색으로 풀 수 있는 문제.
+
+---
+
+1. 특정 값의 존재 여부를 확인하는 문제: 이진 탐색은 정렬된 배열에서 특정 값의 위치를 빠르게 찾아내므로, 배열에 특정 값이 존재하는지 여부를 빠르게 확인할 수 있습니다.
+
+2. 가장 가까운 값 찾기 문제: 이진 탐색을 이용하여 특정 값과 가장 가까운 값의 위치를 찾을 수 있습니다.
+
+3. 범위 검색 문제: 이진 탐색을 이용하여 배열에서 특정 범위에 속하는 값들을 빠르게 찾을 수 있습니다.
+
+4. 최대, 최소 값 찾기 문제: 이진 탐색을 이용하여 배열에서 최대값과 최소값을 빠르게 찾을 수 있습니다.
+
+5. 자신이 원하는 값을 찾을 때까지 탐색하는 문제: 이진 탐색은 자신이 원하는 값을 찾을 때까지 반복적으로 탐색을 수행하는데, 이러한 방식은 이진 탐색을 이용한 다양한 문제에서 유용하게 활용됩니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+10:T1239,
+# 이진탐색이란 ?
+
+---
+
+이진 탐색은 **이미 정렬된 리스트**에서 원하는 값을 찾는 데에 사용되는 검색 알고리즘입니다. 이진 탐색은 divide-and-conquer(분할 정복) 전략을 사용하여 리스트를 반으로 나누고, 찾고자 하는 값과 중간값을 비교하여 해당 값이 중간값보다 작으면 왼쪽 반에서 탐색을 계속하고, 크면 오른쪽 반에서 탐색을 계속합니다. 이러한 과정을 반복하면서 원하는 값이 나올 때까지 계속 반으로 나누어 찾아가는 것입니다.
+
+이진 탐색은 최악의 경우에도 O(log n)의 시간 복잡도를 가지므로 매우 효율적인 검색 알고리즘 중 하나입니다. 하지만 리스트가 정렬되어 있어야 하고, 새로운 값을 추가할 때마다 리스트를 다시 정렬해야 하므로 삽입/삭제 연산에는 적합하지 않습니다.
+
+# 이진 탐색 코드 구현(Swift)
+
+---
+
+```swift
+func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {
+    var lowerBound = 0
+    var upperBound = array.count - 1
+
+    while lowerBound <= upperBound {
+        let midIndex = (lowerBound + upperBound) / 2
+        let midValue = array[midIndex]
+
+        if midValue == key {
+            return midIndex
+        } else if midValue < key {
+            lowerBound = midIndex + 1
+        } else {
+            upperBound = midIndex - 1
+        }
+    }
+
+    return nil
+}
+```
+
+위 코드에서는 제네릭(Generic)을 사용하여 모든 타입의 배열에서 이진 탐색을 할 수 있도록 구현하였습니다. 함수의 인자로는 배열과 찾고자 하는 값이 들어갑니다. 함수 내부에서는 lowerBound와 upperBound 변수를 사용하여 검색 범위를 설정하고, while 루프를 통해 중간값을 계속해서 찾아가며 탐색을 진행합니다. 찾고자 하는 값과 중간값을 비교하여 검색 범위를 좁혀나가다가, 원하는 값이 나올 경우 해당 인덱스를 반환하고, 값이 없을 경우 nil을 반환합니다.
+
+> 참고
+>
+> ["Comparable Protocol 이란 ?"](https://magomercy.com/swift/comparable+protocol) 글 참고
+>
+> 비교가 가능한 protocol이며 대표적으로 아래의 type들이 Comparable protocol을 준수하고 있습니다.
+>
+> - Int, UInt, Double, Float, CGFloat
+> - String, Character
+
+# 재귀함수로 작성
+
+---
+
+아래 함수는 그래프의 인접 리스트와 시작 노드를 인자로 받아, BFS를 수행하고 방문한 노드를 출력합니다.
+
+```swift
+func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {
+    if range.lowerBound >= range.upperBound {
+        return nil
+    } else {
+        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2
+        if array[midIndex] > key {
+            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)
+        } else if array[midIndex] < key {
+            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)
+        } else {
+            return midIndex
+        }
+    }
+}
+```
+
+# 이진 탐색으로 풀 수 있는 문제.
+
+---
+
+1. 특정 값의 존재 여부를 확인하는 문제: 이진 탐색은 정렬된 배열에서 특정 값의 위치를 빠르게 찾아내므로, 배열에 특정 값이 존재하는지 여부를 빠르게 확인할 수 있습니다.
+
+2. 가장 가까운 값 찾기 문제: 이진 탐색을 이용하여 특정 값과 가장 가까운 값의 위치를 찾을 수 있습니다.
+
+3. 범위 검색 문제: 이진 탐색을 이용하여 배열에서 특정 범위에 속하는 값들을 빠르게 찾을 수 있습니다.
+
+4. 최대, 최소 값 찾기 문제: 이진 탐색을 이용하여 배열에서 최대값과 최소값을 빠르게 찾을 수 있습니다.
+
+5. 자신이 원하는 값을 찾을 때까지 탐색하는 문제: 이진 탐색은 자신이 원하는 값을 찾을 때까지 반복적으로 탐색을 수행하는데, 이러한 방식은 이진 탐색을 이용한 다양한 문제에서 유용하게 활용됩니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+11:T1239,
+# 이진탐색이란 ?
+
+---
+
+이진 탐색은 **이미 정렬된 리스트**에서 원하는 값을 찾는 데에 사용되는 검색 알고리즘입니다. 이진 탐색은 divide-and-conquer(분할 정복) 전략을 사용하여 리스트를 반으로 나누고, 찾고자 하는 값과 중간값을 비교하여 해당 값이 중간값보다 작으면 왼쪽 반에서 탐색을 계속하고, 크면 오른쪽 반에서 탐색을 계속합니다. 이러한 과정을 반복하면서 원하는 값이 나올 때까지 계속 반으로 나누어 찾아가는 것입니다.
+
+이진 탐색은 최악의 경우에도 O(log n)의 시간 복잡도를 가지므로 매우 효율적인 검색 알고리즘 중 하나입니다. 하지만 리스트가 정렬되어 있어야 하고, 새로운 값을 추가할 때마다 리스트를 다시 정렬해야 하므로 삽입/삭제 연산에는 적합하지 않습니다.
+
+# 이진 탐색 코드 구현(Swift)
+
+---
+
+```swift
+func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {
+    var lowerBound = 0
+    var upperBound = array.count - 1
+
+    while lowerBound <= upperBound {
+        let midIndex = (lowerBound + upperBound) / 2
+        let midValue = array[midIndex]
+
+        if midValue == key {
+            return midIndex
+        } else if midValue < key {
+            lowerBound = midIndex + 1
+        } else {
+            upperBound = midIndex - 1
+        }
+    }
+
+    return nil
+}
+```
+
+위 코드에서는 제네릭(Generic)을 사용하여 모든 타입의 배열에서 이진 탐색을 할 수 있도록 구현하였습니다. 함수의 인자로는 배열과 찾고자 하는 값이 들어갑니다. 함수 내부에서는 lowerBound와 upperBound 변수를 사용하여 검색 범위를 설정하고, while 루프를 통해 중간값을 계속해서 찾아가며 탐색을 진행합니다. 찾고자 하는 값과 중간값을 비교하여 검색 범위를 좁혀나가다가, 원하는 값이 나올 경우 해당 인덱스를 반환하고, 값이 없을 경우 nil을 반환합니다.
+
+> 참고
+>
+> ["Comparable Protocol 이란 ?"](https://magomercy.com/swift/comparable+protocol) 글 참고
+>
+> 비교가 가능한 protocol이며 대표적으로 아래의 type들이 Comparable protocol을 준수하고 있습니다.
+>
+> - Int, UInt, Double, Float, CGFloat
+> - String, Character
+
+# 재귀함수로 작성
+
+---
+
+아래 함수는 그래프의 인접 리스트와 시작 노드를 인자로 받아, BFS를 수행하고 방문한 노드를 출력합니다.
+
+```swift
+func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {
+    if range.lowerBound >= range.upperBound {
+        return nil
+    } else {
+        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2
+        if array[midIndex] > key {
+            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)
+        } else if array[midIndex] < key {
+            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)
+        } else {
+            return midIndex
+        }
+    }
+}
+```
+
+# 이진 탐색으로 풀 수 있는 문제.
+
+---
+
+1. 특정 값의 존재 여부를 확인하는 문제: 이진 탐색은 정렬된 배열에서 특정 값의 위치를 빠르게 찾아내므로, 배열에 특정 값이 존재하는지 여부를 빠르게 확인할 수 있습니다.
+
+2. 가장 가까운 값 찾기 문제: 이진 탐색을 이용하여 특정 값과 가장 가까운 값의 위치를 찾을 수 있습니다.
+
+3. 범위 검색 문제: 이진 탐색을 이용하여 배열에서 특정 범위에 속하는 값들을 빠르게 찾을 수 있습니다.
+
+4. 최대, 최소 값 찾기 문제: 이진 탐색을 이용하여 배열에서 최대값과 최소값을 빠르게 찾을 수 있습니다.
+
+5. 자신이 원하는 값을 찾을 때까지 탐색하는 문제: 이진 탐색은 자신이 원하는 값을 찾을 때까지 반복적으로 탐색을 수행하는데, 이러한 방식은 이진 탐색을 이용한 다양한 문제에서 유용하게 활용됩니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+12:T1239,
+# 이진탐색이란 ?
+
+---
+
+이진 탐색은 **이미 정렬된 리스트**에서 원하는 값을 찾는 데에 사용되는 검색 알고리즘입니다. 이진 탐색은 divide-and-conquer(분할 정복) 전략을 사용하여 리스트를 반으로 나누고, 찾고자 하는 값과 중간값을 비교하여 해당 값이 중간값보다 작으면 왼쪽 반에서 탐색을 계속하고, 크면 오른쪽 반에서 탐색을 계속합니다. 이러한 과정을 반복하면서 원하는 값이 나올 때까지 계속 반으로 나누어 찾아가는 것입니다.
+
+이진 탐색은 최악의 경우에도 O(log n)의 시간 복잡도를 가지므로 매우 효율적인 검색 알고리즘 중 하나입니다. 하지만 리스트가 정렬되어 있어야 하고, 새로운 값을 추가할 때마다 리스트를 다시 정렬해야 하므로 삽입/삭제 연산에는 적합하지 않습니다.
+
+# 이진 탐색 코드 구현(Swift)
+
+---
+
+```swift
+func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {
+    var lowerBound = 0
+    var upperBound = array.count - 1
+
+    while lowerBound <= upperBound {
+        let midIndex = (lowerBound + upperBound) / 2
+        let midValue = array[midIndex]
+
+        if midValue == key {
+            return midIndex
+        } else if midValue < key {
+            lowerBound = midIndex + 1
+        } else {
+            upperBound = midIndex - 1
+        }
+    }
+
+    return nil
+}
+```
+
+위 코드에서는 제네릭(Generic)을 사용하여 모든 타입의 배열에서 이진 탐색을 할 수 있도록 구현하였습니다. 함수의 인자로는 배열과 찾고자 하는 값이 들어갑니다. 함수 내부에서는 lowerBound와 upperBound 변수를 사용하여 검색 범위를 설정하고, while 루프를 통해 중간값을 계속해서 찾아가며 탐색을 진행합니다. 찾고자 하는 값과 중간값을 비교하여 검색 범위를 좁혀나가다가, 원하는 값이 나올 경우 해당 인덱스를 반환하고, 값이 없을 경우 nil을 반환합니다.
+
+> 참고
+>
+> ["Comparable Protocol 이란 ?"](https://magomercy.com/swift/comparable+protocol) 글 참고
+>
+> 비교가 가능한 protocol이며 대표적으로 아래의 type들이 Comparable protocol을 준수하고 있습니다.
+>
+> - Int, UInt, Double, Float, CGFloat
+> - String, Character
+
+# 재귀함수로 작성
+
+---
+
+아래 함수는 그래프의 인접 리스트와 시작 노드를 인자로 받아, BFS를 수행하고 방문한 노드를 출력합니다.
+
+```swift
+func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {
+    if range.lowerBound >= range.upperBound {
+        return nil
+    } else {
+        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2
+        if array[midIndex] > key {
+            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)
+        } else if array[midIndex] < key {
+            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)
+        } else {
+            return midIndex
+        }
+    }
+}
+```
+
+# 이진 탐색으로 풀 수 있는 문제.
+
+---
+
+1. 특정 값의 존재 여부를 확인하는 문제: 이진 탐색은 정렬된 배열에서 특정 값의 위치를 빠르게 찾아내므로, 배열에 특정 값이 존재하는지 여부를 빠르게 확인할 수 있습니다.
+
+2. 가장 가까운 값 찾기 문제: 이진 탐색을 이용하여 특정 값과 가장 가까운 값의 위치를 찾을 수 있습니다.
+
+3. 범위 검색 문제: 이진 탐색을 이용하여 배열에서 특정 범위에 속하는 값들을 빠르게 찾을 수 있습니다.
+
+4. 최대, 최소 값 찾기 문제: 이진 탐색을 이용하여 배열에서 최대값과 최소값을 빠르게 찾을 수 있습니다.
+
+5. 자신이 원하는 값을 찾을 때까지 탐색하는 문제: 이진 탐색은 자신이 원하는 값을 찾을 때까지 반복적으로 탐색을 수행하는데, 이러한 방식은 이진 탐색을 이용한 다양한 문제에서 유용하게 활용됩니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/algorithmImg.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"[Swift + Algorithm] 이진탐색이란?"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"[Swift + Algorithm] 이진탐색이란?"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2023-04-07"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"7c2bffa9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"이진탐색이란 ?"}],"\n",["$","hr","hr-0",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이진 탐색은 ",["$","strong",null,{"className":"font-black","children":"이미 정렬된 리스트"}],"에서 원하는 값을 찾는 데에 사용되는 검색 알고리즘입니다. 이진 탐색은 divide-and-conquer(분할 정복) 전략을 사용하여 리스트를 반으로 나누고, 찾고자 하는 값과 중간값을 비교하여 해당 값이 중간값보다 작으면 왼쪽 반에서 탐색을 계속하고, 크면 오른쪽 반에서 탐색을 계속합니다. 이러한 과정을 반복하면서 원하는 값이 나올 때까지 계속 반으로 나누어 찾아가는 것입니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이진 탐색은 최악의 경우에도 O(log n)의 시간 복잡도를 가지므로 매우 효율적인 검색 알고리즘 중 하나입니다. 하지만 리스트가 정렬되어 있어야 하고, 새로운 값을 추가할 때마다 리스트를 다시 정렬해야 하므로 삽입/삭제 연산에는 적합하지 않습니다."}],"\n",["$","h1",null,{"id":"ad63eddb","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"이진 탐색 코드 구현(Swift)"}],"\n",["$","hr","hr-1",{}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {\n    var lowerBound = 0\n    var upperBound = array.count - 1\n\n    while lowerBound <= upperBound {\n        let midIndex = (lowerBound + upperBound) / 2\n        let midValue = array[midIndex]\n\n        if midValue == key {\n            return midIndex\n        } else if midValue < key {\n            lowerBound = midIndex + 1\n        } else {\n            upperBound = midIndex - 1\n        }\n    }\n\n    return nil\n}\n"}],"position":{"start":{"line":14,"column":1,"offset":422},"end":{"line":34,"column":4,"offset":909}}},"children":"func binarySearch<T: Comparable>(_ array: [T], key: T) -> Int? {\n    var lowerBound = 0\n    var upperBound = array.count - 1\n\n    while lowerBound <= upperBound {\n        let midIndex = (lowerBound + upperBound) / 2\n        let midValue = array[midIndex]\n\n        if midValue == key {\n            return midIndex\n        } else if midValue < key {\n            lowerBound = midIndex + 1\n        } else {\n            upperBound = midIndex - 1\n        }\n    }\n\n    return nil\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위 코드에서는 제네릭(Generic)을 사용하여 모든 타입의 배열에서 이진 탐색을 할 수 있도록 구현하였습니다. 함수의 인자로는 배열과 찾고자 하는 값이 들어갑니다. 함수 내부에서는 lowerBound와 upperBound 변수를 사용하여 검색 범위를 설정하고, while 루프를 통해 중간값을 계속해서 찾아가며 탐색을 진행합니다. 찾고자 하는 값과 중간값을 비교하여 검색 범위를 좁혀나가다가, 원하는 값이 나올 경우 해당 인덱스를 반환하고, 값이 없을 경우 nil을 반환합니다."}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"참고"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Le",null,{"props":{"href":"https://magomercy.com/swift/comparable+protocol","node":{"type":"element","tagName":"a","properties":{"href":"https://magomercy.com/swift/comparable+protocol"},"children":[{"type":"text","value":"\"Comparable Protocol 이란 ?\"","position":{"start":{"line":40,"column":4,"offset":1191},"end":{"line":40,"column":30,"offset":1217}}}],"position":{"start":{"line":40,"column":3,"offset":1190},"end":{"line":40,"column":80,"offset":1267}}},"children":"\"Comparable Protocol 이란 ?\""},"post":{"title":"[Swift + Algorithm] 이진탐색이란?","description":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다.","date":"2023-04-07T22:53:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"}],"author":"마고유","banner":"/images/algorithmImg.jpg","project":"coding test","readMin":"4.4","totalCnt":-1,"monthlyCnt":0,"weeklyCnt":0,"slug":"swift+이진탐색+소개","content":"$f","category":"algorithm"},"language":"kr"}]," 글 참고"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"비교가 가능한 protocol이며 대표적으로 아래의 type들이 Comparable protocol을 준수하고 있습니다."}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"Int, UInt, Double, Float, CGFloat"}],"\n",["$","li","li-1",{"children":"String, Character"}],"\n"]}],"\n"]}],"\n",["$","h1",null,{"id":"19ceabdb","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"재귀함수로 작성"}],"\n",["$","hr","hr-2",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아래 함수는 그래프의 인접 리스트와 시작 노드를 인자로 받아, BFS를 수행하고 방문한 노드를 출력합니다."}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {\n    if range.lowerBound >= range.upperBound {\n        return nil\n    } else {\n        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2\n        if array[midIndex] > key {\n            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)\n        } else if array[midIndex] < key {\n            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)\n        } else {\n            return midIndex\n        }\n    }\n}\n"}],"position":{"start":{"line":53,"column":1,"offset":1486},"end":{"line":68,"column":4,"offset":2057}}},"children":"func binarySearch2<T: Comparable>(_ array: [T], key: T, range: Range<Int>) -> Int? {\n    if range.lowerBound >= range.upperBound {\n        return nil\n    } else {\n        let midIndex = range.lowerBound + (range.upperBound - range.lowerBound) / 2\n        if array[midIndex] > key {\n            return binarySearch(array, key: key, range: range.lowerBound..<midIndex)\n        } else if array[midIndex] < key {\n            return binarySearch(array, key: key, range: midIndex+1..<range.upperBound)\n        } else {\n            return midIndex\n        }\n    }\n}\n"}}]}],"\n",["$","h1",null,{"id":"138bd97d","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"이진 탐색으로 풀 수 있는 문제."}],"\n",["$","hr","hr-3",{}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"특정 값의 존재 여부를 확인하는 문제: 이진 탐색은 정렬된 배열에서 특정 값의 위치를 빠르게 찾아내므로, 배열에 특정 값이 존재하는지 여부를 빠르게 확인할 수 있습니다."}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"가장 가까운 값 찾기 문제: 이진 탐색을 이용하여 특정 값과 가장 가까운 값의 위치를 찾을 수 있습니다."}],"\n"]}],"\n",["$","li","li-2",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"범위 검색 문제: 이진 탐색을 이용하여 배열에서 특정 범위에 속하는 값들을 빠르게 찾을 수 있습니다."}],"\n"]}],"\n",["$","li","li-3",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"최대, 최소 값 찾기 문제: 이진 탐색을 이용하여 배열에서 최대값과 최소값을 빠르게 찾을 수 있습니다."}],"\n"]}],"\n",["$","li","li-4",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"자신이 원하는 값을 찾을 때까지 탐색하는 문제: 이진 탐색은 자신이 원하는 값을 찾을 때까지 반복적으로 탐색을 수행하는데, 이러한 방식은 이진 탐색을 이용한 다양한 문제에서 유용하게 활용됩니다."}],"\n"]}],"\n"]}],"\n",["$","h1",null,{"id":"155ee9d9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"기타 및 참고 자료"}],"\n",["$","hr","hr-4",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다."}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["$","$Le",null,{"props":{"href":"https://programmers.co.kr/","node":{"type":"element","tagName":"a","properties":{"href":"https://programmers.co.kr/"},"children":[{"type":"text","value":"\"프로그래머스\"","position":{"start":{"line":90,"column":4,"offset":2537},"end":{"line":90,"column":12,"offset":2545}}}],"position":{"start":{"line":90,"column":3,"offset":2536},"end":{"line":90,"column":41,"offset":2574}}},"children":"\"프로그래머스\""},"post":{"title":"[Swift + Algorithm] 이진탐색이란?","description":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다.","date":"2023-04-07T22:53:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"}],"author":"마고유","banner":"/images/algorithmImg.jpg","project":"coding test","readMin":"4.4","totalCnt":-1,"monthlyCnt":0,"weeklyCnt":0,"slug":"swift+이진탐색+소개","content":"$10","category":"algorithm"},"language":"kr"}]}],"\n",["$","li","li-1",{"children":["$","$Le",null,{"props":{"href":"https://www.acmicpc.net/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.acmicpc.net/"},"children":[{"type":"text","value":"\"백준\"","position":{"start":{"line":91,"column":4,"offset":2578},"end":{"line":91,"column":8,"offset":2582}}}],"position":{"start":{"line":91,"column":3,"offset":2577},"end":{"line":91,"column":35,"offset":2609}}},"children":"\"백준\""},"post":{"title":"[Swift + Algorithm] 이진탐색이란?","description":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다.","date":"2023-04-07T22:53:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"}],"author":"마고유","banner":"/images/algorithmImg.jpg","project":"coding test","readMin":"4.4","totalCnt":-1,"monthlyCnt":0,"weeklyCnt":0,"slug":"swift+이진탐색+소개","content":"$11","category":"algorithm"},"language":"kr"}]}],"\n",["$","li","li-2",{"children":["$","$Le",null,{"props":{"href":"https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB","node":{"type":"element","tagName":"a","properties":{"href":"https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB"},"children":[{"type":"text","value":"\"이것이 취업을 위한 코딩테스트다\"","position":{"start":{"line":92,"column":4,"offset":2613},"end":{"line":92,"column":23,"offset":2632}}}],"position":{"start":{"line":92,"column":3,"offset":2612},"end":{"line":92,"column":361,"offset":2970}}},"children":"\"이것이 취업을 위한 코딩테스트다\""},"post":{"title":"[Swift + Algorithm] 이진탐색이란?","description":"이진탐색에 대해 알아보고 Swift로 이진탐색 코드를 구현해 봅니다.","date":"2023-04-07T22:53:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"}],"author":"마고유","banner":"/images/algorithmImg.jpg","project":"coding test","readMin":"4.4","totalCnt":-1,"monthlyCnt":0,"weeklyCnt":0,"slug":"swift+이진탐색+소개","content":"$12","category":"algorithm"},"language":"kr"}]}],"\n"]}]]}]}],["$","$L13",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L14",null,{"articleTitle":"[Swift + Algorithm] 이진탐색이란?","toc":[{"tagName":"h1","title":"이진탐색이란 ?","id":"7c2bffa9"},{"tagName":"h1","title":"이진 탐색 코드 구현(Swift)","id":"ad63eddb"},{"tagName":"h1","title":"재귀함수로 작성","id":"19ceabdb"},{"tagName":"h1","title":"이진 탐색으로 풀 수 있는 문제.","id":"138bd97d"},{"tagName":"h1","title":"기타 및 참고 자료","id":"155ee9d9"}],"language":"kr"}]}]]}]]
+8:null

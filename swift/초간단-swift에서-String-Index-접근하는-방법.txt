@@ -1,0 +1,287 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","%EC%B4%88%EA%B0%84%EB%8B%A8-swift%EC%97%90%EC%84%9C-String-Index-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],{"children":["__PAGE__?{\"slug\":\"초간단-swift에서-String-Index-접근하는-방법\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","%EC%B4%88%EA%B0%84%EB%8B%A8-swift%EC%97%90%EC%84%9C-String-Index-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"초간단-swift에서-String-Index-접근하는-방법\"}"},"styles":[]}],"segment":["slug","%EC%B4%88%EA%B0%84%EB%8B%A8-swift%EC%97%90%EC%84%9C-String-Index-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"초간단 Swift에서 String Index 접근하는 방법 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","3",{"name":"keywords","content":"swift,기본문법"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/%EC%B4%88%EA%B0%84%EB%8B%A8-swift%EC%97%90%EC%84%9C-String-Index-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"초간단 Swift에서 String Index 접근하는 방법 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"초간단 Swift에서 String Index 접근하는 방법 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/%EC%B4%88%EA%B0%84%EB%8B%A8-swift%EC%97%90%EC%84%9C-String-Index-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"초간단 Swift에서 String Index 접근하는 방법 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:Tfe9,
+## Swift에서 String Index 접근하는 방법
+
+Swift에서 문자열은 다양한 문자와 인코딩을 효율적으로 처리할 수 있도록 설계된 복잡한 구조체입니다. 많은 다른 언어와 달리, Swift는 정수 인덱스를 사용하여 문자에 직접 접근하는 대신, `String.Index`를 사용합니다. 이 방법은 특히 이모지나 악센트가 있는 문자와 같은 멀티 바이트 문자를 다룰 때 안전하고 정확한 문자열 조작을 보장합니다.
+
+## String.Index 이해하기
+
+`String.Index`는 문자열 내의 위치를 나타내며, 이를 통해 정확한 탐색과 조작이 가능합니다. Swift 문자열은 UTF-8로 인코딩된 문자들의 컬렉션으로, 문자 길이가 다양할 수 있습니다. 따라서 단순한 정수 인덱스는 특정 문자 위치와 일치하지 않을 수 있어 `String.Index`가 필수적입니다.
+
+### 문자열 인덱스 생성 및 사용
+
+1. **기본 인덱스 생성**:
+
+   ```swift
+   let string = "Hello, Swift!"
+   let startIndex = string.startIndex
+   let endIndex = string.endIndex
+   let specificIndex = string.index(startIndex, offsetBy: 7)
+   print(string[specificIndex]) // 출력: S
+   ```
+
+2. **인덱스 메서드 사용**:
+   - `index(after:)`: 한 위치 앞으로 이동합니다.
+     ```swift
+     let nextIndex = string.index(after: startIndex)
+     print(string[nextIndex]) // 출력: e
+     ```
+   - `index(before:)`: 한 위치 뒤로 이동합니다.
+     ```swift
+     let prevIndex = string.index(before: endIndex)
+     print(string[prevIndex]) // 출력: t
+     ```
+   - `index(_:offsetBy:)`: 지정된 오프셋만큼 이동합니다.
+     ```swift
+     let offsetIndex = string.index(startIndex, offsetBy: 5)
+     print(string[offsetIndex]) // 출력: ,
+     ```
+
+### 서브스트링 처리
+
+Swift는 `String.Index` 범위를 사용하여 서브스트링을 처리하는 강력한 방법을 제공합니다.
+
+1. **범위를 사용한 서브스트링 추출**:
+
+   ```swift
+   let range = startIndex..<specificIndex
+   let substring = string[range]
+   print(substring) // 출력: Hello,
+   ```
+
+2. **서브스트링 타입 사용**:
+   Swift의 서브스트링은 `Substring`의 인스턴스로, 원본 문자열의 내용을 복사하지 않고 볼 수 있어 효율적입니다.
+   ```swift
+   let substring = string[string.startIndex..<string.index(string.startIndex, offsetBy: 5)]
+   print(substring) // 출력: Hello
+   ```
+
+### 고급 문자열 조작
+
+1. **공백 제거 및 패딩**:
+
+   ```swift
+   let paddedString = "Swift".padding(toLength: 10, withPad: "-", startingAt: 0)
+   print(paddedString) // 출력: Swift-----
+   let trimmedString = "   Swift   ".trimmingCharacters(in: .whitespaces)
+   print(trimmedString) // 출력: Swift
+   ```
+
+2. **서브스트링 교체**:
+
+   ```swift
+   let replacedString = string.replacingOccurrences(of: "Swift", with: "World")
+   print(replacedString) // 출력: Hello, World!
+   ```
+
+3. **문자열 변환**:
+   ```swift
+   let uppercaseString = string.uppercased()
+   print(uppercaseString) // 출력: HELLO, SWIFT!
+   ```
+
+### 성능 고려 사항
+
+Swift의 효율적인 문자열 및 서브스트링 처리 덕분에 여러 문자열 작업을 수행하는 것이 일반적으로 성능에 영향을 미치지 않습니다. 하지만 서브스트링을 문자열로 변환해야 할 때가 종종 있으며, 이 작업을 과도하게 하면 오버헤드가 발생할 수 있으므로 주의해야 합니다.
+
+### 결론
+
+Swift의 `String.Index`는 현대의 복잡한 텍스트 데이터를 처리할 때 안전하고 강력한 문자열 조작 방법을 제공합니다. 이러한 도구를 이해하고 활용함으로써 Swift 코드를 견고하고 효율적으로 작성할 수 있습니다.
+
+더 자세한 내용은 [Apple Developer Documentation](https://developer.apple.com/documentation/swift/string/index), [Swift by Sundell](https://www.swiftbysundell.com/articles/strings-in-swift/), [How to in Swift](https://howtoinswift.tech)와 같은 자료를 참조하십시오.
+10:Tfe9,
+## Swift에서 String Index 접근하는 방법
+
+Swift에서 문자열은 다양한 문자와 인코딩을 효율적으로 처리할 수 있도록 설계된 복잡한 구조체입니다. 많은 다른 언어와 달리, Swift는 정수 인덱스를 사용하여 문자에 직접 접근하는 대신, `String.Index`를 사용합니다. 이 방법은 특히 이모지나 악센트가 있는 문자와 같은 멀티 바이트 문자를 다룰 때 안전하고 정확한 문자열 조작을 보장합니다.
+
+## String.Index 이해하기
+
+`String.Index`는 문자열 내의 위치를 나타내며, 이를 통해 정확한 탐색과 조작이 가능합니다. Swift 문자열은 UTF-8로 인코딩된 문자들의 컬렉션으로, 문자 길이가 다양할 수 있습니다. 따라서 단순한 정수 인덱스는 특정 문자 위치와 일치하지 않을 수 있어 `String.Index`가 필수적입니다.
+
+### 문자열 인덱스 생성 및 사용
+
+1. **기본 인덱스 생성**:
+
+   ```swift
+   let string = "Hello, Swift!"
+   let startIndex = string.startIndex
+   let endIndex = string.endIndex
+   let specificIndex = string.index(startIndex, offsetBy: 7)
+   print(string[specificIndex]) // 출력: S
+   ```
+
+2. **인덱스 메서드 사용**:
+   - `index(after:)`: 한 위치 앞으로 이동합니다.
+     ```swift
+     let nextIndex = string.index(after: startIndex)
+     print(string[nextIndex]) // 출력: e
+     ```
+   - `index(before:)`: 한 위치 뒤로 이동합니다.
+     ```swift
+     let prevIndex = string.index(before: endIndex)
+     print(string[prevIndex]) // 출력: t
+     ```
+   - `index(_:offsetBy:)`: 지정된 오프셋만큼 이동합니다.
+     ```swift
+     let offsetIndex = string.index(startIndex, offsetBy: 5)
+     print(string[offsetIndex]) // 출력: ,
+     ```
+
+### 서브스트링 처리
+
+Swift는 `String.Index` 범위를 사용하여 서브스트링을 처리하는 강력한 방법을 제공합니다.
+
+1. **범위를 사용한 서브스트링 추출**:
+
+   ```swift
+   let range = startIndex..<specificIndex
+   let substring = string[range]
+   print(substring) // 출력: Hello,
+   ```
+
+2. **서브스트링 타입 사용**:
+   Swift의 서브스트링은 `Substring`의 인스턴스로, 원본 문자열의 내용을 복사하지 않고 볼 수 있어 효율적입니다.
+   ```swift
+   let substring = string[string.startIndex..<string.index(string.startIndex, offsetBy: 5)]
+   print(substring) // 출력: Hello
+   ```
+
+### 고급 문자열 조작
+
+1. **공백 제거 및 패딩**:
+
+   ```swift
+   let paddedString = "Swift".padding(toLength: 10, withPad: "-", startingAt: 0)
+   print(paddedString) // 출력: Swift-----
+   let trimmedString = "   Swift   ".trimmingCharacters(in: .whitespaces)
+   print(trimmedString) // 출력: Swift
+   ```
+
+2. **서브스트링 교체**:
+
+   ```swift
+   let replacedString = string.replacingOccurrences(of: "Swift", with: "World")
+   print(replacedString) // 출력: Hello, World!
+   ```
+
+3. **문자열 변환**:
+   ```swift
+   let uppercaseString = string.uppercased()
+   print(uppercaseString) // 출력: HELLO, SWIFT!
+   ```
+
+### 성능 고려 사항
+
+Swift의 효율적인 문자열 및 서브스트링 처리 덕분에 여러 문자열 작업을 수행하는 것이 일반적으로 성능에 영향을 미치지 않습니다. 하지만 서브스트링을 문자열로 변환해야 할 때가 종종 있으며, 이 작업을 과도하게 하면 오버헤드가 발생할 수 있으므로 주의해야 합니다.
+
+### 결론
+
+Swift의 `String.Index`는 현대의 복잡한 텍스트 데이터를 처리할 때 안전하고 강력한 문자열 조작 방법을 제공합니다. 이러한 도구를 이해하고 활용함으로써 Swift 코드를 견고하고 효율적으로 작성할 수 있습니다.
+
+더 자세한 내용은 [Apple Developer Documentation](https://developer.apple.com/documentation/swift/string/index), [Swift by Sundell](https://www.swiftbysundell.com/articles/strings-in-swift/), [How to in Swift](https://howtoinswift.tech)와 같은 자료를 참조하십시오.
+11:Tfe9,
+## Swift에서 String Index 접근하는 방법
+
+Swift에서 문자열은 다양한 문자와 인코딩을 효율적으로 처리할 수 있도록 설계된 복잡한 구조체입니다. 많은 다른 언어와 달리, Swift는 정수 인덱스를 사용하여 문자에 직접 접근하는 대신, `String.Index`를 사용합니다. 이 방법은 특히 이모지나 악센트가 있는 문자와 같은 멀티 바이트 문자를 다룰 때 안전하고 정확한 문자열 조작을 보장합니다.
+
+## String.Index 이해하기
+
+`String.Index`는 문자열 내의 위치를 나타내며, 이를 통해 정확한 탐색과 조작이 가능합니다. Swift 문자열은 UTF-8로 인코딩된 문자들의 컬렉션으로, 문자 길이가 다양할 수 있습니다. 따라서 단순한 정수 인덱스는 특정 문자 위치와 일치하지 않을 수 있어 `String.Index`가 필수적입니다.
+
+### 문자열 인덱스 생성 및 사용
+
+1. **기본 인덱스 생성**:
+
+   ```swift
+   let string = "Hello, Swift!"
+   let startIndex = string.startIndex
+   let endIndex = string.endIndex
+   let specificIndex = string.index(startIndex, offsetBy: 7)
+   print(string[specificIndex]) // 출력: S
+   ```
+
+2. **인덱스 메서드 사용**:
+   - `index(after:)`: 한 위치 앞으로 이동합니다.
+     ```swift
+     let nextIndex = string.index(after: startIndex)
+     print(string[nextIndex]) // 출력: e
+     ```
+   - `index(before:)`: 한 위치 뒤로 이동합니다.
+     ```swift
+     let prevIndex = string.index(before: endIndex)
+     print(string[prevIndex]) // 출력: t
+     ```
+   - `index(_:offsetBy:)`: 지정된 오프셋만큼 이동합니다.
+     ```swift
+     let offsetIndex = string.index(startIndex, offsetBy: 5)
+     print(string[offsetIndex]) // 출력: ,
+     ```
+
+### 서브스트링 처리
+
+Swift는 `String.Index` 범위를 사용하여 서브스트링을 처리하는 강력한 방법을 제공합니다.
+
+1. **범위를 사용한 서브스트링 추출**:
+
+   ```swift
+   let range = startIndex..<specificIndex
+   let substring = string[range]
+   print(substring) // 출력: Hello,
+   ```
+
+2. **서브스트링 타입 사용**:
+   Swift의 서브스트링은 `Substring`의 인스턴스로, 원본 문자열의 내용을 복사하지 않고 볼 수 있어 효율적입니다.
+   ```swift
+   let substring = string[string.startIndex..<string.index(string.startIndex, offsetBy: 5)]
+   print(substring) // 출력: Hello
+   ```
+
+### 고급 문자열 조작
+
+1. **공백 제거 및 패딩**:
+
+   ```swift
+   let paddedString = "Swift".padding(toLength: 10, withPad: "-", startingAt: 0)
+   print(paddedString) // 출력: Swift-----
+   let trimmedString = "   Swift   ".trimmingCharacters(in: .whitespaces)
+   print(trimmedString) // 출력: Swift
+   ```
+
+2. **서브스트링 교체**:
+
+   ```swift
+   let replacedString = string.replacingOccurrences(of: "Swift", with: "World")
+   print(replacedString) // 출력: Hello, World!
+   ```
+
+3. **문자열 변환**:
+   ```swift
+   let uppercaseString = string.uppercased()
+   print(uppercaseString) // 출력: HELLO, SWIFT!
+   ```
+
+### 성능 고려 사항
+
+Swift의 효율적인 문자열 및 서브스트링 처리 덕분에 여러 문자열 작업을 수행하는 것이 일반적으로 성능에 영향을 미치지 않습니다. 하지만 서브스트링을 문자열로 변환해야 할 때가 종종 있으며, 이 작업을 과도하게 하면 오버헤드가 발생할 수 있으므로 주의해야 합니다.
+
+### 결론
+
+Swift의 `String.Index`는 현대의 복잡한 텍스트 데이터를 처리할 때 안전하고 강력한 문자열 조작 방법을 제공합니다. 이러한 도구를 이해하고 활용함으로써 Swift 코드를 견고하고 효율적으로 작성할 수 있습니다.
+
+더 자세한 내용은 [Apple Developer Documentation](https://developer.apple.com/documentation/swift/string/index), [Swift by Sundell](https://www.swiftbysundell.com/articles/strings-in-swift/), [How to in Swift](https://howtoinswift.tech)와 같은 자료를 참조하십시오.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBasic.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"초간단 Swift에서 String Index 접근하는 방법"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"초간단 Swift에서 String Index 접근하는 방법"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-05-29"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"81c7ad47","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Swift에서 String Index 접근하는 방법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift에서 문자열은 다양한 문자와 인코딩을 효율적으로 처리할 수 있도록 설계된 복잡한 구조체입니다. 많은 다른 언어와 달리, Swift는 정수 인덱스를 사용하여 문자에 직접 접근하는 대신, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":4,"column":109,"offset":142},"end":{"line":4,"column":123,"offset":156}}}],"position":{"start":{"line":4,"column":109,"offset":142},"end":{"line":4,"column":123,"offset":156}}},"children":"String.Index"}}],"를 사용합니다. 이 방법은 특히 이모지나 악센트가 있는 문자와 같은 멀티 바이트 문자를 다룰 때 안전하고 정확한 문자열 조작을 보장합니다."]}],"\n",["$","h2",null,{"id":"79cb29d1","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"String.Index 이해하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":8,"column":1,"offset":257},"end":{"line":8,"column":15,"offset":271}}}],"position":{"start":{"line":8,"column":1,"offset":257},"end":{"line":8,"column":15,"offset":271}}},"children":"String.Index"}}],"는 문자열 내의 위치를 나타내며, 이를 통해 정확한 탐색과 조작이 가능합니다. Swift 문자열은 UTF-8로 인코딩된 문자들의 컬렉션으로, 문자 길이가 다양할 수 있습니다. 따라서 단순한 정수 인덱스는 특정 문자 위치와 일치하지 않을 수 있어 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":8,"column":152,"offset":408},"end":{"line":8,"column":166,"offset":422}}}],"position":{"start":{"line":8,"column":152,"offset":408},"end":{"line":8,"column":166,"offset":422}}},"children":"String.Index"}}],"가 필수적입니다."]}],"\n",["$","h3",null,{"id":"08bf551b","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"문자열 인덱스 생성 및 사용"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"기본 인덱스 생성"}],":"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.endIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nprint(string[specificIndex]) // 출력: S\n"}],"position":{"start":{"line":14,"column":4,"offset":476},"end":{"line":20,"column":7,"offset":697}}},"children":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.endIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nprint(string[specificIndex]) // 출력: S\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"인덱스 메서드 사용"}],":"]}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"index(after:)","position":{"start":{"line":23,"column":6,"offset":723},"end":{"line":23,"column":21,"offset":738}}}],"position":{"start":{"line":23,"column":6,"offset":723},"end":{"line":23,"column":21,"offset":738}}},"children":"index(after:)"}}],": 한 위치 앞으로 이동합니다.\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let nextIndex = string.index(after: startIndex)\nprint(string[nextIndex]) // 출력: e\n"}],"position":{"start":{"line":24,"column":6,"offset":761},"end":{"line":27,"column":9,"offset":870}}},"children":"let nextIndex = string.index(after: startIndex)\nprint(string[nextIndex]) // 출력: e\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"index(before:)","position":{"start":{"line":28,"column":6,"offset":876},"end":{"line":28,"column":22,"offset":892}}}],"position":{"start":{"line":28,"column":6,"offset":876},"end":{"line":28,"column":22,"offset":892}}},"children":"index(before:)"}}],": 한 위치 뒤로 이동합니다.\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let prevIndex = string.index(before: endIndex)\nprint(string[prevIndex]) // 출력: t\n"}],"position":{"start":{"line":29,"column":6,"offset":914},"end":{"line":32,"column":9,"offset":1022}}},"children":"let prevIndex = string.index(before: endIndex)\nprint(string[prevIndex]) // 출력: t\n"}}]}],"\n"]}],"\n",["$","li","li-2",{"children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"index(_:offsetBy:)","position":{"start":{"line":33,"column":6,"offset":1028},"end":{"line":33,"column":26,"offset":1048}}}],"position":{"start":{"line":33,"column":6,"offset":1028},"end":{"line":33,"column":26,"offset":1048}}},"children":"index(_:offsetBy:)"}}],": 지정된 오프셋만큼 이동합니다.\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let offsetIndex = string.index(startIndex, offsetBy: 5)\nprint(string[offsetIndex]) // 출력: ,\n"}],"position":{"start":{"line":34,"column":6,"offset":1072},"end":{"line":37,"column":9,"offset":1191}}},"children":"let offsetIndex = string.index(startIndex, offsetBy: 5)\nprint(string[offsetIndex]) // 출력: ,\n"}}]}],"\n"]}],"\n"]}],"\n"]}],"\n"]}],"\n",["$","h3",null,{"id":"799b0aac","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"서브스트링 처리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":41,"column":8,"offset":1214},"end":{"line":41,"column":22,"offset":1228}}}],"position":{"start":{"line":41,"column":8,"offset":1214},"end":{"line":41,"column":22,"offset":1228}}},"children":"String.Index"}}]," 범위를 사용하여 서브스트링을 처리하는 강력한 방법을 제공합니다."]}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"범위를 사용한 서브스트링 추출"}],":"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let range = startIndex..<specificIndex\nlet substring = string[range]\nprint(substring) // 출력: Hello,\n"}],"position":{"start":{"line":45,"column":4,"offset":1295},"end":{"line":49,"column":7,"offset":1419}}},"children":"let range = startIndex..<specificIndex\nlet substring = string[range]\nprint(substring) // 출력: Hello,\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"서브스트링 타입 사용"}],":\nSwift의 서브스트링은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Substring","position":{"start":{"line":52,"column":18,"offset":1458},"end":{"line":52,"column":29,"offset":1469}}}],"position":{"start":{"line":52,"column":18,"offset":1458},"end":{"line":52,"column":29,"offset":1469}}},"children":"Substring"}}],"의 인스턴스로, 원본 문자열의 내용을 복사하지 않고 볼 수 있어 효율적입니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let substring = string[string.startIndex..<string.index(string.startIndex, offsetBy: 5)]\nprint(substring) // 출력: Hello\n"}],"position":{"start":{"line":53,"column":4,"offset":1516},"end":{"line":56,"column":7,"offset":1656}}},"children":"let substring = string[string.startIndex..<string.index(string.startIndex, offsetBy: 5)]\nprint(substring) // 출력: Hello\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h3",null,{"id":"9ccaf571","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"고급 문자열 조작"}],"\n",["$","ol","ol-2",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"공백 제거 및 패딩"}],":"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let paddedString = \"Swift\".padding(toLength: 10, withPad: \"-\", startingAt: 0)\nprint(paddedString) // 출력: Swift-----\nlet trimmedString = \"   Swift   \".trimmingCharacters(in: .whitespaces)\nprint(trimmedString) // 출력: Swift\n"}],"position":{"start":{"line":62,"column":4,"offset":1696},"end":{"line":67,"column":7,"offset":1944}}},"children":"let paddedString = \"Swift\".padding(toLength: 10, withPad: \"-\", startingAt: 0)\nprint(paddedString) // 출력: Swift-----\nlet trimmedString = \"   Swift   \".trimmingCharacters(in: .whitespaces)\nprint(trimmedString) // 출력: Swift\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"서브스트링 교체"}],":"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let replacedString = string.replacingOccurrences(of: \"Swift\", with: \"World\")\nprint(replacedString) // 출력: Hello, World!\n"}],"position":{"start":{"line":71,"column":4,"offset":1967},"end":{"line":74,"column":7,"offset":2108}}},"children":"let replacedString = string.replacingOccurrences(of: \"Swift\", with: \"World\")\nprint(replacedString) // 출력: Hello, World!\n"}}]}],"\n"]}],"\n",["$","li","li-2",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"문자열 변환"}],":"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let uppercaseString = string.uppercased()\nprint(uppercaseString) // 출력: HELLO, SWIFT!\n"}],"position":{"start":{"line":77,"column":4,"offset":2128},"end":{"line":80,"column":7,"offset":2235}}},"children":"let uppercaseString = string.uppercased()\nprint(uppercaseString) // 출력: HELLO, SWIFT!\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h3",null,{"id":"65994d8d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"성능 고려 사항"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Swift의 효율적인 문자열 및 서브스트링 처리 덕분에 여러 문자열 작업을 수행하는 것이 일반적으로 성능에 영향을 미치지 않습니다. 하지만 서브스트링을 문자열로 변환해야 할 때가 종종 있으며, 이 작업을 과도하게 하면 오버헤드가 발생할 수 있으므로 주의해야 합니다."}],"\n",["$","h3",null,{"id":"5b12bcf2","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":88,"column":8,"offset":2416},"end":{"line":88,"column":22,"offset":2430}}}],"position":{"start":{"line":88,"column":8,"offset":2416},"end":{"line":88,"column":22,"offset":2430}}},"children":"String.Index"}}],"는 현대의 복잡한 텍스트 데이터를 처리할 때 안전하고 강력한 문자열 조작 방법을 제공합니다. 이러한 도구를 이해하고 활용함으로써 Swift 코드를 견고하고 효율적으로 작성할 수 있습니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더 자세한 내용은 ",["$","$Le",null,{"props":{"href":"https://developer.apple.com/documentation/swift/string/index","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/swift/string/index"},"children":[{"type":"text","value":"Apple Developer Documentation","position":{"start":{"line":90,"column":12,"offset":2547},"end":{"line":90,"column":41,"offset":2576}}}],"position":{"start":{"line":90,"column":11,"offset":2546},"end":{"line":90,"column":104,"offset":2639}}},"children":"Apple Developer Documentation"},"post":{"title":"초간단 Swift에서 String Index 접근하는 방법","description":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"3.7","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"초간단-swift에서-String-Index-접근하는-방법","content":"$f","category":"swift"},"language":"kr"}],", ",["$","$Le",null,{"props":{"href":"https://www.swiftbysundell.com/articles/strings-in-swift/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.swiftbysundell.com/articles/strings-in-swift/"},"children":[{"type":"text","value":"Swift by Sundell","position":{"start":{"line":90,"column":107,"offset":2642},"end":{"line":90,"column":123,"offset":2658}}}],"position":{"start":{"line":90,"column":106,"offset":2641},"end":{"line":90,"column":183,"offset":2718}}},"children":"Swift by Sundell"},"post":{"title":"초간단 Swift에서 String Index 접근하는 방법","description":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"3.7","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"초간단-swift에서-String-Index-접근하는-방법","content":"$10","category":"swift"},"language":"kr"}],", ",["$","$Le",null,{"props":{"href":"https://howtoinswift.tech","node":{"type":"element","tagName":"a","properties":{"href":"https://howtoinswift.tech"},"children":[{"type":"text","value":"How to in Swift","position":{"start":{"line":90,"column":186,"offset":2721},"end":{"line":90,"column":201,"offset":2736}}}],"position":{"start":{"line":90,"column":185,"offset":2720},"end":{"line":90,"column":229,"offset":2764}}},"children":"How to in Swift"},"post":{"title":"초간단 Swift에서 String Index 접근하는 방법","description":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"3.7","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"초간단-swift에서-String-Index-접근하는-방법","content":"$11","category":"swift"},"language":"kr"}],"와 같은 자료를 참조하십시오."]}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"초간단 Swift에서 String Index 접근하는 방법","toc":[{"tagName":"h2","title":"Swift에서 String Index 접근하는 방법","id":"81c7ad47"},{"tagName":"h2","title":"String.Index 이해하기","id":"79cb29d1"},{"tagName":"h3","title":"문자열 인덱스 생성 및 사용","id":"08bf551b"},{"tagName":"h3","title":"서브스트링 처리","id":"799b0aac"},{"tagName":"h3","title":"고급 문자열 조작","id":"9ccaf571"},{"tagName":"h3","title":"성능 고려 사항","id":"65994d8d"},{"tagName":"h3","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

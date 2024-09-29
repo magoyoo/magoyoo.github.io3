@@ -1,0 +1,173 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","Swift%EC%97%90%EC%84%9C-String-Index%EB%A5%BC-Int%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],{"children":["__PAGE__?{\"slug\":\"Swift에서-String-Index를-Int로-변환하는-방법\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","Swift%EC%97%90%EC%84%9C-String-Index%EB%A5%BC-Int%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"Swift에서-String-Index를-Int로-변환하는-방법\"}"},"styles":[]}],"segment":["slug","Swift%EC%97%90%EC%84%9C-String-Index%EB%A5%BC-Int%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Swift에서 String.Index를 Int로 변환하는 방법 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","3",{"name":"keywords","content":"swift,기본문법"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/Swift%EC%97%90%EC%84%9C-String-Index%EB%A5%BC-Int%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"Swift에서 String.Index를 Int로 변환하는 방법 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"Swift에서 String.Index를 Int로 변환하는 방법 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/Swift%EC%97%90%EC%84%9C-String-Index%EB%A5%BC-Int%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"Swift에서 String.Index를 Int로 변환하는 방법 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+12:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:Tfdc,
+## Swift에서 String.Index를 Int로 변환하는 방법
+
+Swift에서는 문자열 인덱스를 처리할 때 `String.Index` 타입을 사용합니다. 이는 문자열 내에서 특정 위치를 안전하고 정확하게 지정할 수 있도록 설계되었습니다. 하지만 때로는 `String.Index`를 정수형 인덱스로 변환하여 처리해야 할 경우가 있습니다. 이번 글에서는 `String.Index`를 `Int`로 변환하는 방법과 그 활용 사례에 대해 알아보겠습니다.
+
+## Swift에서 String.Index의 이해
+
+Swift의 문자열은 UTF-8로 인코딩된 문자들의 컬렉션입니다. 따라서 문자열 내의 각 문자는 가변 길이를 가질 수 있으며, 단순히 정수형 인덱스를 사용하여 접근하는 것이 불가능합니다. 대신, Swift는 `String.Index` 타입을 사용하여 문자열 내 위치를 나타냅니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let endIndex = string.endIndex
+let specificIndex = string.index(startIndex, offsetBy: 7)
+print(string[specificIndex]) // 출력: S
+```
+
+## String.Index를 Int로 변환하기
+
+문자열 인덱스를 정수형 인덱스로 변환하려면 distance(from:to:) 메서드를 사용할 수 있습니다. 이 메서드는 두 인덱스 사이의 거리를 반환합니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let specificIndex = string.index(startIndex, offsetBy: 7)
+let intIndex = string.distance(from: startIndex, to: specificIndex)
+print(intIndex) // 출력: 7
+```
+
+## 활용 예제
+
+### 부분 문자열 추출
+
+정수형 인덱스를 사용하여 부분 문자열을 추출할 수 있습니다. 예를 들어, 문자열의 특정 위치에서 부분 문자열을 추출하려면 다음과 같이 할 수 있습니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let endIndex = string.index(startIndex, offsetBy: 5)
+let substring = string[startIndex..<endIndex]
+print(substring) // 출력: Hello
+```
+
+### 문자열의 각 문자를 순회하면서 인덱스 출력
+
+문자열의 각 문자를 순회하면서 해당 문자의 정수형 인덱스를 출력할 수 있습니다.
+
+```swift
+let string = "Hello, Swift!"
+for index in string.indices {
+    let intIndex = string.distance(from: string.startIndex, to: index)
+    print("Character at index \(intIndex): \(string[index])")
+}
+```
+
+### 정수형 인덱스를 사용하여 문자열 수정
+
+정수형 인덱스를 사용하여 문자열의 특정 위치의 문자를 변경할 수 있습니다.
+
+```swift
+var string = "Hello, Swift!"
+let index = string.index(string.startIndex, offsetBy: 7)
+let intIndex = string.distance(from: string.startIndex, to: index)
+if let indexToUpdate = string.index(string.startIndex, offsetBy: intIndex, limitedBy: string.endIndex) {
+    string.replaceSubrange(indexToUpdate...indexToUpdate, with: "W")
+}
+print(string) // 출력: Hello, Wwift!
+```
+
+### 성능 고려 사항
+
+Swift의 문자열과 인덱스 시스템은 매우 효율적이지만, 큰 문자열에서 많은 인덱스 변환을 수행할 때는 성능을 주의해야 합니다. `String.Index`를 정수형으로 변환하거나 그 반대를 수행할 때, 반복적인 연산이 발생할 수 있기 때문에 필요한 경우에만 사용하고, 가능한 범위 연산을 활용하여 성능을 최적화하는 것이 좋습니다.
+
+## 결론
+
+Swift에서 `String.Index`를 `Int`로 변환하는 방법을 이해하면 문자열을 더 유연하고 효과적으로 조작할 수 있습니다. 이번 글에서는 `String.Index`를 정수형 인덱스로 변환하는 기본적인 방법과 그 활용 예제에 대해 알아보았습니다. 이를 통해 Swift에서 문자열을 다루는 데 있어 더 많은 유연성을 갖추길 바랍니다.
+
+더 자세한 내용은 [Apple Developer Documentation](https://developer.apple.com/documentation/swift/string/index)와 [Swift by Sundell](https://www.swiftbysundell.com/articles/strings-in-swift/)에서 확인할 수 있습니다.
+10:Tfdc,
+## Swift에서 String.Index를 Int로 변환하는 방법
+
+Swift에서는 문자열 인덱스를 처리할 때 `String.Index` 타입을 사용합니다. 이는 문자열 내에서 특정 위치를 안전하고 정확하게 지정할 수 있도록 설계되었습니다. 하지만 때로는 `String.Index`를 정수형 인덱스로 변환하여 처리해야 할 경우가 있습니다. 이번 글에서는 `String.Index`를 `Int`로 변환하는 방법과 그 활용 사례에 대해 알아보겠습니다.
+
+## Swift에서 String.Index의 이해
+
+Swift의 문자열은 UTF-8로 인코딩된 문자들의 컬렉션입니다. 따라서 문자열 내의 각 문자는 가변 길이를 가질 수 있으며, 단순히 정수형 인덱스를 사용하여 접근하는 것이 불가능합니다. 대신, Swift는 `String.Index` 타입을 사용하여 문자열 내 위치를 나타냅니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let endIndex = string.endIndex
+let specificIndex = string.index(startIndex, offsetBy: 7)
+print(string[specificIndex]) // 출력: S
+```
+
+## String.Index를 Int로 변환하기
+
+문자열 인덱스를 정수형 인덱스로 변환하려면 distance(from:to:) 메서드를 사용할 수 있습니다. 이 메서드는 두 인덱스 사이의 거리를 반환합니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let specificIndex = string.index(startIndex, offsetBy: 7)
+let intIndex = string.distance(from: startIndex, to: specificIndex)
+print(intIndex) // 출력: 7
+```
+
+## 활용 예제
+
+### 부분 문자열 추출
+
+정수형 인덱스를 사용하여 부분 문자열을 추출할 수 있습니다. 예를 들어, 문자열의 특정 위치에서 부분 문자열을 추출하려면 다음과 같이 할 수 있습니다.
+
+```swift
+let string = "Hello, Swift!"
+let startIndex = string.startIndex
+let endIndex = string.index(startIndex, offsetBy: 5)
+let substring = string[startIndex..<endIndex]
+print(substring) // 출력: Hello
+```
+
+### 문자열의 각 문자를 순회하면서 인덱스 출력
+
+문자열의 각 문자를 순회하면서 해당 문자의 정수형 인덱스를 출력할 수 있습니다.
+
+```swift
+let string = "Hello, Swift!"
+for index in string.indices {
+    let intIndex = string.distance(from: string.startIndex, to: index)
+    print("Character at index \(intIndex): \(string[index])")
+}
+```
+
+### 정수형 인덱스를 사용하여 문자열 수정
+
+정수형 인덱스를 사용하여 문자열의 특정 위치의 문자를 변경할 수 있습니다.
+
+```swift
+var string = "Hello, Swift!"
+let index = string.index(string.startIndex, offsetBy: 7)
+let intIndex = string.distance(from: string.startIndex, to: index)
+if let indexToUpdate = string.index(string.startIndex, offsetBy: intIndex, limitedBy: string.endIndex) {
+    string.replaceSubrange(indexToUpdate...indexToUpdate, with: "W")
+}
+print(string) // 출력: Hello, Wwift!
+```
+
+### 성능 고려 사항
+
+Swift의 문자열과 인덱스 시스템은 매우 효율적이지만, 큰 문자열에서 많은 인덱스 변환을 수행할 때는 성능을 주의해야 합니다. `String.Index`를 정수형으로 변환하거나 그 반대를 수행할 때, 반복적인 연산이 발생할 수 있기 때문에 필요한 경우에만 사용하고, 가능한 범위 연산을 활용하여 성능을 최적화하는 것이 좋습니다.
+
+## 결론
+
+Swift에서 `String.Index`를 `Int`로 변환하는 방법을 이해하면 문자열을 더 유연하고 효과적으로 조작할 수 있습니다. 이번 글에서는 `String.Index`를 정수형 인덱스로 변환하는 기본적인 방법과 그 활용 예제에 대해 알아보았습니다. 이를 통해 Swift에서 문자열을 다루는 데 있어 더 많은 유연성을 갖추길 바랍니다.
+
+더 자세한 내용은 [Apple Developer Documentation](https://developer.apple.com/documentation/swift/string/index)와 [Swift by Sundell](https://www.swiftbysundell.com/articles/strings-in-swift/)에서 확인할 수 있습니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBasic.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"Swift에서 String.Index를 Int로 변환하는 방법"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"Swift에서 String.Index를 Int로 변환하는 방법"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-05-29"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"05488734","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Swift에서 String.Index를 Int로 변환하는 방법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift에서는 문자열 인덱스를 처리할 때 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":4,"column":25,"offset":64},"end":{"line":4,"column":39,"offset":78}}}],"position":{"start":{"line":4,"column":25,"offset":64},"end":{"line":4,"column":39,"offset":78}}},"children":"String.Index"}}]," 타입을 사용합니다. 이는 문자열 내에서 특정 위치를 안전하고 정확하게 지정할 수 있도록 설계되었습니다. 하지만 때로는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":4,"column":106,"offset":145},"end":{"line":4,"column":120,"offset":159}}}],"position":{"start":{"line":4,"column":106,"offset":145},"end":{"line":4,"column":120,"offset":159}}},"children":"String.Index"}}],"를 정수형 인덱스로 변환하여 처리해야 할 경우가 있습니다. 이번 글에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":4,"column":161,"offset":200},"end":{"line":4,"column":175,"offset":214}}}],"position":{"start":{"line":4,"column":161,"offset":200},"end":{"line":4,"column":175,"offset":214}}},"children":"String.Index"}}],"를 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Int","position":{"start":{"line":4,"column":177,"offset":216},"end":{"line":4,"column":182,"offset":221}}}],"position":{"start":{"line":4,"column":177,"offset":216},"end":{"line":4,"column":182,"offset":221}}},"children":"Int"}}],"로 변환하는 방법과 그 활용 사례에 대해 알아보겠습니다."]}],"\n",["$","h2",null,{"id":"6ad30c49","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Swift에서 String.Index의 이해"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift의 문자열은 UTF-8로 인코딩된 문자들의 컬렉션입니다. 따라서 문자열 내의 각 문자는 가변 길이를 가질 수 있으며, 단순히 정수형 인덱스를 사용하여 접근하는 것이 불가능합니다. 대신, Swift는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":8,"column":117,"offset":399},"end":{"line":8,"column":131,"offset":413}}}],"position":{"start":{"line":8,"column":117,"offset":399},"end":{"line":8,"column":131,"offset":413}}},"children":"String.Index"}}]," 타입을 사용하여 문자열 내 위치를 나타냅니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.endIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nprint(string[specificIndex]) // 출력: S\n"}],"position":{"start":{"line":10,"column":1,"offset":441},"end":{"line":16,"column":4,"offset":644}}},"children":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.endIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nprint(string[specificIndex]) // 출력: S\n"}}]}],"\n",["$","h2",null,{"id":"1006fa74","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"String.Index를 Int로 변환하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"문자열 인덱스를 정수형 인덱스로 변환하려면 distance(from:to:) 메서드를 사용할 수 있습니다. 이 메서드는 두 인덱스 사이의 거리를 반환합니다."}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nlet intIndex = string.distance(from: startIndex, to: specificIndex)\nprint(intIndex) // 출력: 7\n"}],"position":{"start":{"line":22,"column":1,"offset":763},"end":{"line":28,"column":4,"offset":990}}},"children":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet specificIndex = string.index(startIndex, offsetBy: 7)\nlet intIndex = string.distance(from: startIndex, to: specificIndex)\nprint(intIndex) // 출력: 7\n"}}]}],"\n",["$","h2",null,{"id":"ab053b1a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"활용 예제"}],"\n",["$","h3",null,{"id":"87feab34","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"부분 문자열 추출"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"정수형 인덱스를 사용하여 부분 문자열을 추출할 수 있습니다. 예를 들어, 문자열의 특정 위치에서 부분 문자열을 추출하려면 다음과 같이 할 수 있습니다."}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.index(startIndex, offsetBy: 5)\nlet substring = string[startIndex..<endIndex]\nprint(substring) // 출력: Hello\n"}],"position":{"start":{"line":36,"column":1,"offset":1103},"end":{"line":42,"column":4,"offset":1308}}},"children":"let string = \"Hello, Swift!\"\nlet startIndex = string.startIndex\nlet endIndex = string.index(startIndex, offsetBy: 5)\nlet substring = string[startIndex..<endIndex]\nprint(substring) // 출력: Hello\n"}}]}],"\n",["$","h3",null,{"id":"24a3b547","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"문자열의 각 문자를 순회하면서 인덱스 출력"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"문자열의 각 문자를 순회하면서 해당 문자의 정수형 인덱스를 출력할 수 있습니다."}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let string = \"Hello, Swift!\"\nfor index in string.indices {\n    let intIndex = string.distance(from: string.startIndex, to: index)\n    print(\"Character at index \\(intIndex): \\(string[index])\")\n}\n"}],"position":{"start":{"line":48,"column":1,"offset":1385},"end":{"line":54,"column":4,"offset":1591}}},"children":"let string = \"Hello, Swift!\"\nfor index in string.indices {\n    let intIndex = string.distance(from: string.startIndex, to: index)\n    print(\"Character at index \\(intIndex): \\(string[index])\")\n}\n"}}]}],"\n",["$","h3",null,{"id":"424158be","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"정수형 인덱스를 사용하여 문자열 수정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"정수형 인덱스를 사용하여 문자열의 특정 위치의 문자를 변경할 수 있습니다."}],"\n",["$","pre","pre-4",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"var string = \"Hello, Swift!\"\nlet index = string.index(string.startIndex, offsetBy: 7)\nlet intIndex = string.distance(from: string.startIndex, to: index)\nif let indexToUpdate = string.index(string.startIndex, offsetBy: intIndex, limitedBy: string.endIndex) {\n    string.replaceSubrange(indexToUpdate...indexToUpdate, with: \"W\")\n}\nprint(string) // 출력: Hello, Wwift!\n"}],"position":{"start":{"line":60,"column":1,"offset":1662},"end":{"line":68,"column":4,"offset":2038}}},"children":"var string = \"Hello, Swift!\"\nlet index = string.index(string.startIndex, offsetBy: 7)\nlet intIndex = string.distance(from: string.startIndex, to: index)\nif let indexToUpdate = string.index(string.startIndex, offsetBy: intIndex, limitedBy: string.endIndex) {\n    string.replaceSubrange(indexToUpdate...indexToUpdate, with: \"W\")\n}\nprint(string) // 출력: Hello, Wwift!\n"}}]}],"\n",["$","h3",null,{"id":"65994d8d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"성능 고려 사항"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift의 문자열과 인덱스 시스템은 매우 효율적이지만, 큰 문자열에서 많은 인덱스 변환을 수행할 때는 성능을 주의해야 합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":72,"column":73,"offset":2126},"end":{"line":72,"column":87,"offset":2140}}}],"position":{"start":{"line":72,"column":73,"offset":2126},"end":{"line":72,"column":87,"offset":2140}}},"children":"String.Index"}}],"를 정수형으로 변환하거나 그 반대를 수행할 때, 반복적인 연산이 발생할 수 있기 때문에 필요한 경우에만 사용하고, 가능한 범위 연산을 활용하여 성능을 최적화하는 것이 좋습니다."]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":76,"column":9,"offset":2255},"end":{"line":76,"column":23,"offset":2269}}}],"position":{"start":{"line":76,"column":9,"offset":2255},"end":{"line":76,"column":23,"offset":2269}}},"children":"String.Index"}}],"를 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Int","position":{"start":{"line":76,"column":25,"offset":2271},"end":{"line":76,"column":30,"offset":2276}}}],"position":{"start":{"line":76,"column":25,"offset":2271},"end":{"line":76,"column":30,"offset":2276}}},"children":"Int"}}],"로 변환하는 방법을 이해하면 문자열을 더 유연하고 효과적으로 조작할 수 있습니다. 이번 글에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"String.Index","position":{"start":{"line":76,"column":84,"offset":2330},"end":{"line":76,"column":98,"offset":2344}}}],"position":{"start":{"line":76,"column":84,"offset":2330},"end":{"line":76,"column":98,"offset":2344}}},"children":"String.Index"}}],"를 정수형 인덱스로 변환하는 기본적인 방법과 그 활용 예제에 대해 알아보았습니다. 이를 통해 Swift에서 문자열을 다루는 데 있어 더 많은 유연성을 갖추길 바랍니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더 자세한 내용은 ",["$","$Le",null,{"props":{"href":"https://developer.apple.com/documentation/swift/string/index","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/swift/string/index"},"children":[{"type":"text","value":"Apple Developer Documentation","position":{"start":{"line":78,"column":12,"offset":2450},"end":{"line":78,"column":41,"offset":2479}}}],"position":{"start":{"line":78,"column":11,"offset":2449},"end":{"line":78,"column":104,"offset":2542}}},"children":"Apple Developer Documentation"},"post":{"title":"Swift에서 String.Index를 Int로 변환하는 방법","description":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"3.9","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift에서-String-Index를-Int로-변환하는-방법","content":"$f","category":"swift"},"language":"kr"}],"와 ",["$","$Le",null,{"props":{"href":"https://www.swiftbysundell.com/articles/strings-in-swift/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.swiftbysundell.com/articles/strings-in-swift/"},"children":[{"type":"text","value":"Swift by Sundell","position":{"start":{"line":78,"column":107,"offset":2545},"end":{"line":78,"column":123,"offset":2561}}}],"position":{"start":{"line":78,"column":106,"offset":2544},"end":{"line":78,"column":183,"offset":2621}}},"children":"Swift by Sundell"},"post":{"title":"Swift에서 String.Index를 Int로 변환하는 방법","description":"Swift에서 String.Index를 사용해 문자열을 안전하고 효율적으로 조작하는 방법을 소개합니다. 예제 코드와 고급 기술 포함.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"3.9","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift에서-String-Index를-Int로-변환하는-방법","content":"$10","category":"swift"},"language":"kr"}],"에서 확인할 수 있습니다."]}]]}]}],["$","$L11",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"Swift에서 String.Index를 Int로 변환하는 방법","toc":[{"tagName":"h2","title":"Swift에서 String.Index를 Int로 변환하는 방법","id":"05488734"},{"tagName":"h2","title":"Swift에서 String.Index의 이해","id":"6ad30c49"},{"tagName":"h2","title":"String.Index를 Int로 변환하기","id":"1006fa74"},{"tagName":"h2","title":"활용 예제","id":"ab053b1a"},{"tagName":"h3","title":"부분 문자열 추출","id":"87feab34"},{"tagName":"h3","title":"문자열의 각 문자를 순회하면서 인덱스 출력","id":"24a3b547"},{"tagName":"h3","title":"정수형 인덱스를 사용하여 문자열 수정","id":"424158be"},{"tagName":"h3","title":"성능 고려 사항","id":"65994d8d"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

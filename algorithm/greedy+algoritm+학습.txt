@@ -1,0 +1,266 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["algorithm",{"children":[["slug","greedy%2Balgoritm%2B%ED%95%99%EC%8A%B5","d"],{"children":["__PAGE__?{\"slug\":\"greedy+algoritm+학습\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children",["slug","greedy%2Balgoritm%2B%ED%95%99%EC%8A%B5","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"greedy+algoritm+학습\"}"},"styles":[]}],"segment":["slug","greedy%2Balgoritm%2B%ED%95%99%EC%8A%B5","d"]},"styles":[]}],"segment":"algorithm"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"그리드 알고리즘에 대해서 알아봅니다."}],["$","meta","3",{"name":"keywords","content":"coding test,알고리즘,코딩테스트,algorithm,greedy"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/algorithm/greedy+algoritm+%ED%95%99%EC%8A%B5"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"그리드 알고리즘에 대해서 알아봅니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/algorithm/greedy+algoritm+%ED%95%99%EC%8A%B5"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/greedyAlgorithm.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"그리드 알고리즘에 대해서 알아봅니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/greedyAlgorithm.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+f:T1b34,
+# 개요
+
+---
+
+알고리즘 학습을 안 한 지 오래되었습니다. 이직하면서 공부했을 법했지만 자의로 특정 회사를 지원해서 들어갔던 적은 거의 없었기 때문에 코딩테스트 준비를 할 일이 없어 아무래도 알고리즘 학습을 게을리해왔습다. 이번 이직을 준비하며 필자가 얼마나 기본기가 부족한지 깨닫게 되었고, 기초부터 학습하겠다고 마음먹고 알고리즘 공부를 시작하게 되었습니다. 오늘은 교재 1장에 나오는 그리드 알고리즘을 학습하여 해당 내용을 정리하는 글입니다.
+
+# 그리드 알고리즘(Greedy algorithm은)
+
+---
+
+Greedy algorithm은 최적화 문제를 해결하는 알고리즘 중 하나로, 각 단계에서 지금 당장 최적인 선택을 계속해서 내려가면서 최종적으로 전체적으로 최적해를 찾아내는 방식입니다. 이 알고리즘은 지금 당장의 최적 선택이 반드시 최종적으로도 최적이 되는 것은 아니지만, 일반적으로는 그렇게 됩니다.
+
+이 알고리즘은 간단하며 직관적인 방법으로, 다양한 최적화 문제에서 적용 가능합니다. 예를 들어, 최소 스패닝 트리, 최단 경로, 배낭 문제 등에서 적용할 수 있습니다. 이 알고리즘의 기본적인 구조는 다음과 같습니다.
+
+1. 해의 후보 중에서 하나를 선택합니다.
+2. 선택한 후보가 문제의 제약 조건에 부합하는지 확인합니다.
+3. 부합한다면, 선택한 후보를 정답에 추가하고, 문제의 제약 조건을 수정합니다.
+4. 제약 조건을 만족할 때까지 1-3 단계를 반복합니다.
+
+이때, 각 단계에서 지금 당장 최적인 선택을 하기 때문에, 전체적인 최적해를 찾기 위해선 이러한 선택이 계속해서 이루어져야 합니다. 하지만, 이 알고리즘이 항상 최적해를 보장하지는 않습니다. 일부 문제에서는 지역 최적해에 빠지는 경우가 발생할 수 있으며, 이 경우엔 다른 알고리즘을 사용해야 합니다.
+
+Greedy algorithm의 장점은 간단하며 직관적인 방법이라는 것입니다. 또한, 일반적으로 계산 시간이 짧아서 대용량 데이터에도 적용이 가능합니다. 하지만 이 알고리즘의 단점은 최적해가 보장되지 않는다는 것입니다. 따라서, Greedy algorithm을 적용할 때에는 문제의 특성을 잘 파악하고, 언제까지 선택을 이어나가야 할 지를 판단하는 것이 중요합니다.
+
+# 그리드 알고리즘 예시
+
+---
+
+Greedy algorithm의 예시 문제로는 "거스름돈 문제(change-making problem)"가 있습니다. 이 문제는 가장 적은 개수의 동전으로 거스름돈을 주는 문제입니다. 예를 들어, 500원짜리, 100원짜리, 50원짜리, 10원짜리 동전이 있다면 800원을 거슬러 주기 위해서는 500원짜리 1개, 100원짜리 3개, 50원짜리 1개를 사용하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+이 문제를 Greedy algorithm으로 해결할 경우, 가장 큰 동전부터 가능한 많이 사용하는 방법을 선택하면 됩니다. 따라서, 위의 예시에서는 500원짜리 1개를 선택하고, 남은 300원을 다시 계산합니다. 이후에는 100원짜리 3개, 50원짜리 1개를 선택하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+하지만, 이 문제에서 Greedy algorithm을 사용할 경우 모든 경우에서 최적해를 보장할 수 있는 것은 아닙니다. 예를 들어, 1원, 2원, 5원, 10원 동전이 있을 때, 18원을 거슬러 주는 경우 Greedy algorithm을 사용하면 10원짜리 1개, 5원짜리 1개, 2원짜리 1개, 1원짜리 1개를 사용하게 됩니다. 하지만, 최적해는 10원짜리 1개, 5원짜리 1개, 2원짜리 4개를 사용하는 것입니다. 따라서, 이 경우 Greedy algorithm을 사용하면 최적해를 보장할 수 없습니다.
+
+아래는 거스름돈 문제를 해결하기 위한 Swift 코드 예시입니다.
+
+```swift
+func giveChange(amount: Int, coins: [Int]) -> [Int] {
+    var remainingAmount = amount
+    var result = [Int]()
+
+    // coins를 큰 동전 순으로 정렬합니다.
+    let sortedCoins = coins.sorted(by: { $0 > $1 })
+
+    // 큰 동전부터 가능한 많이 사용하도록 선택합니다.
+    for coin in sortedCoins {
+        while remainingAmount >= coin {
+            remainingAmount -= coin
+            result.append(coin)
+        }
+    }
+
+    return result
+}
+
+// 테스트
+let coins = [500, 100, 50, 10]
+let amount = 800
+let result = giveChange(amount: amount, coins: coins)
+print("거스름돈: \(result)")  // 출력: 거스름돈: [500, 100, 100, 100, 50]
+```
+
+위 코드에서는 giveChange 함수를 사용하여 거스름돈을 계산합니다. 이 함수는 amount 매개변수로 거슬러 줄 금액과 coins 매개변수로 동전의 종류가 포함된 배열을 받습니다. remainingAmount 변수를 사용하여 거슬러줘야 할 금액을 계속 추적하며, result 배열에는 선택된 동전의 종류와 개수를 담습니다.
+
+sortedCoins 변수를 사용하여 큰 동전부터 선택하도록 정렬합니다. 이후에는 for 루프에서 선택한 동전으로 거슬러 줄 수 있는 만큼 계속해서 거슬러주며, 결과를 result 배열에 추가합니다. 마지막으로 result 배열을 반환합니다.
+
+위 코드를 실행하면, giveChange 함수를 사용하여 800원을 거슬러 줄 때 가장 적은 개수의 동전을 사용하는 방법을 계산할 수 있습니다. 출력 결과는 [500, 100, 100, 100, 50]와 같이 500원 1개, 100원 3개, 50원 1개를 사용하여 거슬러준 결과입니다.
+
+# 정리
+
+---
+
+일반적으로 외우지 않고 풀 수 있다는 장점이 있는 대신, 직감에 의해 특정 규칙을 발견하고 해당 규칙을 코드로 구현하는 과정에서 실수가 잦을 수 있습니다. 특히 알고리즘의 정당성을 검토하기 위해 다양한 Input sample을 마련해야 하는데, 문제를 풀기 전에 특정 사고에 갇혀 예외 케이스를 발견하지 못 해 문제를 해결하지 못하는 케이스가 많습니다. 따라서 문제를 풀기전에 sample을 미리 만들어 작성한 로직을 검토하는 방법이 유용할 수 있습니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+10:T1b34,
+# 개요
+
+---
+
+알고리즘 학습을 안 한 지 오래되었습니다. 이직하면서 공부했을 법했지만 자의로 특정 회사를 지원해서 들어갔던 적은 거의 없었기 때문에 코딩테스트 준비를 할 일이 없어 아무래도 알고리즘 학습을 게을리해왔습다. 이번 이직을 준비하며 필자가 얼마나 기본기가 부족한지 깨닫게 되었고, 기초부터 학습하겠다고 마음먹고 알고리즘 공부를 시작하게 되었습니다. 오늘은 교재 1장에 나오는 그리드 알고리즘을 학습하여 해당 내용을 정리하는 글입니다.
+
+# 그리드 알고리즘(Greedy algorithm은)
+
+---
+
+Greedy algorithm은 최적화 문제를 해결하는 알고리즘 중 하나로, 각 단계에서 지금 당장 최적인 선택을 계속해서 내려가면서 최종적으로 전체적으로 최적해를 찾아내는 방식입니다. 이 알고리즘은 지금 당장의 최적 선택이 반드시 최종적으로도 최적이 되는 것은 아니지만, 일반적으로는 그렇게 됩니다.
+
+이 알고리즘은 간단하며 직관적인 방법으로, 다양한 최적화 문제에서 적용 가능합니다. 예를 들어, 최소 스패닝 트리, 최단 경로, 배낭 문제 등에서 적용할 수 있습니다. 이 알고리즘의 기본적인 구조는 다음과 같습니다.
+
+1. 해의 후보 중에서 하나를 선택합니다.
+2. 선택한 후보가 문제의 제약 조건에 부합하는지 확인합니다.
+3. 부합한다면, 선택한 후보를 정답에 추가하고, 문제의 제약 조건을 수정합니다.
+4. 제약 조건을 만족할 때까지 1-3 단계를 반복합니다.
+
+이때, 각 단계에서 지금 당장 최적인 선택을 하기 때문에, 전체적인 최적해를 찾기 위해선 이러한 선택이 계속해서 이루어져야 합니다. 하지만, 이 알고리즘이 항상 최적해를 보장하지는 않습니다. 일부 문제에서는 지역 최적해에 빠지는 경우가 발생할 수 있으며, 이 경우엔 다른 알고리즘을 사용해야 합니다.
+
+Greedy algorithm의 장점은 간단하며 직관적인 방법이라는 것입니다. 또한, 일반적으로 계산 시간이 짧아서 대용량 데이터에도 적용이 가능합니다. 하지만 이 알고리즘의 단점은 최적해가 보장되지 않는다는 것입니다. 따라서, Greedy algorithm을 적용할 때에는 문제의 특성을 잘 파악하고, 언제까지 선택을 이어나가야 할 지를 판단하는 것이 중요합니다.
+
+# 그리드 알고리즘 예시
+
+---
+
+Greedy algorithm의 예시 문제로는 "거스름돈 문제(change-making problem)"가 있습니다. 이 문제는 가장 적은 개수의 동전으로 거스름돈을 주는 문제입니다. 예를 들어, 500원짜리, 100원짜리, 50원짜리, 10원짜리 동전이 있다면 800원을 거슬러 주기 위해서는 500원짜리 1개, 100원짜리 3개, 50원짜리 1개를 사용하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+이 문제를 Greedy algorithm으로 해결할 경우, 가장 큰 동전부터 가능한 많이 사용하는 방법을 선택하면 됩니다. 따라서, 위의 예시에서는 500원짜리 1개를 선택하고, 남은 300원을 다시 계산합니다. 이후에는 100원짜리 3개, 50원짜리 1개를 선택하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+하지만, 이 문제에서 Greedy algorithm을 사용할 경우 모든 경우에서 최적해를 보장할 수 있는 것은 아닙니다. 예를 들어, 1원, 2원, 5원, 10원 동전이 있을 때, 18원을 거슬러 주는 경우 Greedy algorithm을 사용하면 10원짜리 1개, 5원짜리 1개, 2원짜리 1개, 1원짜리 1개를 사용하게 됩니다. 하지만, 최적해는 10원짜리 1개, 5원짜리 1개, 2원짜리 4개를 사용하는 것입니다. 따라서, 이 경우 Greedy algorithm을 사용하면 최적해를 보장할 수 없습니다.
+
+아래는 거스름돈 문제를 해결하기 위한 Swift 코드 예시입니다.
+
+```swift
+func giveChange(amount: Int, coins: [Int]) -> [Int] {
+    var remainingAmount = amount
+    var result = [Int]()
+
+    // coins를 큰 동전 순으로 정렬합니다.
+    let sortedCoins = coins.sorted(by: { $0 > $1 })
+
+    // 큰 동전부터 가능한 많이 사용하도록 선택합니다.
+    for coin in sortedCoins {
+        while remainingAmount >= coin {
+            remainingAmount -= coin
+            result.append(coin)
+        }
+    }
+
+    return result
+}
+
+// 테스트
+let coins = [500, 100, 50, 10]
+let amount = 800
+let result = giveChange(amount: amount, coins: coins)
+print("거스름돈: \(result)")  // 출력: 거스름돈: [500, 100, 100, 100, 50]
+```
+
+위 코드에서는 giveChange 함수를 사용하여 거스름돈을 계산합니다. 이 함수는 amount 매개변수로 거슬러 줄 금액과 coins 매개변수로 동전의 종류가 포함된 배열을 받습니다. remainingAmount 변수를 사용하여 거슬러줘야 할 금액을 계속 추적하며, result 배열에는 선택된 동전의 종류와 개수를 담습니다.
+
+sortedCoins 변수를 사용하여 큰 동전부터 선택하도록 정렬합니다. 이후에는 for 루프에서 선택한 동전으로 거슬러 줄 수 있는 만큼 계속해서 거슬러주며, 결과를 result 배열에 추가합니다. 마지막으로 result 배열을 반환합니다.
+
+위 코드를 실행하면, giveChange 함수를 사용하여 800원을 거슬러 줄 때 가장 적은 개수의 동전을 사용하는 방법을 계산할 수 있습니다. 출력 결과는 [500, 100, 100, 100, 50]와 같이 500원 1개, 100원 3개, 50원 1개를 사용하여 거슬러준 결과입니다.
+
+# 정리
+
+---
+
+일반적으로 외우지 않고 풀 수 있다는 장점이 있는 대신, 직감에 의해 특정 규칙을 발견하고 해당 규칙을 코드로 구현하는 과정에서 실수가 잦을 수 있습니다. 특히 알고리즘의 정당성을 검토하기 위해 다양한 Input sample을 마련해야 하는데, 문제를 풀기 전에 특정 사고에 갇혀 예외 케이스를 발견하지 못 해 문제를 해결하지 못하는 케이스가 많습니다. 따라서 문제를 풀기전에 sample을 미리 만들어 작성한 로직을 검토하는 방법이 유용할 수 있습니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+11:T1b34,
+# 개요
+
+---
+
+알고리즘 학습을 안 한 지 오래되었습니다. 이직하면서 공부했을 법했지만 자의로 특정 회사를 지원해서 들어갔던 적은 거의 없었기 때문에 코딩테스트 준비를 할 일이 없어 아무래도 알고리즘 학습을 게을리해왔습다. 이번 이직을 준비하며 필자가 얼마나 기본기가 부족한지 깨닫게 되었고, 기초부터 학습하겠다고 마음먹고 알고리즘 공부를 시작하게 되었습니다. 오늘은 교재 1장에 나오는 그리드 알고리즘을 학습하여 해당 내용을 정리하는 글입니다.
+
+# 그리드 알고리즘(Greedy algorithm은)
+
+---
+
+Greedy algorithm은 최적화 문제를 해결하는 알고리즘 중 하나로, 각 단계에서 지금 당장 최적인 선택을 계속해서 내려가면서 최종적으로 전체적으로 최적해를 찾아내는 방식입니다. 이 알고리즘은 지금 당장의 최적 선택이 반드시 최종적으로도 최적이 되는 것은 아니지만, 일반적으로는 그렇게 됩니다.
+
+이 알고리즘은 간단하며 직관적인 방법으로, 다양한 최적화 문제에서 적용 가능합니다. 예를 들어, 최소 스패닝 트리, 최단 경로, 배낭 문제 등에서 적용할 수 있습니다. 이 알고리즘의 기본적인 구조는 다음과 같습니다.
+
+1. 해의 후보 중에서 하나를 선택합니다.
+2. 선택한 후보가 문제의 제약 조건에 부합하는지 확인합니다.
+3. 부합한다면, 선택한 후보를 정답에 추가하고, 문제의 제약 조건을 수정합니다.
+4. 제약 조건을 만족할 때까지 1-3 단계를 반복합니다.
+
+이때, 각 단계에서 지금 당장 최적인 선택을 하기 때문에, 전체적인 최적해를 찾기 위해선 이러한 선택이 계속해서 이루어져야 합니다. 하지만, 이 알고리즘이 항상 최적해를 보장하지는 않습니다. 일부 문제에서는 지역 최적해에 빠지는 경우가 발생할 수 있으며, 이 경우엔 다른 알고리즘을 사용해야 합니다.
+
+Greedy algorithm의 장점은 간단하며 직관적인 방법이라는 것입니다. 또한, 일반적으로 계산 시간이 짧아서 대용량 데이터에도 적용이 가능합니다. 하지만 이 알고리즘의 단점은 최적해가 보장되지 않는다는 것입니다. 따라서, Greedy algorithm을 적용할 때에는 문제의 특성을 잘 파악하고, 언제까지 선택을 이어나가야 할 지를 판단하는 것이 중요합니다.
+
+# 그리드 알고리즘 예시
+
+---
+
+Greedy algorithm의 예시 문제로는 "거스름돈 문제(change-making problem)"가 있습니다. 이 문제는 가장 적은 개수의 동전으로 거스름돈을 주는 문제입니다. 예를 들어, 500원짜리, 100원짜리, 50원짜리, 10원짜리 동전이 있다면 800원을 거슬러 주기 위해서는 500원짜리 1개, 100원짜리 3개, 50원짜리 1개를 사용하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+이 문제를 Greedy algorithm으로 해결할 경우, 가장 큰 동전부터 가능한 많이 사용하는 방법을 선택하면 됩니다. 따라서, 위의 예시에서는 500원짜리 1개를 선택하고, 남은 300원을 다시 계산합니다. 이후에는 100원짜리 3개, 50원짜리 1개를 선택하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다.
+
+하지만, 이 문제에서 Greedy algorithm을 사용할 경우 모든 경우에서 최적해를 보장할 수 있는 것은 아닙니다. 예를 들어, 1원, 2원, 5원, 10원 동전이 있을 때, 18원을 거슬러 주는 경우 Greedy algorithm을 사용하면 10원짜리 1개, 5원짜리 1개, 2원짜리 1개, 1원짜리 1개를 사용하게 됩니다. 하지만, 최적해는 10원짜리 1개, 5원짜리 1개, 2원짜리 4개를 사용하는 것입니다. 따라서, 이 경우 Greedy algorithm을 사용하면 최적해를 보장할 수 없습니다.
+
+아래는 거스름돈 문제를 해결하기 위한 Swift 코드 예시입니다.
+
+```swift
+func giveChange(amount: Int, coins: [Int]) -> [Int] {
+    var remainingAmount = amount
+    var result = [Int]()
+
+    // coins를 큰 동전 순으로 정렬합니다.
+    let sortedCoins = coins.sorted(by: { $0 > $1 })
+
+    // 큰 동전부터 가능한 많이 사용하도록 선택합니다.
+    for coin in sortedCoins {
+        while remainingAmount >= coin {
+            remainingAmount -= coin
+            result.append(coin)
+        }
+    }
+
+    return result
+}
+
+// 테스트
+let coins = [500, 100, 50, 10]
+let amount = 800
+let result = giveChange(amount: amount, coins: coins)
+print("거스름돈: \(result)")  // 출력: 거스름돈: [500, 100, 100, 100, 50]
+```
+
+위 코드에서는 giveChange 함수를 사용하여 거스름돈을 계산합니다. 이 함수는 amount 매개변수로 거슬러 줄 금액과 coins 매개변수로 동전의 종류가 포함된 배열을 받습니다. remainingAmount 변수를 사용하여 거슬러줘야 할 금액을 계속 추적하며, result 배열에는 선택된 동전의 종류와 개수를 담습니다.
+
+sortedCoins 변수를 사용하여 큰 동전부터 선택하도록 정렬합니다. 이후에는 for 루프에서 선택한 동전으로 거슬러 줄 수 있는 만큼 계속해서 거슬러주며, 결과를 result 배열에 추가합니다. 마지막으로 result 배열을 반환합니다.
+
+위 코드를 실행하면, giveChange 함수를 사용하여 800원을 거슬러 줄 때 가장 적은 개수의 동전을 사용하는 방법을 계산할 수 있습니다. 출력 결과는 [500, 100, 100, 100, 50]와 같이 500원 1개, 100원 3개, 50원 1개를 사용하여 거슬러준 결과입니다.
+
+# 정리
+
+---
+
+일반적으로 외우지 않고 풀 수 있다는 장점이 있는 대신, 직감에 의해 특정 규칙을 발견하고 해당 규칙을 코드로 구현하는 과정에서 실수가 잦을 수 있습니다. 특히 알고리즘의 정당성을 검토하기 위해 다양한 Input sample을 마련해야 하는데, 문제를 풀기 전에 특정 사고에 갇혀 예외 케이스를 발견하지 못 해 문제를 해결하지 못하는 케이스가 많습니다. 따라서 문제를 풀기전에 sample을 미리 만들어 작성한 로직을 검토하는 방법이 유용할 수 있습니다.
+
+# 기타 및 참고 자료
+
+---
+
+저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다.
+
+- ["프로그래머스"](https://programmers.co.kr/)
+- ["백준"](https://www.acmicpc.net/)
+- ["이것이 취업을 위한 코딩테스트다"](https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB)
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/greedyAlgorithm.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2023-04-02"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"476966c5","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"개요"}],"\n",["$","hr","hr-0",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"알고리즘 학습을 안 한 지 오래되었습니다. 이직하면서 공부했을 법했지만 자의로 특정 회사를 지원해서 들어갔던 적은 거의 없었기 때문에 코딩테스트 준비를 할 일이 없어 아무래도 알고리즘 학습을 게을리해왔습다. 이번 이직을 준비하며 필자가 얼마나 기본기가 부족한지 깨닫게 되었고, 기초부터 학습하겠다고 마음먹고 알고리즘 공부를 시작하게 되었습니다. 오늘은 교재 1장에 나오는 그리드 알고리즘을 학습하여 해당 내용을 정리하는 글입니다."}],"\n",["$","h1",null,{"id":"07d9d075","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"그리드 알고리즘(Greedy algorithm은)"}],"\n",["$","hr","hr-1",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Greedy algorithm은 최적화 문제를 해결하는 알고리즘 중 하나로, 각 단계에서 지금 당장 최적인 선택을 계속해서 내려가면서 최종적으로 전체적으로 최적해를 찾아내는 방식입니다. 이 알고리즘은 지금 당장의 최적 선택이 반드시 최종적으로도 최적이 되는 것은 아니지만, 일반적으로는 그렇게 됩니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 알고리즘은 간단하며 직관적인 방법으로, 다양한 최적화 문제에서 적용 가능합니다. 예를 들어, 최소 스패닝 트리, 최단 경로, 배낭 문제 등에서 적용할 수 있습니다. 이 알고리즘의 기본적인 구조는 다음과 같습니다."}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"해의 후보 중에서 하나를 선택합니다."}],"\n",["$","li","li-1",{"children":"선택한 후보가 문제의 제약 조건에 부합하는지 확인합니다."}],"\n",["$","li","li-2",{"children":"부합한다면, 선택한 후보를 정답에 추가하고, 문제의 제약 조건을 수정합니다."}],"\n",["$","li","li-3",{"children":"제약 조건을 만족할 때까지 1-3 단계를 반복합니다."}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이때, 각 단계에서 지금 당장 최적인 선택을 하기 때문에, 전체적인 최적해를 찾기 위해선 이러한 선택이 계속해서 이루어져야 합니다. 하지만, 이 알고리즘이 항상 최적해를 보장하지는 않습니다. 일부 문제에서는 지역 최적해에 빠지는 경우가 발생할 수 있으며, 이 경우엔 다른 알고리즘을 사용해야 합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Greedy algorithm의 장점은 간단하며 직관적인 방법이라는 것입니다. 또한, 일반적으로 계산 시간이 짧아서 대용량 데이터에도 적용이 가능합니다. 하지만 이 알고리즘의 단점은 최적해가 보장되지 않는다는 것입니다. 따라서, Greedy algorithm을 적용할 때에는 문제의 특성을 잘 파악하고, 언제까지 선택을 이어나가야 할 지를 판단하는 것이 중요합니다."}],"\n",["$","h1",null,{"id":"633f6ef8","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"그리드 알고리즘 예시"}],"\n",["$","hr","hr-2",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Greedy algorithm의 예시 문제로는 \"거스름돈 문제(change-making problem)\"가 있습니다. 이 문제는 가장 적은 개수의 동전으로 거스름돈을 주는 문제입니다. 예를 들어, 500원짜리, 100원짜리, 50원짜리, 10원짜리 동전이 있다면 800원을 거슬러 주기 위해서는 500원짜리 1개, 100원짜리 3개, 50원짜리 1개를 사용하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 문제를 Greedy algorithm으로 해결할 경우, 가장 큰 동전부터 가능한 많이 사용하는 방법을 선택하면 됩니다. 따라서, 위의 예시에서는 500원짜리 1개를 선택하고, 남은 300원을 다시 계산합니다. 이후에는 100원짜리 3개, 50원짜리 1개를 선택하면 최소 개수의 동전으로 거스름돈을 줄 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"하지만, 이 문제에서 Greedy algorithm을 사용할 경우 모든 경우에서 최적해를 보장할 수 있는 것은 아닙니다. 예를 들어, 1원, 2원, 5원, 10원 동전이 있을 때, 18원을 거슬러 주는 경우 Greedy algorithm을 사용하면 10원짜리 1개, 5원짜리 1개, 2원짜리 1개, 1원짜리 1개를 사용하게 됩니다. 하지만, 최적해는 10원짜리 1개, 5원짜리 1개, 2원짜리 4개를 사용하는 것입니다. 따라서, 이 경우 Greedy algorithm을 사용하면 최적해를 보장할 수 없습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아래는 거스름돈 문제를 해결하기 위한 Swift 코드 예시입니다."}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"func giveChange(amount: Int, coins: [Int]) -> [Int] {\n    var remainingAmount = amount\n    var result = [Int]()\n\n    // coins를 큰 동전 순으로 정렬합니다.\n    let sortedCoins = coins.sorted(by: { $0 > $1 })\n\n    // 큰 동전부터 가능한 많이 사용하도록 선택합니다.\n    for coin in sortedCoins {\n        while remainingAmount >= coin {\n            remainingAmount -= coin\n            result.append(coin)\n        }\n    }\n\n    return result\n}\n\n// 테스트\nlet coins = [500, 100, 50, 10]\nlet amount = 800\nlet result = giveChange(amount: amount, coins: coins)\nprint(\"거스름돈: \\(result)\")  // 출력: 거스름돈: [500, 100, 100, 100, 50]\n"}],"position":{"start":{"line":37,"column":1,"offset":1850},"end":{"line":61,"column":4,"offset":2441}}},"children":"func giveChange(amount: Int, coins: [Int]) -> [Int] {\n    var remainingAmount = amount\n    var result = [Int]()\n\n    // coins를 큰 동전 순으로 정렬합니다.\n    let sortedCoins = coins.sorted(by: { $0 > $1 })\n\n    // 큰 동전부터 가능한 많이 사용하도록 선택합니다.\n    for coin in sortedCoins {\n        while remainingAmount >= coin {\n            remainingAmount -= coin\n            result.append(coin)\n        }\n    }\n\n    return result\n}\n\n// 테스트\nlet coins = [500, 100, 50, 10]\nlet amount = 800\nlet result = giveChange(amount: amount, coins: coins)\nprint(\"거스름돈: \\(result)\")  // 출력: 거스름돈: [500, 100, 100, 100, 50]\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위 코드에서는 giveChange 함수를 사용하여 거스름돈을 계산합니다. 이 함수는 amount 매개변수로 거슬러 줄 금액과 coins 매개변수로 동전의 종류가 포함된 배열을 받습니다. remainingAmount 변수를 사용하여 거슬러줘야 할 금액을 계속 추적하며, result 배열에는 선택된 동전의 종류와 개수를 담습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"sortedCoins 변수를 사용하여 큰 동전부터 선택하도록 정렬합니다. 이후에는 for 루프에서 선택한 동전으로 거슬러 줄 수 있는 만큼 계속해서 거슬러주며, 결과를 result 배열에 추가합니다. 마지막으로 result 배열을 반환합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위 코드를 실행하면, giveChange 함수를 사용하여 800원을 거슬러 줄 때 가장 적은 개수의 동전을 사용하는 방법을 계산할 수 있습니다. 출력 결과는 [500, 100, 100, 100, 50]와 같이 500원 1개, 100원 3개, 50원 1개를 사용하여 거슬러준 결과입니다."}],"\n",["$","h1",null,{"id":"c3541032","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"정리"}],"\n",["$","hr","hr-3",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"일반적으로 외우지 않고 풀 수 있다는 장점이 있는 대신, 직감에 의해 특정 규칙을 발견하고 해당 규칙을 코드로 구현하는 과정에서 실수가 잦을 수 있습니다. 특히 알고리즘의 정당성을 검토하기 위해 다양한 Input sample을 마련해야 하는데, 문제를 풀기 전에 특정 사고에 갇혀 예외 케이스를 발견하지 못 해 문제를 해결하지 못하는 케이스가 많습니다. 따라서 문제를 풀기전에 sample을 미리 만들어 작성한 로직을 검토하는 방법이 유용할 수 있습니다."}],"\n",["$","h1",null,{"id":"155ee9d9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"기타 및 참고 자료"}],"\n",["$","hr","hr-4",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"저작권 등 문제가 되는 부분이 있다면 삭제하겠습니다."}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["$","$Le",null,{"props":{"href":"https://programmers.co.kr/","node":{"type":"element","tagName":"a","properties":{"href":"https://programmers.co.kr/"},"children":[{"type":"text","value":"\"프로그래머스\"","position":{"start":{"line":81,"column":4,"offset":3246},"end":{"line":81,"column":12,"offset":3254}}}],"position":{"start":{"line":81,"column":3,"offset":3245},"end":{"line":81,"column":41,"offset":3283}}},"children":"\"프로그래머스\""},"post":{"title":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리","description":"그리드 알고리즘에 대해서 알아봅니다.","date":"2023-04-02T10:13:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"},{"name":"greedy","path":"/tags/greedy","id":"greedy"}],"author":"마고유","banner":"/images/greedyAlgorithm.jpg","project":"coding test","readMin":"6.5","totalCnt":22,"monthlyCnt":0,"weeklyCnt":0,"slug":"greedy+algoritm+학습","content":"$f","category":"algorithm"},"language":"kr"}]}],"\n",["$","li","li-1",{"children":["$","$Le",null,{"props":{"href":"https://www.acmicpc.net/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.acmicpc.net/"},"children":[{"type":"text","value":"\"백준\"","position":{"start":{"line":82,"column":4,"offset":3287},"end":{"line":82,"column":8,"offset":3291}}}],"position":{"start":{"line":82,"column":3,"offset":3286},"end":{"line":82,"column":35,"offset":3318}}},"children":"\"백준\""},"post":{"title":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리","description":"그리드 알고리즘에 대해서 알아봅니다.","date":"2023-04-02T10:13:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"},{"name":"greedy","path":"/tags/greedy","id":"greedy"}],"author":"마고유","banner":"/images/greedyAlgorithm.jpg","project":"coding test","readMin":"6.5","totalCnt":22,"monthlyCnt":0,"weeklyCnt":0,"slug":"greedy+algoritm+학습","content":"$10","category":"algorithm"},"language":"kr"}]}],"\n",["$","li","li-2",{"children":["$","$Le",null,{"props":{"href":"https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB","node":{"type":"element","tagName":"a","properties":{"href":"https://product.kyobobook.co.kr/detail/S000001810273?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-608444978378&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_FejwwhSFue2tP0WVJ6aA7CXKkT4IIop9fQy8idOEPW6wszz4vjYMaApsxEALw_wcB"},"children":[{"type":"text","value":"\"이것이 취업을 위한 코딩테스트다\"","position":{"start":{"line":83,"column":4,"offset":3322},"end":{"line":83,"column":23,"offset":3341}}}],"position":{"start":{"line":83,"column":3,"offset":3321},"end":{"line":83,"column":361,"offset":3679}}},"children":"\"이것이 취업을 위한 코딩테스트다\""},"post":{"title":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리","description":"그리드 알고리즘에 대해서 알아봅니다.","date":"2023-04-02T10:13:07.322Z","tags":[{"name":"coding test","path":"/tags/coding-test","id":"coding-test"},{"name":"알고리즘","path":"/tags/알고리즘","id":"알고리즘"},{"name":"코딩테스트","path":"/tags/코딩테스트","id":"코딩테스트"},{"name":"algorithm","path":"/tags/algorithm","id":"algorithm"},{"name":"greedy","path":"/tags/greedy","id":"greedy"}],"author":"마고유","banner":"/images/greedyAlgorithm.jpg","project":"coding test","readMin":"6.5","totalCnt":22,"monthlyCnt":0,"weeklyCnt":0,"slug":"greedy+algoritm+학습","content":"$11","category":"algorithm"},"language":"kr"}]}],"\n"]}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"[Swift] 그리드 알고리즘(Greedy algorithm) 정리","toc":[{"tagName":"h1","title":"개요","id":"476966c5"},{"tagName":"h1","title":"그리드 알고리즘(Greedy algorithm은)","id":"07d9d075"},{"tagName":"h1","title":"그리드 알고리즘 예시","id":"633f6ef8"},{"tagName":"h1","title":"정리","id":"c3541032"},{"tagName":"h1","title":"기타 및 참고 자료","id":"155ee9d9"}],"language":"kr"}]}]]}]]
+8:null

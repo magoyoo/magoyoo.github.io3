@@ -1,0 +1,1508 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","debugging%2Btricks%2Band%2Btips","d"],{"children":["__PAGE__?{\"slug\":\"debugging+tricks+and+tips\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","debugging%2Btricks%2Band%2Btips","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"debugging+tricks+and+tips\"}"},"styles":[]}],"segment":["slug","debugging%2Btricks%2Band%2Btips","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"[번역] Debugging Tricks and Tips - Debugging Auto Layout | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다."}],["$","meta","3",{"name":"keywords","content":"swift,auth layout,document,번역,UIKit"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/debugging+tricks+and+tips"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"[번역] Debugging Tricks and Tips - Debugging Auto Layout | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"[번역] Debugging Tricks and Tips - Debugging Auto Layout | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/debugging+tricks+and+tips"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/auto0804.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"[번역] Debugging Tricks and Tips - Debugging Auto Layout | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/auto0804.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+16:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"Image","async":false}
+1e:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+1f:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+10:T560,2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+11:T560,2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+12:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+13:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+14:T5bb,2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+15:T5bb,2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+17:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+18:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+19:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+1a:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+1b:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+1c:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+1d:T37b0,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# Debugging Tricks and Tips
+
+---
+
+이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다.
+
+# Understanding the Logs
+
+---
+
+만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다.
+
+어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다.
+
+```shell
+2015-08-26 14:27:54.790 Auto Layout Cookbook[10040:1906606] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7a895e30 UILabel:0x7a8724b0'Name'.leading == UIView:0x7a887ee0.leadingMargin>",
+    "<NSLayoutConstraint:0x7a886d20 H:[UILabel:0x7a8724b0'Name']-(NSSpace(8))-[UITextField:0x7a88cff0]>",
+    "<NSLayoutConstraint:0x7a87b2e0 UITextField:0x7a88cff0.trailing == UIView:0x7a887ee0.trailingMargin>",
+    "<NSLayoutConstraint:0x7ac7c430 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a887ee0(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7a87b000 H:[UILabel:0x7a8724b0'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다.
+
+다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다.
+
+1. 레이블의 너비는 400포인트보다 크거나 같습니다.
+2. 레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다.
+3. 레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다.
+4. 텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다.
+5. 수퍼뷰의 너비는 320포인트로 설정됩니다.
+
+시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다.
+
+> NOTE
+>
+> 제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 [Visual Format Language](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1)를 참조하세요.
+
+이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다.
+
+뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: [translatesAutoresizingMaskIntoConstraints](https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco)가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다.
+
+예를 들어 다음 로그 메시지를 고려하십시오.
+
+```shell
+<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>
+```
+
+이 메시지는 다음 부분으로 구성됩니다.
+
+- NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다.
+- h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다.
+- H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다.
+
+# Adding Identifiers to the Logs
+
+---
+
+이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다.
+
+보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다.
+
+제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다.
+
+예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다.
+
+```shell
+2015-08-26 14:29:32.870 Auto Layout Cookbook[10208:1918826] Unable to simultaneously satisfy constraints.
+    Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints)
+(
+    "<NSLayoutConstraint:0x7b58bac0 'Label Leading' UILabel:0x7b58b040'Name'.leading == UIView:0x7b590790.leadingMargin>",
+    "<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>",
+    "<NSLayoutConstraint:0x7b58baf0 'Space Between Controls' H:[UILabel:0x7b58b040'Name']-(NSSpace(8))-[UITextField:0x7b589490]>",
+    "<NSLayoutConstraint:0x7b51cb10 'Text Field Trailing' UITextField:0x7b589490.trailing == UIView:0x7b590790.trailingMargin>",
+    "<NSLayoutConstraint:0x7b0758c0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b590790(320)]>"
+)
+
+Will attempt to recover by breaking constraint
+<NSLayoutConstraint:0x7b56d020 'Label Width' H:[UILabel:0x7b58b040'Name'(>=400)]>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+```
+
+보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다.
+
+# Visualizing Views and Constraints
+
+---
+
+Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다.
+
+시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:
+
+1. 시뮬레이터에서 앱을 실행합니다.
+2. Xcode로 다시 전환합니다.
+3. Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다.
+
+![image02](/images/auto0802.jpg)
+
+정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다.
+
+![image04](/images/auto0804.jpg)
+
+더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 "Show clipped content" 및 "Show constraints" 옵션이 특히 유용합니다.
+
+![image03](/images/auto0803.jpg)
+
+"Show clipped content" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. "Show constraints" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다.
+
+자세한 내용은 [Debug Area Help](http://help.apple.com/xcode)을 참조하세요.
+
+# Understanding Edge Cases
+
+---
+
+다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다.
+
+- 오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.
+  자세한 내용은 *[UIView Class Reference](https://developer.apple.com/documentation/uikit/uiview)*의 오토 레이아웃으로 보기 정렬을 참조하십시오.
+- iOS에서는 뷰의 [transform](https://developer.apple.com/documentation/uikit/uiview/1622459-transform) 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다.
+- 뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.
+  보기의 [clipsToBounds](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다.
+- [NSLayoutAttributeBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline), [NSLayoutAttributeFirstBaseline](https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline) 및 [NSLayoutAttributeLastBaseline](https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline) 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다.
+- 제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다.
+- 종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/auto0804.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"[번역] Debugging Tricks and Tips - Debugging Auto Layout"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"[번역] Debugging Tricks and Tips - Debugging Auto Layout"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2023-05-03"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"476966c5","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"개요"}],"\n",["$","hr","hr-0",{}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["해당 문서는 학습 목적으로 Apple 공식 문서인 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/"},"children":[{"type":"text","value":"Auto Layout Guide","position":{"start":{"line":6,"column":32,"offset":43},"end":{"line":6,"column":49,"offset":60}}}],"position":{"start":{"line":6,"column":31,"offset":42},"end":{"line":6,"column":149,"offset":160}}},"children":"Auto Layout Guide"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$e","category":"swift"},"language":"kr"}],"을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다."]}],"\n"]}],"\n",["$","h1",null,{"id":"313d78a0","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Debugging Tricks and Tips"}],"\n",["$","hr","hr-1",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이번 챕터에서는 레이아웃에 대한 정보를 수집하고 구성하는 기술과 발생할 수 있는 몇 가지 놀라운 동작에 대해 설명합니다. 모든 레이아웃에서 이러한 기술을 사용할 필요는 없지만 가장 어려운 문제를 해결하는 데 도움이 될 수 있습니다."}],"\n",["$","h1",null,{"id":"4c6517fa","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Understanding the Logs"}],"\n",["$","hr","hr-2",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"만족할 수 없는 레이아웃이 있거나 ConstraintsAffectingLayoutForAxis: 또는 constraintsAffectingLayoutForOrientation: 디버깅 방법을 사용하여 제약 조건을 명시적으로 기록했기 때문에 뷰에 대한 정보를 콘솔에 인쇄할 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"어느 쪽이든 이 로그에서 많은 유용한 정보를 찾을 수 있습니다. 만족할 수 없는 레이아웃 오류의 샘플 출력은 다음과 같습니다."}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-shell","node":{"type":"element","tagName":"code","properties":{"className":["language-shell"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":22,"column":1,"offset":663},"end":{"line":38,"column":4,"offset":2051}}},"children":"$11"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 오류 메시지는 5개의 충돌하는 구속조건을 보여줍니다. 이러한 모든 제약 조건이 동시에 참일 수는 없습니다. 하나를 제거하거나 선택적 제약 조건으로 변환해야 합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"다행스럽게도 뷰 계층 구조는 비교적 간단합니다. 레이블과 텍스트 필드를 포함하는 슈퍼뷰가 있습니다. 충돌하는 제약 조건은 다음 관계를 설정합니다."}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"레이블의 너비는 400포인트보다 크거나 같습니다."}],"\n",["$","li","li-1",{"children":"레이블의 leading edge는 수퍼뷰의 leading margin과 동일합니다."}],"\n",["$","li","li-2",{"children":"레이블과 텍스트 필드 사이에는 8포인트 간격이 있습니다."}],"\n",["$","li","li-3",{"children":"텍스트 필드의 trailing edge는 수퍼뷰의 trailing margin과 같습니다."}],"\n",["$","li","li-4",{"children":"수퍼뷰의 너비는 320포인트로 설정됩니다."}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"시스템은 레이블의 너비 조건을 깨서 복구를 시도합니다."}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"NOTE"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["제약 조건은 Visual Format Language를 사용하여 콘솔에 기록됩니다. Visual Format Language를 사용하여 고유한 제약 조건을 만든 적이 없더라도 Auto Layout 문제를 효과적으로 디버깅하려면 Visual Format Language를 읽고 이해할 수 있어야 합니다. 자세한 내용은 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/VisualFormatLanguage.html#//apple_ref/doc/uid/TP40010853-CH27-SW1"},"children":[{"type":"text","value":"Visual Format Language","position":{"start":{"line":54,"column":181,"offset":2650},"end":{"line":54,"column":203,"offset":2672}}}],"position":{"start":{"line":54,"column":180,"offset":2649},"end":{"line":54,"column":368,"offset":2837}}},"children":"Visual Format Language"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$12","category":"swift"},"language":"kr"}],"를 참조하세요."]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이러한 제약 조건 중 마지막 제약 조건은 시스템에서 생성한 것입니다. 변경할 수 없습니다. 또한 첫 번째 제약 조건과 명백한 충돌이 발생합니다. 슈퍼뷰의 너비가 320포인트에 불과한 경우 400포인트 너비의 레이블을 가질 수 없습니다. 다행히 첫 번째 제약 조건을 제거할 필요는 없습니다. 우선순위를 999로 낮추면 시스템은 여전히 선택한 너비를 제공하려고 시도합니다. 다른 제약 조건을 여전히 만족시키면서 가능한 한 가깝게 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["뷰의 autoresizing mask를 기반으로 하는 제약 조건(예: ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622572-translatesautoresizingmaskintoco"},"children":[{"type":"text","value":"translatesAutoresizingMaskIntoConstraints","position":{"start":{"line":58,"column":41,"offset":3133},"end":{"line":58,"column":82,"offset":3174}}}],"position":{"start":{"line":58,"column":40,"offset":3132},"end":{"line":58,"column":180,"offset":3272}}},"children":"translatesAutoresizingMaskIntoConstraints"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$13","category":"swift"},"language":"kr"}],"가 YES일 때 생성되는 제약 조건)에는 마스크에 대한 추가 정보가 있습니다. 제약 조건의 주소 뒤에 로그 문자열에는 h= 뒤에 세 문자가 표시되고 v= 뒤에 세 문자가 표시됩니다. A -(하이픈) 문자는 고정 값을 나타내고 &(앰퍼샌드)는 가변 값을 나타냅니다. 가로 마스크(h=)의 경우 세 문자는 왼쪽 여백, 너비 및 오른쪽 여백을 나타냅니다. 세로 마스크(v=)의 경우 위쪽 여백, 높이 및 아래쪽 여백을 나타냅니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"예를 들어 다음 로그 메시지를 고려하십시오."}],"\n",["$","pre","pre-1",{"children":["$","$Lf",null,{"props":{"className":"language-shell","node":{"type":"element","tagName":"code","properties":{"className":["language-shell"]},"children":[{"type":"text","value":"<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>\n"}],"position":{"start":{"line":62,"column":1,"offset":3537},"end":{"line":64,"column":4,"offset":3643}}},"children":"<NSAutoresizingMaskLayoutConstraint:0x7ff28252e480 h=--& v=--& H:[UIView:0x7ff282617cc0(50)]>\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 메시지는 다음 부분으로 구성됩니다."}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"NSAutoresizingMaskLayoutConstraint:0x7ff28252e480: 제약 조건의 클래스 및 주소. 이 예제에서 클래스는 보기의 자동 크기 조정 마스크를 기반으로 한다고 알려줍니다."}],"\n",["$","li","li-1",{"children":"h=--& v=—&: 뷰의 autoresizing mask. 이것이 기본 마스크입니다. 가로로 고정된 왼쪽 여백, 고정된 너비 및 유연한 오른쪽 여백이 있습니다. 세로로 고정된 위쪽 여백, 고정된 높이 및 유연한 아래쪽 여백이 있습니다. 즉, 슈퍼뷰의 크기가 변경될 때 뷰의 왼쪽 상단 모서리와 크기는 일정하게 유지됩니다."}],"\n",["$","li","li-2",{"children":"H:[UIView:0x7ff282617cc0(50)]: 제약 조건의 시각적 형식 언어 설명입니다. 이 예에서는 너비가 50포인트인 단일 보기를 정의합니다. 이 설명에는 제약 조건의 영향을 받는 뷰의 클래스와 주소도 포함됩니다."}],"\n"]}],"\n",["$","h1",null,{"id":"8820021f","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Adding Identifiers to the Logs"}],"\n",["$","hr","hr-3",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이전 예제는 상대적으로 이해하기 쉬웠지만 더 긴 제약 조건 목록은 빠르게 따라가기가 어려워집니다. 모든 뷰 및 제약 조건에 의미 있는 식별자를 제공하여 로그를 더 쉽게 읽을 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"보기에 명백한 텍스트 구성 요소가 있는 경우 Xcode는 이를 식별자로 사용합니다. 예를 들어 Xcode는 레이블의 텍스트, 버튼의 제목 또는 텍스트 필드의 자리 표시자를 사용하여 이러한 보기를 식별합니다. 그렇지 않으면 Identity inspector에서 보기의 Xcode 특정 레이블을 설정합니다. Interface Builder는 인터페이스 전체에서 이러한 식별자를 사용합니다. 이들 중 다수는 콘솔 로그에도 표시됩니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"제약 조건의 경우 프로그래밍 방식으로 또는 속성 관리자를 사용하여 해당 식별자 속성을 설정합니다. 자동 레이아웃은 콘솔에 정보를 인쇄할 때 이러한 식별자를 사용합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"예를 들어, 다음은 식별자가 설정된 동일한 만족할 수 없는 제약 조건 오류입니다."}],"\n",["$","pre","pre-2",{"children":["$","$Lf",null,{"props":{"className":"language-shell","node":{"type":"element","tagName":"code","properties":{"className":["language-shell"]},"children":[{"type":"text","value":"$14"}],"position":{"start":{"line":84,"column":1,"offset":4625},"end":{"line":100,"column":4,"offset":6104}}},"children":"$15"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"보시다시피 이러한 식별자를 사용하면 로그에서 제약 조건을 빠르고 쉽게 인식할 수 있습니다."}],"\n",["$","h1",null,{"id":"c0130e57","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Visualizing Views and Constraints"}],"\n",["$","hr","hr-4",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Xcode는 뷰 계층 구조의 뷰와 제약 조건을 시각화하는 데 도움이 되는 도구를 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"시뮬레이터에서 뷰를 보려면 다음을 수행하십시오:"}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":"시뮬레이터에서 앱을 실행합니다."}],"\n",["$","li","li-1",{"children":"Xcode로 다시 전환합니다."}],"\n",["$","li","li-2",{"children":"Debug > View Debugging > Show Alignment Rectangles를 선택합니다. 이 설정은 뷰의 가장자리를 설명합니다."}],"\n"]}],"\n",["$","$L16",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/auto0802.jpg","alt":"image02"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"정렬 사각형은 오토 레이아웃에서 사용되는 가장자리입니다. 이 옵션을 켜면 예기치 않게 크기가 조정된 정렬 사각형을 빠르게 찾을 수 있습니다."}],"\n",["$","$L16",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/auto0804.jpg","alt":"image04"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"더 많은 정보가 필요하면 Xcode 디버그 표시줄에서 Debug View Hierarchy 버튼(위 아이콘 모양)을 클릭하십시오. 그런 다음 Xcode는 대화형 뷰 디버거를 표시하여 뷰 계층 구조를 탐색하고 상호 작용할 수 있는 다양한 도구를 제공합니다. 자동 레이아웃 문제를 디버깅할 때 \"Show clipped content\" 및 \"Show constraints\" 옵션이 특히 유용합니다."}],"\n",["$","$L16",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/auto0803.jpg","alt":"image03"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"\"Show clipped content\" 옵션을 활성화하면 실수로 화면 밖에 배치되었을 수 있는 뷰의 위치가 표시됩니다. \"Show constraints\" 옵션을 활성화하면 현재 선택된 보기에 영향을 미치는 모든 제약이 표시됩니다. 두 가지 옵션 모두 이상하게 작동하기 시작할 때 빠른 온전성 검사를 제공합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["자세한 내용은 ",["$","$Ld",null,{"props":{"href":"http://help.apple.com/xcode","node":{"type":"element","tagName":"a","properties":{"href":"http://help.apple.com/xcode"},"children":[{"type":"text","value":"Debug Area Help","position":{"start":{"line":128,"column":10,"offset":6995},"end":{"line":128,"column":25,"offset":7010}}}],"position":{"start":{"line":128,"column":9,"offset":6994},"end":{"line":128,"column":55,"offset":7040}}},"children":"Debug Area Help"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$17","category":"swift"},"language":"kr"}],"을 참조하세요."]}],"\n",["$","h1",null,{"id":"4466d166","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Understanding Edge Cases"}],"\n",["$","hr","hr-5",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"다음은 오토 레이아웃이 예기치 않은 방식으로 작동하도록 할 수 있는 몇 가지 극단적인 경우입니다."}],"\n",["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":["오토 레이아웃은 프레임이 아닌 정렬 사각형을 기준으로 보기를 배치합니다. 대부분의 경우 이러한 값은 동일합니다. 그러나 일부 보기는 레이아웃 계산에서 보기의 일부(예: 배지)를 제외하도록 사용자 지정 정렬 사각형을 설정할 수 있습니다.\n자세한 내용은 *",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uiview","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uiview"},"children":[{"type":"text","value":"UIView Class Reference","position":{"start":{"line":137,"column":13,"offset":7285},"end":{"line":137,"column":35,"offset":7307}}}],"position":{"start":{"line":137,"column":12,"offset":7284},"end":{"line":137,"column":92,"offset":7364}}},"children":"UIView Class Reference"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$18","category":"swift"},"language":"kr"}],"*의 오토 레이아웃으로 보기 정렬을 참조하십시오."]}],"\n",["$","li","li-1",{"children":["iOS에서는 뷰의 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622459-transform","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622459-transform"},"children":[{"type":"text","value":"transform","position":{"start":{"line":138,"column":14,"offset":7405},"end":{"line":138,"column":23,"offset":7414}}}],"position":{"start":{"line":138,"column":13,"offset":7404},"end":{"line":138,"column":98,"offset":7489}}},"children":"transform"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$19","category":"swift"},"language":"kr"}]," 속성을 사용하여 뷰의 크기를 조정하거나 회전하거나 이동할 수 있습니다. 그러나 이러한 변환은 Auto Layout의 계산에 어떤 식으로든 영향을 미치지 않습니다. 자동 레이아웃은 변환되지 않은 프레임을 기반으로 보기의 정렬 사각형을 계산합니다."]}],"\n",["$","li","li-2",{"children":["뷰는 bounds 밖에 있는 콘텐츠를 표시할 수 있습니다. 대부분의 경우 뷰는 적절하게 동작하고 콘텐츠를 경계로 제한합니다. 그러나 성능상의 이유로 이것은 그래픽 엔진에 의해 시행되지 않습니다. 이는 뷰(특히 사용자 지정 드로잉이 있는 뷰)가 해당 프레임과 다른 크기로 그려질 수 있음을 의미합니다.\n보기의 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds"},"children":[{"type":"text","value":"clipsToBounds","position":{"start":{"line":140,"column":8,"offset":7804},"end":{"line":140,"column":21,"offset":7817}}}],"position":{"start":{"line":140,"column":7,"offset":7803},"end":{"line":140,"column":100,"offset":7896}}},"children":"clipsToBounds"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$1a","category":"swift"},"language":"kr"}]," 속성을 YES로 설정하거나 뷰의 프레임 크기를 확인하여 이러한 버그를 식별할 수 있습니다."]}],"\n",["$","li","li-3",{"children":[["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributebaseline"},"children":[{"type":"text","value":"NSLayoutAttributeBaseline","position":{"start":{"line":141,"column":4,"offset":7951},"end":{"line":141,"column":29,"offset":7976}}}],"position":{"start":{"line":141,"column":3,"offset":7950},"end":{"line":141,"column":124,"offset":8071}}},"children":"NSLayoutAttributeBaseline"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$1b","category":"swift"},"language":"kr"}],", ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/appkit/nslayoutattribute/nslayoutattributefirstbaseline"},"children":[{"type":"text","value":"NSLayoutAttributeFirstBaseline","position":{"start":{"line":141,"column":127,"offset":8074},"end":{"line":141,"column":157,"offset":8104}}}],"position":{"start":{"line":141,"column":126,"offset":8073},"end":{"line":141,"column":257,"offset":8204}}},"children":"NSLayoutAttributeFirstBaseline"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$1c","category":"swift"},"language":"kr"}]," 및 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/appkit/nslayoutconstraint/attribute/lastbaseline"},"children":[{"type":"text","value":"NSLayoutAttributeLastBaseline","position":{"start":{"line":141,"column":261,"offset":8208},"end":{"line":141,"column":290,"offset":8237}}}],"position":{"start":{"line":141,"column":260,"offset":8207},"end":{"line":141,"column":383,"offset":8330}}},"children":"NSLayoutAttributeLastBaseline"},"post":{"title":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","description":"apple 공식 문서인 Auto Layout Guide 중 Debugging Tricks and Tips - Debugging Auto Layout Chapter를 번역한 글입니다.","date":"2023-05-03T13:28:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0804.jpg","project":"swift auto layout","readMin":"12.8","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"debugging+tricks+and+tips","content":"$1d","category":"swift"},"language":"kr"}]," 속성은 모든 뷰가 고유 콘텐츠 높이에 표시될 때만 텍스트를 올바르게 정렬합니다. 뷰 중 하나가 수직으로 늘어나거나 줄어들면 해당 텍스트가 잘못된 위치에 나타날 수 있습니다."]}],"\n",["$","li","li-4",{"children":"제약 조건 우선 순위는 전체 뷰 계층 구조에서 전역 속성으로 작동합니다. 스택 뷰, 레이아웃 가이드 또는 더미 뷰 내에서 뷰를 그룹화하여 레이아웃을 단순화할 수 있습니다. 그러나 이 접근 방식은 포함된 뷰의 우선 순위를 캡슐화하지 않습니다. 오토 레이아웃은 그룹 내부의 우선 순위를 그룹 외부의 우선 순위(또는 다른 그룹 내부의 우선 순위까지)와 계속 비교합니다."}],"\n",["$","li","li-5",{"children":"종횡비 제약 조건을 사용하면 수평 및 수직 제약 조건이 상호 작용할 수 있습니다. 일반적으로 가로 및 세로 레이아웃은 별도로 계산됩니다. 그러나 뷰의 너비를 기준으로 높이를 제한하면 세로 및 가로 제한 사이에 연결이 생성됩니다. 이제 서로 영향을 미치고 충돌할 수 있습니다. 이러한 상호 작용은 레이아웃의 복잡성을 크게 증가시키고 레이아웃의 관련 없는 부분 간에 예기치 않은 충돌을 일으킬 수 있습니다."}],"\n"]}]]}]}],["$","$L1e",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L1f",null,{"articleTitle":"[번역] Debugging Tricks and Tips - Debugging Auto Layout","toc":[{"tagName":"h1","title":"개요","id":"476966c5"},{"tagName":"h1","title":"Debugging Tricks and Tips","id":"313d78a0"},{"tagName":"h1","title":"Understanding the Logs","id":"4c6517fa"},{"tagName":"h1","title":"Adding Identifiers to the Logs","id":"8820021f"},{"tagName":"h1","title":"Visualizing Views and Constraints","id":"c0130e57"},{"tagName":"h1","title":"Understanding Edge Cases","id":"4466d166"}],"language":"kr"}]}]]}]]
+8:null

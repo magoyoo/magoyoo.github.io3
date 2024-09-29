@@ -1,0 +1,176 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","Swift%EC%97%90%EC%84%9C-Date%EC%99%80-Calendar%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],{"children":["__PAGE__?{\"slug\":\"Swift에서-Date와-Calendar를-사용하는-방법\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","Swift%EC%97%90%EC%84%9C-Date%EC%99%80-Calendar%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"Swift에서-Date와-Calendar를-사용하는-방법\"}"},"styles":[]}],"segment":["slug","Swift%EC%97%90%EC%84%9C-Date%EC%99%80-Calendar%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"Swift에서 Date와 Calendar를 사용하여 날짜와 시간을 관리하는 방법을 설명합니다. 날짜 생성, 비교, 계산 및 포맷팅 방법을 다양한 예제를 통해 알아봅니다."}],["$","meta","3",{"name":"keywords","content":"swift,기본문법"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/Swift%EC%97%90%EC%84%9C-Date%EC%99%80-Calendar%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"Swift에서 Date와 Calendar를 사용하여 날짜와 시간을 관리하는 방법을 설명합니다. 날짜 생성, 비교, 계산 및 포맷팅 방법을 다양한 예제를 통해 알아봅니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/Swift%EC%97%90%EC%84%9C-Date%EC%99%80-Calendar%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"Swift에서 Date와 Calendar를 사용하여 날짜와 시간을 관리하는 방법을 설명합니다. 날짜 생성, 비교, 계산 및 포맷팅 방법을 다양한 예제를 통해 알아봅니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:T127f,
+## Swift에서 Date와 Calendar를 사용하는 방법
+
+Swift에서 날짜와 시간 관련 작업을 처리할 때 `Date`와 `Calendar`를 활용하면 매우 유용합니다. 이 글에서는 `Date`와 `Calendar`를 사용하는 다양한 방법과 실용적인 예제를 통해 이를 효율적으로 다루는 방법을 설명합니다.
+
+## 1. Date 클래스 이해하기
+
+`Date` 클래스는 특정 시점을 나타내는 객체로, 날짜와 시간 정보를 초 단위로 저장합니다. `Date` 객체를 생성하고 현재 날짜와 시간을 얻는 기본적인 방법은 다음과 같습니다.
+
+### 현재 날짜와 시간 얻기
+
+```swift
+import Foundation
+
+let currentDate = Date()
+print("현재 날짜와 시간: \(currentDate)")
+```
+
+### 특정 날짜와 시간 생성
+
+```swift
+import Foundation
+
+var dateComponents = DateComponents()
+dateComponents.year = 2024
+dateComponents.month = 5
+dateComponents.day = 29
+dateComponents.hour = 12
+dateComponents.minute = 0
+
+if let specificDate = Calendar.current.date(from: dateComponents) {
+    print("특정 날짜와 시간: \(specificDate)")
+} else {
+    print("날짜 생성에 실패했습니다.")
+}
+```
+
+## 2. Calendar 클래스 이해하기
+
+`Calendar` 클래스는 날짜와 시간 연산을 수행하는 데 사용됩니다. 이를 통해 날짜를 비교하거나, 특정 날짜를 기준으로 날짜를 계산할 수 있습니다.
+
+### 날짜 비교하기
+
+두 날짜를 비교하여 같은 날인지 확인할 수 있습니다.
+
+```swift
+import Foundation
+
+let calendar = Calendar.current
+
+let date1 = Date()
+let date2 = calendar.date(byAdding: .day, value: 1, to: date1)!
+
+let isSameDay = calendar.isDate(date1, inSameDayAs: date2)
+print("같은 날인가요? \(isSameDay)")
+```
+
+### 날짜 계산하기
+
+특정 날짜에 일, 월, 년 등을 더하거나 빼는 작업을 할 수 있습니다.
+
+```swift
+import Foundation
+
+let today = Date()
+if let tomorrow = calendar.date(byAdding: .day, value: 1, to: today) {
+    print("내일 날짜: \(tomorrow)")
+}
+
+if let nextMonth = calendar.date(byAdding: .month, value: 1, to: today) {
+    print("다음 달 날짜: \(nextMonth)")
+}
+```
+
+## 3. DateFormatter를 사용하여 날짜 포맷팅
+
+`DateFormatter`를 사용하면 날짜와 시간을 원하는 형식으로 문자열로 변환할 수 있습니다.
+
+### 날짜를 문자열로 변환
+
+```swift
+import Foundation
+
+let dateFormatter = DateFormatter()
+dateFormatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
+let dateString = dateFormatter.string(from: currentDate)
+print("포맷된 날짜 문자열: \(dateString)")
+```
+
+### 문자열을 날짜로 변환
+
+```swift
+import Foundation
+
+let dateString = "2024-05-29 12:00:00"
+let dateFormatter = DateFormatter()
+dateFormatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
+
+if let date = dateFormatter.date(from: dateString) {
+    print("변환된 날짜: \(date)")
+} else {
+    print("날짜 변환에 실패했습니다.")
+}
+```
+
+## 4. 날짜와 시간 구성 요소 추출
+
+`Calendar`를 사용하여 `Date` 객체에서 특정 구성 요소를 추출할 수 있습니다.
+
+```swift
+import Foundation
+
+let date = Date()
+let calendar = Calendar.current
+
+let year = calendar.component(.year, from: date)
+let month = calendar.component(.month, from: date)
+let day = calendar.component(.day, from: date)
+let hour = calendar.component(.hour, from: date)
+let minute = calendar.component(.minute, from: date)
+
+print("년도: \(year), 월: \(month), 일: \(day), 시: \(hour), 분: \(minute)")
+```
+
+## 5. 복잡한 날짜 계산
+
+### 주간 단위로 날짜 계산
+
+```swift
+import Foundation
+
+let today = Date()
+let calendar = Calendar.current
+
+if let nextWeek = calendar.date(byAdding: .weekOfYear, value: 1, to: today) {
+    print("다음 주 날짜: \(nextWeek)")
+}
+```
+
+### 특정 요일 찾기
+
+예를 들어, 다음 주 금요일의 날짜를 찾으려면 다음과 같이 할 수 있습니다.
+
+```swift
+import Foundation
+
+let today = Date()
+let calendar = Calendar.current
+
+if let nextFriday = calendar.nextDate(after: today, matching: DateComponents(weekday: 6), matchingPolicy: .nextTime) {
+    print("다음 금요일 날짜: \(nextFriday)")
+}
+```
+
+## 결론
+
+Swift에서 `Date`와 `Calendar`를 사용하면 날짜와 시간을 효과적으로 관리할 수 있습니다. 이를 통해 날짜를 생성하고 비교하며, 포맷팅하고 계산하는 등 다양한 작업을 수행할 수 있습니다. `DateFormatter`와 함께 사용하여 날짜와 시간 데이터를 다루는 방법을 익히면, 보다 복잡한 날짜 처리 작업을 손쉽게 할 수 있습니다.
+
+더 많은 정보는 [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/date)에서 확인할 수 있습니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBasic.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-05-29"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"16266db5","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Swift에서 Date와 Calendar를 사용하는 방법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift에서 날짜와 시간 관련 작업을 처리할 때 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":4,"column":29,"offset":65},"end":{"line":4,"column":35,"offset":71}}}],"position":{"start":{"line":4,"column":29,"offset":65},"end":{"line":4,"column":35,"offset":71}}},"children":"Date"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Calendar","position":{"start":{"line":4,"column":37,"offset":73},"end":{"line":4,"column":47,"offset":83}}}],"position":{"start":{"line":4,"column":37,"offset":73},"end":{"line":4,"column":47,"offset":83}}},"children":"Calendar"}}],"를 활용하면 매우 유용합니다. 이 글에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":4,"column":71,"offset":107},"end":{"line":4,"column":77,"offset":113}}}],"position":{"start":{"line":4,"column":71,"offset":107},"end":{"line":4,"column":77,"offset":113}}},"children":"Date"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Calendar","position":{"start":{"line":4,"column":79,"offset":115},"end":{"line":4,"column":89,"offset":125}}}],"position":{"start":{"line":4,"column":79,"offset":115},"end":{"line":4,"column":89,"offset":125}}},"children":"Calendar"}}],"를 사용하는 다양한 방법과 실용적인 예제를 통해 이를 효율적으로 다루는 방법을 설명합니다."]}],"\n",["$","h2",null,{"id":"08c9c514","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"1. Date 클래스 이해하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":8,"column":1,"offset":198},"end":{"line":8,"column":7,"offset":204}}}],"position":{"start":{"line":8,"column":1,"offset":198},"end":{"line":8,"column":7,"offset":204}}},"children":"Date"}}]," 클래스는 특정 시점을 나타내는 객체로, 날짜와 시간 정보를 초 단위로 저장합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":8,"column":54,"offset":251},"end":{"line":8,"column":60,"offset":257}}}],"position":{"start":{"line":8,"column":54,"offset":251},"end":{"line":8,"column":60,"offset":257}}},"children":"Date"}}]," 객체를 생성하고 현재 날짜와 시간을 얻는 기본적인 방법은 다음과 같습니다."]}],"\n",["$","h3",null,{"id":"08d58403","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"현재 날짜와 시간 얻기"}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet currentDate = Date()\nprint(\"현재 날짜와 시간: \\(currentDate)\")\n"}],"position":{"start":{"line":12,"column":1,"offset":319},"end":{"line":17,"column":4,"offset":410}}},"children":"import Foundation\n\nlet currentDate = Date()\nprint(\"현재 날짜와 시간: \\(currentDate)\")\n"}}]}],"\n",["$","h3",null,{"id":"9e6377c9","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"특정 날짜와 시간 생성"}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nvar dateComponents = DateComponents()\ndateComponents.year = 2024\ndateComponents.month = 5\ndateComponents.day = 29\ndateComponents.hour = 12\ndateComponents.minute = 0\n\nif let specificDate = Calendar.current.date(from: dateComponents) {\n    print(\"특정 날짜와 시간: \\(specificDate)\")\n} else {\n    print(\"날짜 생성에 실패했습니다.\")\n}\n"}],"position":{"start":{"line":21,"column":1,"offset":430},"end":{"line":36,"column":4,"offset":774}}},"children":"import Foundation\n\nvar dateComponents = DateComponents()\ndateComponents.year = 2024\ndateComponents.month = 5\ndateComponents.day = 29\ndateComponents.hour = 12\ndateComponents.minute = 0\n\nif let specificDate = Calendar.current.date(from: dateComponents) {\n    print(\"특정 날짜와 시간: \\(specificDate)\")\n} else {\n    print(\"날짜 생성에 실패했습니다.\")\n}\n"}}]}],"\n",["$","h2",null,{"id":"808587ed","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"2. Calendar 클래스 이해하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Calendar","position":{"start":{"line":40,"column":1,"offset":801},"end":{"line":40,"column":11,"offset":811}}}],"position":{"start":{"line":40,"column":1,"offset":801},"end":{"line":40,"column":11,"offset":811}}},"children":"Calendar"}}]," 클래스는 날짜와 시간 연산을 수행하는 데 사용됩니다. 이를 통해 날짜를 비교하거나, 특정 날짜를 기준으로 날짜를 계산할 수 있습니다."]}],"\n",["$","h3",null,{"id":"e297fe27","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"날짜 비교하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"두 날짜를 비교하여 같은 날인지 확인할 수 있습니다."}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet calendar = Calendar.current\n\nlet date1 = Date()\nlet date2 = calendar.date(byAdding: .day, value: 1, to: date1)!\n\nlet isSameDay = calendar.isDate(date1, inSameDayAs: date2)\nprint(\"같은 날인가요? \\(isSameDay)\")\n"}],"position":{"start":{"line":46,"column":1,"offset":932},"end":{"line":56,"column":4,"offset":1170}}},"children":"import Foundation\n\nlet calendar = Calendar.current\n\nlet date1 = Date()\nlet date2 = calendar.date(byAdding: .day, value: 1, to: date1)!\n\nlet isSameDay = calendar.isDate(date1, inSameDayAs: date2)\nprint(\"같은 날인가요? \\(isSameDay)\")\n"}}]}],"\n",["$","h3",null,{"id":"1241dd40","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"날짜 계산하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"특정 날짜에 일, 월, 년 등을 더하거나 빼는 작업을 할 수 있습니다."}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet today = Date()\nif let tomorrow = calendar.date(byAdding: .day, value: 1, to: today) {\n    print(\"내일 날짜: \\(tomorrow)\")\n}\n\nif let nextMonth = calendar.date(byAdding: .month, value: 1, to: today) {\n    print(\"다음 달 날짜: \\(nextMonth)\")\n}\n"}],"position":{"start":{"line":62,"column":1,"offset":1226},"end":{"line":73,"column":4,"offset":1493}}},"children":"import Foundation\n\nlet today = Date()\nif let tomorrow = calendar.date(byAdding: .day, value: 1, to: today) {\n    print(\"내일 날짜: \\(tomorrow)\")\n}\n\nif let nextMonth = calendar.date(byAdding: .month, value: 1, to: today) {\n    print(\"다음 달 날짜: \\(nextMonth)\")\n}\n"}}]}],"\n",["$","h2",null,{"id":"2d50c6e1","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"3. DateFormatter를 사용하여 날짜 포맷팅"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"DateFormatter","position":{"start":{"line":77,"column":1,"offset":1529},"end":{"line":77,"column":16,"offset":1544}}}],"position":{"start":{"line":77,"column":1,"offset":1529},"end":{"line":77,"column":16,"offset":1544}}},"children":"DateFormatter"}}],"를 사용하면 날짜와 시간을 원하는 형식으로 문자열로 변환할 수 있습니다."]}],"\n",["$","h3",null,{"id":"d228f005","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"날짜를 문자열로 변환"}],"\n",["$","pre","pre-4",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet dateFormatter = DateFormatter()\ndateFormatter.dateFormat = \"yyyy-MM-dd HH:mm:ss\"\nlet dateString = dateFormatter.string(from: currentDate)\nprint(\"포맷된 날짜 문자열: \\(dateString)\")\n"}],"position":{"start":{"line":81,"column":1,"offset":1603},"end":{"line":88,"column":4,"offset":1811}}},"children":"import Foundation\n\nlet dateFormatter = DateFormatter()\ndateFormatter.dateFormat = \"yyyy-MM-dd HH:mm:ss\"\nlet dateString = dateFormatter.string(from: currentDate)\nprint(\"포맷된 날짜 문자열: \\(dateString)\")\n"}}]}],"\n",["$","h3",null,{"id":"49a7b620","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"문자열을 날짜로 변환"}],"\n",["$","pre","pre-5",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet dateString = \"2024-05-29 12:00:00\"\nlet dateFormatter = DateFormatter()\ndateFormatter.dateFormat = \"yyyy-MM-dd HH:mm:ss\"\n\nif let date = dateFormatter.date(from: dateString) {\n    print(\"변환된 날짜: \\(date)\")\n} else {\n    print(\"날짜 변환에 실패했습니다.\")\n}\n"}],"position":{"start":{"line":92,"column":1,"offset":1830},"end":{"line":104,"column":4,"offset":2107}}},"children":"import Foundation\n\nlet dateString = \"2024-05-29 12:00:00\"\nlet dateFormatter = DateFormatter()\ndateFormatter.dateFormat = \"yyyy-MM-dd HH:mm:ss\"\n\nif let date = dateFormatter.date(from: dateString) {\n    print(\"변환된 날짜: \\(date)\")\n} else {\n    print(\"날짜 변환에 실패했습니다.\")\n}\n"}}]}],"\n",["$","h2",null,{"id":"423e3aba","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"4. 날짜와 시간 구성 요소 추출"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Calendar","position":{"start":{"line":108,"column":1,"offset":2132},"end":{"line":108,"column":11,"offset":2142}}}],"position":{"start":{"line":108,"column":1,"offset":2132},"end":{"line":108,"column":11,"offset":2142}}},"children":"Calendar"}}],"를 사용하여 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":108,"column":18,"offset":2149},"end":{"line":108,"column":24,"offset":2155}}}],"position":{"start":{"line":108,"column":18,"offset":2149},"end":{"line":108,"column":24,"offset":2155}}},"children":"Date"}}]," 객체에서 특정 구성 요소를 추출할 수 있습니다."]}],"\n",["$","pre","pre-6",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet date = Date()\nlet calendar = Calendar.current\n\nlet year = calendar.component(.year, from: date)\nlet month = calendar.component(.month, from: date)\nlet day = calendar.component(.day, from: date)\nlet hour = calendar.component(.hour, from: date)\nlet minute = calendar.component(.minute, from: date)\n\nprint(\"년도: \\(year), 월: \\(month), 일: \\(day), 시: \\(hour), 분: \\(minute)\")\n"}],"position":{"start":{"line":110,"column":1,"offset":2184},"end":{"line":123,"column":4,"offset":2587}}},"children":"import Foundation\n\nlet date = Date()\nlet calendar = Calendar.current\n\nlet year = calendar.component(.year, from: date)\nlet month = calendar.component(.month, from: date)\nlet day = calendar.component(.day, from: date)\nlet hour = calendar.component(.hour, from: date)\nlet minute = calendar.component(.minute, from: date)\n\nprint(\"년도: \\(year), 월: \\(month), 일: \\(day), 시: \\(hour), 분: \\(minute)\")\n"}}]}],"\n",["$","h2",null,{"id":"2dca66ed","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"5. 복잡한 날짜 계산"}],"\n",["$","h3",null,{"id":"2f1d5a0b","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"주간 단위로 날짜 계산"}],"\n",["$","pre","pre-7",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet today = Date()\nlet calendar = Calendar.current\n\nif let nextWeek = calendar.date(byAdding: .weekOfYear, value: 1, to: today) {\n    print(\"다음 주 날짜: \\(nextWeek)\")\n}\n"}],"position":{"start":{"line":129,"column":1,"offset":2624},"end":{"line":138,"column":4,"offset":2821}}},"children":"import Foundation\n\nlet today = Date()\nlet calendar = Calendar.current\n\nif let nextWeek = calendar.date(byAdding: .weekOfYear, value: 1, to: today) {\n    print(\"다음 주 날짜: \\(nextWeek)\")\n}\n"}}]}],"\n",["$","h3",null,{"id":"ecd7bf31","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"특정 요일 찾기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"예를 들어, 다음 주 금요일의 날짜를 찾으려면 다음과 같이 할 수 있습니다."}],"\n",["$","pre","pre-8",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\n\nlet today = Date()\nlet calendar = Calendar.current\n\nif let nextFriday = calendar.nextDate(after: today, matching: DateComponents(weekday: 6), matchingPolicy: .nextTime) {\n    print(\"다음 금요일 날짜: \\(nextFriday)\")\n}\n"}],"position":{"start":{"line":144,"column":1,"offset":2881},"end":{"line":153,"column":4,"offset":3123}}},"children":"import Foundation\n\nlet today = Date()\nlet calendar = Calendar.current\n\nif let nextFriday = calendar.nextDate(after: today, matching: DateComponents(weekday: 6), matchingPolicy: .nextTime) {\n    print(\"다음 금요일 날짜: \\(nextFriday)\")\n}\n"}}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Swift에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Date","position":{"start":{"line":157,"column":9,"offset":3140},"end":{"line":157,"column":15,"offset":3146}}}],"position":{"start":{"line":157,"column":9,"offset":3140},"end":{"line":157,"column":15,"offset":3146}}},"children":"Date"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Calendar","position":{"start":{"line":157,"column":17,"offset":3148},"end":{"line":157,"column":27,"offset":3158}}}],"position":{"start":{"line":157,"column":17,"offset":3148},"end":{"line":157,"column":27,"offset":3158}}},"children":"Calendar"}}],"를 사용하면 날짜와 시간을 효과적으로 관리할 수 있습니다. 이를 통해 날짜를 생성하고 비교하며, 포맷팅하고 계산하는 등 다양한 작업을 수행할 수 있습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"DateFormatter","position":{"start":{"line":157,"column":114,"offset":3245},"end":{"line":157,"column":129,"offset":3260}}}],"position":{"start":{"line":157,"column":114,"offset":3245},"end":{"line":157,"column":129,"offset":3260}}},"children":"DateFormatter"}}],"와 함께 사용하여 날짜와 시간 데이터를 다루는 방법을 익히면, 보다 복잡한 날짜 처리 작업을 손쉽게 할 수 있습니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["더 많은 정보는 ",["$","$Le",null,{"props":{"href":"https://developer.apple.com/documentation/foundation/date","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/foundation/date"},"children":[{"type":"text","value":"Apple Developer Documentation","position":{"start":{"line":159,"column":11,"offset":3337},"end":{"line":159,"column":40,"offset":3366}}}],"position":{"start":{"line":159,"column":10,"offset":3336},"end":{"line":159,"column":100,"offset":3426}}},"children":"Apple Developer Documentation"},"post":{"title":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법","description":"Swift에서 Date와 Calendar를 사용하여 날짜와 시간을 관리하는 방법을 설명합니다. 날짜 생성, 비교, 계산 및 포맷팅 방법을 다양한 예제를 통해 알아봅니다.","date":"2024-05-29T11:13:07.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"기본문법","path":"/tags/기본문법","id":"기본문법"}],"author":"마고유","banner":"/images/swiftBasic.jpg","project":"","readMin":"5.1","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Swift에서-Date와-Calendar를-사용하는-방법","content":"$f","category":"swift"},"language":"kr"}],"에서 확인할 수 있습니다."]}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"헷갈릴 필요 없다. Swift에서 Date와 Calendar를 사용하는 방법","toc":[{"tagName":"h2","title":"Swift에서 Date와 Calendar를 사용하는 방법","id":"16266db5"},{"tagName":"h2","title":"1. Date 클래스 이해하기","id":"08c9c514"},{"tagName":"h3","title":"현재 날짜와 시간 얻기","id":"08d58403"},{"tagName":"h3","title":"특정 날짜와 시간 생성","id":"9e6377c9"},{"tagName":"h2","title":"2. Calendar 클래스 이해하기","id":"808587ed"},{"tagName":"h3","title":"날짜 비교하기","id":"e297fe27"},{"tagName":"h3","title":"날짜 계산하기","id":"1241dd40"},{"tagName":"h2","title":"3. DateFormatter를 사용하여 날짜 포맷팅","id":"2d50c6e1"},{"tagName":"h3","title":"날짜를 문자열로 변환","id":"d228f005"},{"tagName":"h3","title":"문자열을 날짜로 변환","id":"49a7b620"},{"tagName":"h2","title":"4. 날짜와 시간 구성 요소 추출","id":"423e3aba"},{"tagName":"h2","title":"5. 복잡한 날짜 계산","id":"2dca66ed"},{"tagName":"h3","title":"주간 단위로 날짜 계산","id":"2f1d5a0b"},{"tagName":"h3","title":"특정 요일 찾기","id":"ecd7bf31"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

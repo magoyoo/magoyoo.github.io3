@@ -1,0 +1,144 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-4375b8e2","d"],{"children":["__PAGE__?{\"slug\":\"UICollectionView-레이아웃-커스터마이징-다양한-그리드-구성-4375b8e2\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-4375b8e2","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"UICollectionView-레이아웃-커스터마이징-다양한-그리드-구성-4375b8e2\"}"},"styles":[]}],"segment":["slug","UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-4375b8e2","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"Swift에서 UICollectionView를 사용하여 다양한 그리드 레이아웃을 커스터마이징하는 방법을 학습합니다. 이 글에서는 기본 설정부터 복잡한 레이아웃까지 다양한 예제를 살펴봅니다."}],["$","meta","3",{"name":"keywords","content":"Swift,UICollectionView,iOS,CustomLayout"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-4375b8e2"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"Swift에서 UICollectionView를 사용하여 다양한 그리드 레이아웃을 커스터마이징하는 방법을 학습합니다. 이 글에서는 기본 설정부터 복잡한 레이아웃까지 다양한 예제를 살펴봅니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-4375b8e2"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"Swift에서 UICollectionView를 사용하여 다양한 그리드 레이아웃을 커스터마이징하는 방법을 학습합니다. 이 글에서는 기본 설정부터 복잡한 레이아웃까지 다양한 예제를 살펴봅니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T550,import UIKit
+
+class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
+    let collectionView = UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout())
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        collectionView.dataSource = self
+        collectionView.delegate = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        view.addSubview(collectionView)
+        collectionView.translatesAutoresizingMaskIntoConstraints = false
+        NSLayoutConstraint.activate([
+            collectionView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
+            collectionView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
+            collectionView.topAnchor.constraint(equalTo: view.topAnchor),
+            collectionView.bottomAnchor.constraint(equalTo: view.bottomAnchor)
+        ])
+    }
+
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = .blue
+        return cell
+    }
+}
+f:T550,import UIKit
+
+class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
+    let collectionView = UICollectionView(frame: .zero, collectionViewLayout: UICollectionViewFlowLayout())
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        collectionView.dataSource = self
+        collectionView.delegate = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        view.addSubview(collectionView)
+        collectionView.translatesAutoresizingMaskIntoConstraints = false
+        NSLayoutConstraint.activate([
+            collectionView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
+            collectionView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
+            collectionView.topAnchor.constraint(equalTo: view.topAnchor),
+            collectionView.bottomAnchor.constraint(equalTo: view.bottomAnchor)
+        ])
+    }
+
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = .blue
+        return cell
+    }
+}
+10:T527,class CustomLayout: UICollectionViewLayout {
+    private var cache: [UICollectionViewLayoutAttributes] = []
+    private var contentHeight: CGFloat = 0
+    private var contentWidth: CGFloat {
+        return collectionView?.bounds.width ?? 0
+    }
+
+    override var collectionViewContentSize: CGSize {
+        return CGSize(width: contentWidth, height: contentHeight)
+    }
+
+    override func prepare() {
+        guard let collectionView = collectionView else { return }
+        cache.removeAll()
+        contentHeight = 0
+
+        let numberOfItems = collectionView.numberOfItems(inSection: 0)
+        let cellWidth = contentWidth / 3
+        let cellHeight: CGFloat = 100
+
+        for item in 0..<numberOfItems {
+            let indexPath = IndexPath(item: item, section: 0)
+            let frame = CGRect(x: CGFloat(item % 3) * cellWidth, y: CGFloat(item / 3) * cellHeight, width: cellWidth, height: cellHeight)
+            let attributes = UICollectionViewLayoutAttributes(forCellWith: indexPath)
+            attributes.frame = frame
+            cache.append(attributes)
+            contentHeight = max(contentHeight, frame.maxY)
+        }
+    }
+
+    override func layoutAttributesForElements(in rect: CGRect) -> [UICollectionViewLayoutAttributes]? {
+        return cache.filter { $0.frame.intersects(rect) }
+    }
+}
+11:T527,class CustomLayout: UICollectionViewLayout {
+    private var cache: [UICollectionViewLayoutAttributes] = []
+    private var contentHeight: CGFloat = 0
+    private var contentWidth: CGFloat {
+        return collectionView?.bounds.width ?? 0
+    }
+
+    override var collectionViewContentSize: CGSize {
+        return CGSize(width: contentWidth, height: contentHeight)
+    }
+
+    override func prepare() {
+        guard let collectionView = collectionView else { return }
+        cache.removeAll()
+        contentHeight = 0
+
+        let numberOfItems = collectionView.numberOfItems(inSection: 0)
+        let cellWidth = contentWidth / 3
+        let cellHeight: CGFloat = 100
+
+        for item in 0..<numberOfItems {
+            let indexPath = IndexPath(item: item, section: 0)
+            let frame = CGRect(x: CGFloat(item % 3) * cellWidth, y: CGFloat(item / 3) * cellHeight, width: cellWidth, height: cellHeight)
+            let attributes = UICollectionViewLayoutAttributes(forCellWith: indexPath)
+            attributes.frame = frame
+            cache.append(attributes)
+            contentHeight = max(contentHeight, frame.maxY)
+        }
+    }
+
+    override func layoutAttributesForElements(in rect: CGRect) -> [UICollectionViewLayoutAttributes]? {
+        return cache.filter { $0.frame.intersects(rect) }
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-13"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"19b5b1f1","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"UICollectionView는 iOS 개발에서 아주 유용한 도구입니다. 기본 설정만으로도 매우 강력하지만, 이를 커스터마이징하여 더욱 복잡하고 세련된 레이아웃을 만들 수 있습니다. 이 글에서는 UICollectionView의 기본 사용법부터 고급 커스터마이징 방법까지 단계별로 설명하겠습니다."}],"\n",["$","h2",null,{"id":"bad345fc","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"UICollectionView 기본 설정"}],"\n",["$","h3",null,{"id":"8dc64461","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"1. UICollectionView 초기 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["먼저, UICollectionView를 사용하려면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewFlowLayout","position":{"start":{"line":10,"column":29,"offset":297},"end":{"line":10,"column":57,"offset":325}}}],"position":{"start":{"line":10,"column":29,"offset":297},"end":{"line":10,"column":57,"offset":325}}},"children":"UICollectionViewFlowLayout"}}],"을 초기 설정해야 합니다. 기본 예제는 다음과 같습니다:"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":12,"column":1,"offset":358},"end":{"line":43,"column":4,"offset":1730}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 예제에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionView","position":{"start":{"line":45,"column":9,"offset":1740},"end":{"line":45,"column":27,"offset":1758}}}],"position":{"start":{"line":45,"column":9,"offset":1740},"end":{"line":45,"column":27,"offset":1758}}},"children":"UICollectionView"}}],"와 기본 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewFlowLayout","position":{"start":{"line":45,"column":32,"offset":1763},"end":{"line":45,"column":60,"offset":1791}}}],"position":{"start":{"line":45,"column":32,"offset":1763},"end":{"line":45,"column":60,"offset":1791}}},"children":"UICollectionViewFlowLayout"}}],"을 설정합니다. 데이터 소스와 델리게이트를 설정하고, 간단한 블루 배경의 셀을 만들었습니다."]}],"\n",["$","h3",null,{"id":"70e1bf06","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"2. 셀 크기 및 간격 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["기본 레이아웃에서는 셀 크기와 간격 등을 조정할 수 있습니다. 이러한 설정은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewDelegateFlowLayout","position":{"start":{"line":49,"column":44,"offset":1908},"end":{"line":49,"column":80,"offset":1944}}}],"position":{"start":{"line":49,"column":44,"offset":1908},"end":{"line":49,"column":80,"offset":1944}}},"children":"UICollectionViewDelegateFlowLayout"}}]," 프로토콜을 통해 가능합니다:"]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"extension ViewController: UICollectionViewDelegateFlowLayout {\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {\n        return CGSize(width: 100, height: 100)\n    }\n\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {\n        return 10\n    }\n\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Int) -> CGFloat {\n        return 10\n    }\n}\n"}],"position":{"start":{"line":51,"column":1,"offset":1962},"end":{"line":65,"column":4,"offset":2650}}},"children":"extension ViewController: UICollectionViewDelegateFlowLayout {\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {\n        return CGSize(width: 100, height: 100)\n    }\n\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {\n        return 10\n    }\n\n    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Int) -> CGFloat {\n        return 10\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 코드 조각은 셀의 크기를 100x100으로 설정하고, 행과 열 사이의 간격을 10포인트로 설정합니다."}],"\n",["$","h2",null,{"id":"16a9d376","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"고급 레이아웃 커스터마이징"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"UICollectionViewFlowLayout는 많은 경우에 유용하지만, 특정한 경우에는 커스터마이징이 더 필요할 수 있습니다."}],"\n",["$","h3",null,{"id":"c67d4f05","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"1. Custom Layout 만들기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["복잡한 레이아웃을 구현할 때는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewLayout","position":{"start":{"line":75,"column":18,"offset":2848},"end":{"line":75,"column":42,"offset":2872}}}],"position":{"start":{"line":75,"column":18,"offset":2848},"end":{"line":75,"column":42,"offset":2872}}},"children":"UICollectionViewLayout"}}],"을 서브클래싱하여 직접 레이아웃 로직을 작성할 수 있습니다. 다음은 간단한 예제입니다:"]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":77,"column":1,"offset":2922},"end":{"line":112,"column":4,"offset":4253}}},"children":"$11"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 예제에서는 셀을 3열로 배치하는 커스텀 레이아웃을 구현했습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"prepare()","position":{"start":{"line":114,"column":39,"offset":4293},"end":{"line":114,"column":50,"offset":4304}}}],"position":{"start":{"line":114,"column":39,"offset":4293},"end":{"line":114,"column":50,"offset":4304}}},"children":"prepare()"}}]," 메서드에서 캐시를 초기화하고, 각 셀의 레이아웃 속성을 계산하여 캐시에 저장합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"layoutAttributesForElements(in:)","position":{"start":{"line":114,"column":98,"offset":4352},"end":{"line":114,"column":132,"offset":4386}}}],"position":{"start":{"line":114,"column":98,"offset":4352},"end":{"line":114,"column":132,"offset":4386}}},"children":"layoutAttributesForElements(in:)"}}]," 메서드는 주어진 직사각형 안에 있는 셀의 레이아웃 속성을 반환합니다."]}],"\n",["$","h3",null,{"id":"1fce89ba","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"2. 셀 간단하게 애니메이션 추가하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"섬세한 사용자 경험을 위해 셀 애니메이션을 추가할 수 있습니다. 예를 들어, 셀이 화면에 나타날 때 페이드 인 효과를 추가하려면 다음과 같이 작성할 수 있습니다:"}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"func collectionView(_ collectionView: UICollectionView, willDisplay cell: UICollectionViewCell, forItemAt indexPath: IndexPath) {\n    cell.alpha = 0\n    UIView.animate(withDuration: 0.3) {\n        cell.alpha = 1\n    }\n}\n"}],"position":{"start":{"line":120,"column":1,"offset":4545},"end":{"line":127,"column":4,"offset":4777}}},"children":"func collectionView(_ collectionView: UICollectionView, willDisplay cell: UICollectionViewCell, forItemAt indexPath: IndexPath) {\n    cell.alpha = 0\n    UIView.animate(withDuration: 0.3) {\n        cell.alpha = 1\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"페이드 인 애니메이션은 셀이 나타날 때 부드럽게 사라졌다 나타나는 효과를 줍니다. 이와 같은 작은 디테일이 사용자의 경험을 크게 향상시킬 수 있습니다."}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"UICollectionView를 커스터마이징하는 방법은 무궁무진합니다. 기본 제공되는 FlowLayout을 사용하는 간단한 방법부터, 직접 커스텀 레이아웃을 작성하여 복잡한 배치를 구현하는 고급 방법까지 다양하게 접근할 수 있습니다. 이 글에서는 기본 사용법부터 커스텀 레이아웃 작성법, 그리고 간단한 애니메이션 추가까지 다양한 예제를 통해 설명했습니다. 이 지식을 바탕으로 더 창의적이고 효율적인 UICollectionView 레이아웃을 구현할 수 있기를 바랍니다."}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성","toc":[{"tagName":"h1","title":"UICollectionView 레이아웃 커스터마이징: 다양한 그리드 구성","id":"19b5b1f1"},{"tagName":"h2","title":"UICollectionView 기본 설정","id":"bad345fc"},{"tagName":"h3","title":"1. UICollectionView 초기 설정","id":"8dc64461"},{"tagName":"h3","title":"2. 셀 크기 및 간격 설정","id":"70e1bf06"},{"tagName":"h2","title":"고급 레이아웃 커스터마이징","id":"16a9d376"},{"tagName":"h3","title":"1. Custom Layout 만들기","id":"c67d4f05"},{"tagName":"h3","title":"2. 셀 간단하게 애니메이션 추가하기","id":"1fce89ba"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

@@ -1,0 +1,192 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-d76f7590","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI로-간단한-계산기-앱-만들기-d76f7590\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-d76f7590","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI로-간단한-계산기-앱-만들기-d76f7590\"}"},"styles":[]}],"segment":["slug","SwiftUI%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-d76f7590","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI로 간단한 계산기 앱 만들기 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"SwiftUI를 사용하여 간단한 계산기 앱을 만드는 방법을 알아봅니다. 이 글에서는 SwiftUI의 기본 구성 요소와 인터페이스를 통해 계산기 앱을 구현하는 과정을 설명합니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,계산기 앱,모바일 개발"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-d76f7590"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI로 간단한 계산기 앱 만들기 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI로 간단한 계산기 앱 만들기 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"SwiftUI를 사용하여 간단한 계산기 앱을 만드는 방법을 알아봅니다. 이 글에서는 SwiftUI의 기본 구성 요소와 인터페이스를 통해 계산기 앱을 구현하는 과정을 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-d76f7590"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI로 간단한 계산기 앱 만들기 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"SwiftUI를 사용하여 간단한 계산기 앱을 만드는 방법을 알아봅니다. 이 글에서는 SwiftUI의 기본 구성 요소와 인터페이스를 통해 계산기 앱을 구현하는 과정을 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:Ta28,import SwiftUI
+
+struct ContentView: View {
+    @State private var display: String = "0"
+
+    var body: some View {
+        VStack {
+            Text(display)
+                .font(.largeTitle)
+                .padding()
+
+            Spacer()
+
+            VStack {
+                HStack {
+                    CalculatorButton(label: "7") { addToDisplay("7") }
+                    CalculatorButton(label: "8") { addToDisplay("8") }
+                    CalculatorButton(label: "9") { addToDisplay("9") }
+                    CalculatorButton(label: "/") { addOperator("/") }
+                }
+                HStack {
+                    CalculatorButton(label: "4") { addToDisplay("4") }
+                    CalculatorButton(label: "5") { addToDisplay("5") }
+                    CalculatorButton(label: "6") { addToDisplay("6") }
+                    CalculatorButton(label: "*") { addOperator("*") }
+                }
+                HStack {
+                    CalculatorButton(label: "1") { addToDisplay("1") }
+                    CalculatorButton(label: "2") { addToDisplay("2") }
+                    CalculatorButton(label: "3") { addToDisplay("3") }
+                    CalculatorButton(label: "-") { addOperator("-") }
+                }
+                HStack {
+                    CalculatorButton(label: "0") { addToDisplay("0") }
+                    CalculatorButton(label: "C") { clearDisplay() }
+                    CalculatorButton(label: "=") { calculate() }
+                    CalculatorButton(label: "+") { addOperator("+") }
+                }
+            }
+            .padding()
+        }
+    }
+
+    private func addToDisplay(_ value: String) {
+        if display == "0" {
+            display = value
+        } else {
+            display.append(value)
+        }
+    }
+
+    private func addOperator(_ op: String) {
+        display.append(" ")
+        display.append(op)
+        display.append(" ")
+    }
+
+    private func clearDisplay() {
+        display = "0"
+    }
+
+    private func calculate() {
+        // 계산 로직을 여기에 추가합니다
+    }
+}
+
+struct CalculatorButton: View {
+    let label: String
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            Text(label)
+                .font(.largeTitle)
+                .frame(width: 70, height: 70)
+                .background(Color.gray)
+                .foregroundColor(.white)
+                .cornerRadius(35)
+                .padding(5)
+        }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+f:Ta28,import SwiftUI
+
+struct ContentView: View {
+    @State private var display: String = "0"
+
+    var body: some View {
+        VStack {
+            Text(display)
+                .font(.largeTitle)
+                .padding()
+
+            Spacer()
+
+            VStack {
+                HStack {
+                    CalculatorButton(label: "7") { addToDisplay("7") }
+                    CalculatorButton(label: "8") { addToDisplay("8") }
+                    CalculatorButton(label: "9") { addToDisplay("9") }
+                    CalculatorButton(label: "/") { addOperator("/") }
+                }
+                HStack {
+                    CalculatorButton(label: "4") { addToDisplay("4") }
+                    CalculatorButton(label: "5") { addToDisplay("5") }
+                    CalculatorButton(label: "6") { addToDisplay("6") }
+                    CalculatorButton(label: "*") { addOperator("*") }
+                }
+                HStack {
+                    CalculatorButton(label: "1") { addToDisplay("1") }
+                    CalculatorButton(label: "2") { addToDisplay("2") }
+                    CalculatorButton(label: "3") { addToDisplay("3") }
+                    CalculatorButton(label: "-") { addOperator("-") }
+                }
+                HStack {
+                    CalculatorButton(label: "0") { addToDisplay("0") }
+                    CalculatorButton(label: "C") { clearDisplay() }
+                    CalculatorButton(label: "=") { calculate() }
+                    CalculatorButton(label: "+") { addOperator("+") }
+                }
+            }
+            .padding()
+        }
+    }
+
+    private func addToDisplay(_ value: String) {
+        if display == "0" {
+            display = value
+        } else {
+            display.append(value)
+        }
+    }
+
+    private func addOperator(_ op: String) {
+        display.append(" ")
+        display.append(op)
+        display.append(" ")
+    }
+
+    private func clearDisplay() {
+        display = "0"
+    }
+
+    private func calculate() {
+        // 계산 로직을 여기에 추가합니다
+    }
+}
+
+struct CalculatorButton: View {
+    let label: String
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            Text(label)
+                .font(.largeTitle)
+                .frame(width: 70, height: 70)
+                .background(Color.gray)
+                .foregroundColor(.white)
+                .cornerRadius(35)
+                .padding(5)
+        }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner4.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI로 간단한 계산기 앱 만들기"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI로 간단한 계산기 앱 만들기"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-13"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"03d23c6b","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI로 간단한 계산기 앱 만들기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 Apple이 제공하는 사용자 인터페이스 프레임워크로, 코드를 통해 쉽고 직관적으로 앱 인터페이스를 설계할 수 있습니다. 이번 글에서는 SwiftUI를 통해 간단한 계산기 앱을 만들어보겠습니다. 이 글은 SwiftUI에 대한 기본 지식을 가지고 있다고 가정합니다."}],"\n",["$","h2",null,{"id":"06a646d7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"프로젝트 생성 및 기본 설정"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"Xcode에서 새로운 프로젝트 생성하기:"}],"\nXcode를 열고 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"새 프로젝트 생성","position":{"start":{"line":9,"column":14,"offset":247},"end":{"line":9,"column":25,"offset":258}}}],"position":{"start":{"line":9,"column":14,"offset":247},"end":{"line":9,"column":25,"offset":258}}},"children":"새 프로젝트 생성"}}],"을 클릭합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"앱","position":{"start":{"line":9,"column":34,"offset":267},"end":{"line":9,"column":37,"offset":270}}}],"position":{"start":{"line":9,"column":34,"offset":267},"end":{"line":9,"column":37,"offset":270}}},"children":"앱"}}]," 템플릿을 선택하고 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"다음","position":{"start":{"line":9,"column":48,"offset":281},"end":{"line":9,"column":52,"offset":285}}}],"position":{"start":{"line":9,"column":48,"offset":281},"end":{"line":9,"column":52,"offset":285}}},"children":"다음"}}],"을 클릭한 후, 프로젝트 이름과 기타 설정을 완료합니다."]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"SwiftUI 선택하기:"}],"\n",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"인터페이스","position":{"start":{"line":12,"column":4,"offset":342},"end":{"line":12,"column":11,"offset":349}}}],"position":{"start":{"line":12,"column":4,"offset":342},"end":{"line":12,"column":11,"offset":349}}},"children":"인터페이스"}}],"에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SwiftUI","position":{"start":{"line":12,"column":14,"offset":352},"end":{"line":12,"column":23,"offset":361}}}],"position":{"start":{"line":12,"column":14,"offset":352},"end":{"line":12,"column":23,"offset":361}}},"children":"SwiftUI"}}],"를 선택하고, 프로젝트가 생성되면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"ContentView.swift","position":{"start":{"line":12,"column":42,"offset":380},"end":{"line":12,"column":61,"offset":399}}}],"position":{"start":{"line":12,"column":42,"offset":380},"end":{"line":12,"column":61,"offset":399}}},"children":"ContentView.swift"}}]," 파일이 기본적으로 포함되어 있을 것입니다."]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"0b0f0938","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"UI 구성 요소 작성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"간단한 계산기 앱의 UI를 설계하면서 필요한 구성 요소는 다음과 같습니다:"}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"출력 레이블 (계산 결과를 표시)"}],"\n",["$","li","li-1",{"children":"숫자 버튼 (0-9)"}],"\n",["$","li","li-2",{"children":"연산자 버튼 (+, -, *, /, =)"}],"\n",["$","li","li-3",{"children":"기타 기능 버튼 (클리어)"}],"\n"]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":23,"column":1,"offset":562},"end":{"line":112,"column":4,"offset":3148}}},"children":"$f"}}]}],"\n",["$","h2",null,{"id":"46b84bd9","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"기능 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"계산기의 각 버튼이 작동하도록 함수를 구현해야 합니다. 현재는 표시만 변경하고 있지만, 실제 계산을 수행하도록 몇 가지 추가적인 처리가 필요합니다."}],"\n",["$","h3",null,{"id":"b4eedab9","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"계산 로직 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["UI는 거의 완성되었으므로, 이제 실제로 계산할 수 있도록 로직을 추가합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"calculate","position":{"start":{"line":120,"column":45,"offset":3302},"end":{"line":120,"column":56,"offset":3313}}}],"position":{"start":{"line":120,"column":45,"offset":3302},"end":{"line":120,"column":56,"offset":3313}}},"children":"calculate"}}]," 함수를 다음과 같이 구현할 수 있습니다:"]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"private func calculate() {\n    let components = display.split(separator: \" \").map { String($0) }\n    guard components.count == 3 else {\n        return\n    }\n\n    let operand1 = Double(components[0]) ?? 0\n    let operatorSymbol = components[1]\n    let operand2 = Double(components[2]) ?? 0\n\n    let result: Double\n    switch operatorSymbol {\n    case \"+\":\n        result = operand1 + operand2\n    case \"-\":\n        result = operand1 - operand2\n    case \"*\":\n        result = operand1 * operand2\n    case \"/\":\n        guard operand2 != 0 else {\n            display = \"Error\"\n            return\n        }\n        result = operand1 / operand2\n    default:\n        return\n    }\n\n    display = String(result)\n}\n"}],"position":{"start":{"line":122,"column":1,"offset":3338},"end":{"line":153,"column":4,"offset":4055}}},"children":"private func calculate() {\n    let components = display.split(separator: \" \").map { String($0) }\n    guard components.count == 3 else {\n        return\n    }\n\n    let operand1 = Double(components[0]) ?? 0\n    let operatorSymbol = components[1]\n    let operand2 = Double(components[2]) ?? 0\n\n    let result: Double\n    switch operatorSymbol {\n    case \"+\":\n        result = operand1 + operand2\n    case \"-\":\n        result = operand1 - operand2\n    case \"*\":\n        result = operand1 * operand2\n    case \"/\":\n        guard operand2 != 0 else {\n            display = \"Error\"\n            return\n        }\n        result = operand1 / operand2\n    default:\n        return\n    }\n\n    display = String(result)\n}\n"}}]}],"\n",["$","h3",null,{"id":"d8b5eda8","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"초기화 및 추가 옵션 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"clearDisplay","position":{"start":{"line":157,"column":1,"offset":4077},"end":{"line":157,"column":15,"offset":4091}}}],"position":{"start":{"line":157,"column":1,"offset":4077},"end":{"line":157,"column":15,"offset":4091}}},"children":"clearDisplay"}}]," 함수는 이미 구현되어 있으므로, 초기화 및 기타 옵션들을 조금 더 다듬을 수 있습니다. 필요한 경우 계산 결과를 저장하거나, 여러 연산을 지원할 수도 있습니다. 하지만 간단함을 유지하기 위해 여기서는 생략합니다."]}],"\n",["$","h2",null,{"id":"ed8464a3","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"마무리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이로써 SwiftUI를 사용하여 간단한 계산기 앱을 완성했습니다. 이 앱은 SwiftUI의 기본적인 사용 방법과 데이터를 바인딩하는 방법을 보여줍니다. 더 복잡한 기능을 추가하고 싶은 분들은 이 예제를 바탕으로 새로운 기능을 구현해보세요. SwiftUI의 강력한 기능을 활용하면 훨씬 더 복잡하고 멋진 인터페이스를 쉽게 만들 수 있습니다."}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"SwiftUI로 간단한 계산기 앱 만들기","toc":[{"tagName":"h1","title":"SwiftUI로 간단한 계산기 앱 만들기","id":"03d23c6b"},{"tagName":"h2","title":"프로젝트 생성 및 기본 설정","id":"06a646d7"},{"tagName":"h2","title":"UI 구성 요소 작성","id":"0b0f0938"},{"tagName":"h2","title":"기능 구현","id":"46b84bd9"},{"tagName":"h3","title":"계산 로직 구현","id":"b4eedab9"},{"tagName":"h3","title":"초기화 및 추가 옵션 구현","id":"d8b5eda8"},{"tagName":"h2","title":"마무리","id":"ed8464a3"}],"language":"kr"}]}]]}]]
+8:null

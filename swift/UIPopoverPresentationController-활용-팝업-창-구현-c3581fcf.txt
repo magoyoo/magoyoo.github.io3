@@ -1,0 +1,150 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","UIPopoverPresentationController-%ED%99%9C%EC%9A%A9-%ED%8C%9D%EC%97%85-%EC%B0%BD-%EA%B5%AC%ED%98%84-c3581fcf","d"],{"children":["__PAGE__?{\"slug\":\"UIPopoverPresentationController-활용-팝업-창-구현-c3581fcf\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","UIPopoverPresentationController-%ED%99%9C%EC%9A%A9-%ED%8C%9D%EC%97%85-%EC%B0%BD-%EA%B5%AC%ED%98%84-c3581fcf","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"UIPopoverPresentationController-활용-팝업-창-구현-c3581fcf\"}"},"styles":[]}],"segment":["slug","UIPopoverPresentationController-%ED%99%9C%EC%9A%A9-%ED%8C%9D%EC%97%85-%EC%B0%BD-%EA%B5%AC%ED%98%84-c3581fcf","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"UIPopoverPresentationController 활용: 팝업 창 구현 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"UIPopoverPresentationController를 활용한 iOS 애플리케이션에서 팝업 창 구현 방법에 대한 상세한 안내입니다. 팝업 창을 효과적으로 디자인하고 사용자 경험을 향상시키기 위한 구체적인 코드 예제와 설명을 제공합니다."}],["$","meta","3",{"name":"keywords","content":"Swift,UIPopoverPresentationController,iOS,팝업"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/UIPopoverPresentationController-%ED%99%9C%EC%9A%A9-%ED%8C%9D%EC%97%85-%EC%B0%BD-%EA%B5%AC%ED%98%84-c3581fcf"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"UIPopoverPresentationController 활용: 팝업 창 구현 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"UIPopoverPresentationController 활용: 팝업 창 구현 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"UIPopoverPresentationController를 활용한 iOS 애플리케이션에서 팝업 창 구현 방법에 대한 상세한 안내입니다. 팝업 창을 효과적으로 디자인하고 사용자 경험을 향상시키기 위한 구체적인 코드 예제와 설명을 제공합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/UIPopoverPresentationController-%ED%99%9C%EC%9A%A9-%ED%8C%9D%EC%97%85-%EC%B0%BD-%EA%B5%AC%ED%98%84-c3581fcf"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner2.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"UIPopoverPresentationController 활용: 팝업 창 구현 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"UIPopoverPresentationController를 활용한 iOS 애플리케이션에서 팝업 창 구현 방법에 대한 상세한 안내입니다. 팝업 창을 효과적으로 디자인하고 사용자 경험을 향상시키기 위한 구체적인 코드 예제와 설명을 제공합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner2.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T40c,import UIKit
+
+class MainViewController: UIViewController {
+    @objc func displayPopover(sender: UIButton) {
+        let popoverContentVC = PopoverContentViewController()
+        popoverContentVC.modalPresentationStyle = .popover
+
+        if let popoverController = popoverContentVC.popoverPresentationController {
+            popoverController.sourceView = sender
+            popoverController.sourceRect = sender.bounds
+            popoverController.permittedArrowDirections = .any
+            popoverController.delegate = self
+        }
+
+        self.present(popoverContentVC, animated: true, completion: nil)
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let button = UIButton(type: .system)
+        button.setTitle("Show Popover", for: .normal)
+        button.frame = CGRect(x: 100, y: 100, width: 200, height: 50)
+        button.addTarget(self, action: #selector(displayPopover(sender:)), for: .touchUpInside)
+        self.view.addSubview(button)
+    }
+}
+f:T40c,import UIKit
+
+class MainViewController: UIViewController {
+    @objc func displayPopover(sender: UIButton) {
+        let popoverContentVC = PopoverContentViewController()
+        popoverContentVC.modalPresentationStyle = .popover
+
+        if let popoverController = popoverContentVC.popoverPresentationController {
+            popoverController.sourceView = sender
+            popoverController.sourceRect = sender.bounds
+            popoverController.permittedArrowDirections = .any
+            popoverController.delegate = self
+        }
+
+        self.present(popoverContentVC, animated: true, completion: nil)
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let button = UIButton(type: .system)
+        button.setTitle("Show Popover", for: .normal)
+        button.frame = CGRect(x: 100, y: 100, width: 200, height: 50)
+        button.addTarget(self, action: #selector(displayPopover(sender:)), for: .touchUpInside)
+        self.view.addSubview(button)
+    }
+}
+10:T598,class MessagePopoverViewController: UIViewController {
+    var message: String?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let messageLabel = UILabel(frame: CGRect(x: 10, y: 10, width: 180, height: 30))
+        messageLabel.text = message
+        self.view.addSubview(messageLabel)
+    }
+}
+
+class MainViewController: UIViewController {
+    @objc func displayMessagePopover(sender: UIButton) {
+        let messagePopoverVC = MessagePopoverViewController()
+        messagePopoverVC.modalPresentationStyle = .popover
+        messagePopoverVC.message = "Hello, this is a message popover!"
+
+        if let popoverController = messagePopoverVC.popoverPresentationController {
+            popoverController.sourceView = sender
+            popoverController.sourceRect = sender.bounds
+            popoverController.permittedArrowDirections = .any
+        }
+
+        self.present(messagePopoverVC, animated: true, completion: nil)
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let button = UIButton(type: .system)
+        button.setTitle("Show Message Popover", for: .normal)
+        button.frame = CGRect(x: 100, y: 100, width: 200, height: 50)
+        button.addTarget(self, action: #selector(displayMessagePopover(sender:)), for: .touchUpInside)
+        self.view.addSubview(button)
+    }
+}
+11:T598,class MessagePopoverViewController: UIViewController {
+    var message: String?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let messageLabel = UILabel(frame: CGRect(x: 10, y: 10, width: 180, height: 30))
+        messageLabel.text = message
+        self.view.addSubview(messageLabel)
+    }
+}
+
+class MainViewController: UIViewController {
+    @objc func displayMessagePopover(sender: UIButton) {
+        let messagePopoverVC = MessagePopoverViewController()
+        messagePopoverVC.modalPresentationStyle = .popover
+        messagePopoverVC.message = "Hello, this is a message popover!"
+
+        if let popoverController = messagePopoverVC.popoverPresentationController {
+            popoverController.sourceView = sender
+            popoverController.sourceRect = sender.bounds
+            popoverController.permittedArrowDirections = .any
+        }
+
+        self.present(messagePopoverVC, animated: true, completion: nil)
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = .white
+
+        let button = UIButton(type: .system)
+        button.setTitle("Show Message Popover", for: .normal)
+        button.frame = CGRect(x: 100, y: 100, width: 200, height: 50)
+        button.addTarget(self, action: #selector(displayMessagePopover(sender:)), for: .touchUpInside)
+        self.view.addSubview(button)
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner2.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"UIPopoverPresentationController 활용: 팝업 창 구현"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"UIPopoverPresentationController 활용: 팝업 창 구현"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-08-07"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"9024aa6e","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"UIPopoverPresentationController 활용: 팝업 창 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["iOS 애플리케이션에서 사용자 경험을 풍부하게 하기 위해 팝업 창을 구현하는 것은 매우 중요합니다. Swift의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":4,"column":64,"offset":111},"end":{"line":4,"column":97,"offset":144}}}],"position":{"start":{"line":4,"column":64,"offset":111},"end":{"line":4,"column":97,"offset":144}}},"children":"UIPopoverPresentationController"}}],"를 사용하면 쉽고 효과적으로 팝업 창을 만들 수 있습니다. 이번 글에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":4,"column":138,"offset":185},"end":{"line":4,"column":171,"offset":218}}}],"position":{"start":{"line":4,"column":138,"offset":185},"end":{"line":4,"column":171,"offset":218}}},"children":"UIPopoverPresentationController"}}],"를 이용해 팝업 창을 구현하는 방법을 단계별로 설명하겠습니다."]}],"\n",["$","h2",null,{"id":"a5516327","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"UIPopoverPresentationController란?"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":8,"column":1,"offset":292},"end":{"line":8,"column":34,"offset":325}}}],"position":{"start":{"line":8,"column":1,"offset":292},"end":{"line":8,"column":34,"offset":325}}},"children":"UIPopoverPresentationController"}}],"는 iOS에서 컨텐츠를 팝업 형식으로 표시할 수 있도록 지원하는 클래스입니다. 이는 특히 iPad와 같은 큰 화면에서 유용하며, 작은 화면에서도 잘 동작합니다. 주요 기능은 다음과 같습니다:"]}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"안정적인 사용자 인터페이스 제공"}],": 사용자가 다른 인터페이스 요소와 상호작용하는 동안 중요 정보를 표시할 수 있습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"다양한 스타일"}],": 보여줄 컨텐츠의 스타일을 다양하게 설정할 수 있습니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"내비게이션 용이성"}],": 사용자는 팝업 창 내에서 다른 작업을 수행한 후 쉽게 원래 화면으로 돌아갈 수 있습니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"c125aefa","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"기본적인 UIPopoverPresentationController 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["팝업 창을 구현하기 위해 먼저 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIViewController","position":{"start":{"line":16,"column":18,"offset":680},"end":{"line":16,"column":36,"offset":698}}}],"position":{"start":{"line":16,"column":18,"offset":680},"end":{"line":16,"column":36,"offset":698}}},"children":"UIViewController"}}],"를 서브클래싱한 팝업 컨텐츠 뷰 컨트롤러를 작성해야 합니다. 이 뷰 컨트롤러는 팝업 창에 표시될 컨텐츠를 정의합니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import UIKit\n\nclass PopoverContentViewController: UIViewController {\n    override func viewDidLoad() {\n        super.viewDidLoad()\n        self.view.backgroundColor = .white\n\n        let label = UILabel(frame: CGRect(x: 20, y: 20, width: 200, height: 40))\n        label.text = \"This is a popover!\"\n        self.view.addSubview(label)\n    }\n}\n"}],"position":{"start":{"line":18,"column":1,"offset":765},"end":{"line":31,"column":4,"offset":1119}}},"children":"import UIKit\n\nclass PopoverContentViewController: UIViewController {\n    override func viewDidLoad() {\n        super.viewDidLoad()\n        self.view.backgroundColor = .white\n\n        let label = UILabel(frame: CGRect(x: 20, y: 20, width: 200, height: 40))\n        label.text = \"This is a popover!\"\n        self.view.addSubview(label)\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다음으로, 실제로 팝업 창을 띄울 메인 뷰 컨트롤러를 작성합니다. 여기서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":33,"column":42,"offset":1162},"end":{"line":33,"column":75,"offset":1195}}}],"position":{"start":{"line":33,"column":42,"offset":1162},"end":{"line":33,"column":75,"offset":1195}}},"children":"UIPopoverPresentationController"}}],"를 사용하여 팝업 창을 표시합니다."]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":35,"column":1,"offset":1216},"end":{"line":64,"column":4,"offset":2264}}},"children":"$f"}}]}],"\n",["$","h2",null,{"id":"8cbafb98","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"UIPopoverPresentationController의 고급 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"UI를 좀 더 세부적으로 설정하여 사용자 경험을 최적화할 수 있습니다. 예를 들어, 팝업 창의 크기를 설정하거나, 배경색을 변경하거나, 팝업 창 내부에 추가적인 UI 요소를 배치하는 방법을 다뤄보겠습니다."}],"\n",["$","h3",null,{"id":"1d8aa185","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"팝업 창 크기 조절"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["팝업 창의 크기는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"preferredContentSize","position":{"start":{"line":72,"column":11,"offset":2451},"end":{"line":72,"column":33,"offset":2473}}}],"position":{"start":{"line":72,"column":11,"offset":2451},"end":{"line":72,"column":33,"offset":2473}}},"children":"preferredContentSize"}}]," 속성을 설정하여 조절할 수 있습니다."]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"let popoverContentVC = PopoverContentViewController()\npopoverContentVC.modalPresentationStyle = .popover\npopoverContentVC.preferredContentSize = CGSize(width: 300, height: 200)\n"}],"position":{"start":{"line":74,"column":1,"offset":2496},"end":{"line":78,"column":4,"offset":2685}}},"children":"let popoverContentVC = PopoverContentViewController()\npopoverContentVC.modalPresentationStyle = .popover\npopoverContentVC.preferredContentSize = CGSize(width: 300, height: 200)\n"}}]}],"\n",["$","h3",null,{"id":"8e041766","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"배경색 변경"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["팝업 창의 배경색은 컨텐츠 뷰 컨트롤러에서 설정할 수 있습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"viewDidLoad","position":{"start":{"line":82,"column":37,"offset":2735},"end":{"line":82,"column":50,"offset":2748}}}],"position":{"start":{"line":82,"column":37,"offset":2735},"end":{"line":82,"column":50,"offset":2748}}},"children":"viewDidLoad"}}]," 메서드 내에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"self.view.backgroundColor","position":{"start":{"line":82,"column":59,"offset":2757},"end":{"line":82,"column":86,"offset":2784}}}],"position":{"start":{"line":82,"column":59,"offset":2757},"end":{"line":82,"column":86,"offset":2784}}},"children":"self.view.backgroundColor"}}]," 속성을 설정합니다."]}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"popoverContentVC.view.backgroundColor = .lightGray\n"}],"position":{"start":{"line":84,"column":1,"offset":2797},"end":{"line":86,"column":4,"offset":2860}}},"children":"popoverContentVC.view.backgroundColor = .lightGray\n"}}]}],"\n",["$","h3",null,{"id":"d9dbecc8","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"델리게이트 사용"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationControllerDelegate","position":{"start":{"line":90,"column":1,"offset":2876},"end":{"line":90,"column":42,"offset":2917}}}],"position":{"start":{"line":90,"column":1,"offset":2876},"end":{"line":90,"column":42,"offset":2917}}},"children":"UIPopoverPresentationControllerDelegate"}}]," 프로토콜을 채택하여 델리게이트 메서드를 이용할 수 있습니다. 이를 통해 팝업 창의 표시와 종료에 관한 추가 동작을 정의할 수 있습니다. 예를 들어, 팝업 창이 해제될 때 수행할 작업을 정의할 수 있습니다."]}],"\n",["$","pre","pre-4",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"extension MainViewController: UIPopoverPresentationControllerDelegate {\n    func popoverPresentationControllerDidDismissPopover(_ popoverPresentationController: UIPopoverPresentationController) {\n        print(\"Popover was dismissed\")\n    }\n}\n"}],"position":{"start":{"line":92,"column":1,"offset":3034},"end":{"line":98,"column":4,"offset":3289}}},"children":"extension MainViewController: UIPopoverPresentationControllerDelegate {\n    func popoverPresentationControllerDidDismissPopover(_ popoverPresentationController: UIPopoverPresentationController) {\n        print(\"Popover was dismissed\")\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"위의 코드를 사용하여 팝업 창이 해제될 때 로그 메시지를 출력할 수 있습니다."}],"\n",["$","h2",null,{"id":"18d89c88","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"실제 예제 시나리오"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다양한 상황에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":104,"column":10,"offset":3360},"end":{"line":104,"column":43,"offset":3393}}}],"position":{"start":{"line":104,"column":10,"offset":3360},"end":{"line":104,"column":43,"offset":3393}}},"children":"UIPopoverPresentationController"}}],"를 활용할 수 있습니다. 여기에는 설정 메뉴, 도움말 팝업, 확인 메시지 등 여러 시나리오가 포함됩니다. 아래 예제에서는 메시지를 표시하는 팝업 창을 구현해 보겠습니다."]}],"\n",["$","pre","pre-5",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":106,"column":1,"offset":3489},"end":{"line":146,"column":4,"offset":4933}}},"children":"$11"}}]}],"\n",["$","h2",null,{"id":"9426df68","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"마치며"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UIPopoverPresentationController","position":{"start":{"line":150,"column":1,"offset":4943},"end":{"line":150,"column":34,"offset":4976}}}],"position":{"start":{"line":150,"column":1,"offset":4943},"end":{"line":150,"column":34,"offset":4976}}},"children":"UIPopoverPresentationController"}}],"를 사용하면 iOS 애플리케이션에서 팝업 창을 효과적으로 구현할 수 있습니다. 팝업 창 내에 다양한 UI 요소를 배치하고, 사용자 경험을 향상시키기 위해 여러 가지 설정과 델리게이트 메서드를 이용할 수 있습니다. 위의 예제와 설명을 참고하여, 여러분의 애플리케이션에 적용해 보세요."]}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"UIPopoverPresentationController 활용: 팝업 창 구현","toc":[{"tagName":"h1","title":"UIPopoverPresentationController 활용: 팝업 창 구현","id":"9024aa6e"},{"tagName":"h2","title":"UIPopoverPresentationController란?","id":"a5516327"},{"tagName":"h2","title":"기본적인 UIPopoverPresentationController 설정","id":"c125aefa"},{"tagName":"h2","title":"UIPopoverPresentationController의 고급 설정","id":"8cbafb98"},{"tagName":"h3","title":"팝업 창 크기 조절","id":"1d8aa185"},{"tagName":"h3","title":"배경색 변경","id":"8e041766"},{"tagName":"h3","title":"델리게이트 사용","id":"d9dbecc8"},{"tagName":"h2","title":"실제 예제 시나리오","id":"18d89c88"},{"tagName":"h2","title":"마치며","id":"9426df68"}],"language":"kr"}]}]]}]]
+8:null

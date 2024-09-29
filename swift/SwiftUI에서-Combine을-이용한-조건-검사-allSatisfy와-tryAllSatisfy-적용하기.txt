@@ -1,0 +1,302 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI%EC%97%90%EC%84%9C-Combine%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%82%AC-allSatisfy%EC%99%80-tryAllSatisfy-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI에서-Combine을-이용한-조건-검사-allSatisfy와-tryAllSatisfy-적용하기\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI%EC%97%90%EC%84%9C-Combine%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%82%AC-allSatisfy%EC%99%80-tryAllSatisfy-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI에서-Combine을-이용한-조건-검사-allSatisfy와-tryAllSatisfy-적용하기\"}"},"styles":[]}],"segment":["slug","SwiftUI%EC%97%90%EC%84%9C-Combine%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%82%AC-allSatisfy%EC%99%80-tryAllSatisfy-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"SwiftUI와 Combine을 사용하여 조건 검사를 구현하는 방법을 알아봅니다. allSatisfy와 tryAllSatisfy 연산자를 사용해 배열의 모든 요소가 특정 조건을 만족하는지 확인하고, 사용자 입력을 검증하는 실전 예제를 통해 오류 처리까지 다룹니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,Combine,allSatisfy,Swift"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI%EC%97%90%EC%84%9C-Combine%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%82%AC-allSatisfy%EC%99%80-tryAllSatisfy-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"SwiftUI와 Combine을 사용하여 조건 검사를 구현하는 방법을 알아봅니다. allSatisfy와 tryAllSatisfy 연산자를 사용해 배열의 모든 요소가 특정 조건을 만족하는지 확인하고, 사용자 입력을 검증하는 실전 예제를 통해 오류 처리까지 다룹니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI%EC%97%90%EC%84%9C-Combine%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%82%AC-allSatisfy%EC%99%80-tryAllSatisfy-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"SwiftUI와 Combine을 사용하여 조건 검사를 구현하는 방법을 알아봅니다. allSatisfy와 tryAllSatisfy 연산자를 사용해 배열의 모든 요소가 특정 조건을 만족하는지 확인하고, 사용자 입력을 검증하는 실전 예제를 통해 오류 처리까지 다룹니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBasic.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+14:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+15:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T52e,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var allEven = false
+    @State private var errorMessage: String?
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            Text("All values are even: \(allEven ? "Yes" : "No")")
+                .padding()
+
+            if let errorMessage = errorMessage {
+                Text("Error: \(errorMessage)")
+                    .foregroundColor(.red)
+            }
+
+            Button("Check All Even with Error Handling") {
+                checkAllEvenWithErrorHandling()
+            }
+        }
+    }
+
+    func checkAllEvenWithErrorHandling() {
+        let values = [2, 4, 6, 8, 10].publisher
+        cancellable = values
+            .tryAllSatisfy { value in
+                if value == 6 {
+                    throw NSError(domain: "ValueError", code: 100, userInfo: nil)
+                }
+                return value % 2 == 0
+            }
+            .sink(
+                receiveCompletion: { completion in
+                    if case .failure(let error) = completion {
+                        errorMessage = error.localizedDescription
+                    }
+                },
+                receiveValue: { result in
+                    allEven = result
+                }
+            )
+    }
+}
+f:T52e,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var allEven = false
+    @State private var errorMessage: String?
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            Text("All values are even: \(allEven ? "Yes" : "No")")
+                .padding()
+
+            if let errorMessage = errorMessage {
+                Text("Error: \(errorMessage)")
+                    .foregroundColor(.red)
+            }
+
+            Button("Check All Even with Error Handling") {
+                checkAllEvenWithErrorHandling()
+            }
+        }
+    }
+
+    func checkAllEvenWithErrorHandling() {
+        let values = [2, 4, 6, 8, 10].publisher
+        cancellable = values
+            .tryAllSatisfy { value in
+                if value == 6 {
+                    throw NSError(domain: "ValueError", code: 100, userInfo: nil)
+                }
+                return value % 2 == 0
+            }
+            .sink(
+                receiveCompletion: { completion in
+                    if case .failure(let error) = completion {
+                        errorMessage = error.localizedDescription
+                    }
+                },
+                receiveValue: { result in
+                    allEven = result
+                }
+            )
+    }
+}
+10:T4f2,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var password: String = ""
+    @State private var isPasswordValid: Bool = false
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            SecureField("Enter password", text: $password)
+                .textFieldStyle(RoundedBorderTextFieldStyle())
+                .padding()
+
+            Button("Validate Password") {
+                validatePassword()
+            }
+
+            Text("Password is valid: \(isPasswordValid ? "Yes" : "No")")
+                .padding()
+        }
+        .padding()
+    }
+
+    func validatePassword() {
+        let passwordRules: [AnyPublisher<Bool, Never>] = [
+            Just(password.count >= 8).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .uppercaseLetters) != nil).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .lowercaseLetters) != nil).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .decimalDigits) != nil).eraseToAnyPublisher()
+        ]
+
+        cancellable = Publishers.MergeMany(passwordRules)
+            .allSatisfy { $0 }
+            .sink { result in
+                isPasswordValid = result
+            }
+    }
+}
+11:T4f2,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var password: String = ""
+    @State private var isPasswordValid: Bool = false
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            SecureField("Enter password", text: $password)
+                .textFieldStyle(RoundedBorderTextFieldStyle())
+                .padding()
+
+            Button("Validate Password") {
+                validatePassword()
+            }
+
+            Text("Password is valid: \(isPasswordValid ? "Yes" : "No")")
+                .padding()
+        }
+        .padding()
+    }
+
+    func validatePassword() {
+        let passwordRules: [AnyPublisher<Bool, Never>] = [
+            Just(password.count >= 8).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .uppercaseLetters) != nil).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .lowercaseLetters) != nil).eraseToAnyPublisher(),
+            Just(password.rangeOfCharacter(from: .decimalDigits) != nil).eraseToAnyPublisher()
+        ]
+
+        cancellable = Publishers.MergeMany(passwordRules)
+            .allSatisfy { $0 }
+            .sink { result in
+                isPasswordValid = result
+            }
+    }
+}
+12:T940,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var password: String = ""
+    @State private var isPasswordValid: Bool = false
+    @State private var errorMessage: String?
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            SecureField("Enter password", text: $password)
+                .textFieldStyle(RoundedBorderTextFieldStyle())
+                .padding()
+
+            Button("Validate Password with Error Handling") {
+                validatePasswordWithErrorHandling()
+            }
+
+            Text("Password is valid: \(isPasswordValid ? "Yes" : "No")")
+                .padding()
+
+            if let errorMessage = errorMessage {
+                Text("Error: \(errorMessage)")
+                    .foregroundColor(.red)
+            }
+        }
+        .padding()
+    }
+
+    func validatePasswordWithErrorHandling() {
+        cancellable = Just(password)
+            .tryAllSatisfy { value in
+                if value.count < 8 {
+                    throw NSError(domain: "PasswordError", code: 100, userInfo: [NSLocalizedDescriptionKey: "Password must be at least 8 characters long"])
+                }
+                if value.rangeOfCharacter(from: .uppercaseLetters) == nil {
+                    throw NSError(domain: "PasswordError", code: 101, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one uppercase letter"])
+                }
+                if value.rangeOfCharacter(from: .lowercaseLetters) == nil {
+                    throw NSError(domain: "PasswordError", code: 102, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one lowercase letter"])
+                }
+                if value.rangeOfCharacter(from: .decimalDigits) == nil {
+                    throw NSError(domain: "PasswordError", code: 103, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one digit"])
+                }
+                return true
+            }
+            .sink(
+                receiveCompletion: { completion in
+                    if case .failure(let error) = completion {
+                        errorMessage = error.localizedDescription
+                    }
+                },
+                receiveValue: { result in
+                    isPasswordValid = result
+                }
+            )
+    }
+}
+13:T940,import SwiftUI
+import Combine
+
+struct ContentView: View {
+    @State private var password: String = ""
+    @State private var isPasswordValid: Bool = false
+    @State private var errorMessage: String?
+    @State private var cancellable: AnyCancellable?
+
+    var body: some View {
+        VStack {
+            SecureField("Enter password", text: $password)
+                .textFieldStyle(RoundedBorderTextFieldStyle())
+                .padding()
+
+            Button("Validate Password with Error Handling") {
+                validatePasswordWithErrorHandling()
+            }
+
+            Text("Password is valid: \(isPasswordValid ? "Yes" : "No")")
+                .padding()
+
+            if let errorMessage = errorMessage {
+                Text("Error: \(errorMessage)")
+                    .foregroundColor(.red)
+            }
+        }
+        .padding()
+    }
+
+    func validatePasswordWithErrorHandling() {
+        cancellable = Just(password)
+            .tryAllSatisfy { value in
+                if value.count < 8 {
+                    throw NSError(domain: "PasswordError", code: 100, userInfo: [NSLocalizedDescriptionKey: "Password must be at least 8 characters long"])
+                }
+                if value.rangeOfCharacter(from: .uppercaseLetters) == nil {
+                    throw NSError(domain: "PasswordError", code: 101, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one uppercase letter"])
+                }
+                if value.rangeOfCharacter(from: .lowercaseLetters) == nil {
+                    throw NSError(domain: "PasswordError", code: 102, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one lowercase letter"])
+                }
+                if value.rangeOfCharacter(from: .decimalDigits) == nil {
+                    throw NSError(domain: "PasswordError", code: 103, userInfo: [NSLocalizedDescriptionKey: "Password must contain at least one digit"])
+                }
+                return true
+            }
+            .sink(
+                receiveCompletion: { completion in
+                    if case .failure(let error) = completion {
+                        errorMessage = error.localizedDescription
+                    }
+                },
+                receiveValue: { result in
+                    isPasswordValid = result
+                }
+            )
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBasic.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-06-07"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"ce40a5e7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI와 Combine은 iOS 앱 개발에 강력한 조합을 제공합니다. Combine은 비동기 이벤트와 데이터 흐름을 처리하는데 유용하며, SwiftUI는 선언형 UI 프레임워크로 UI 상태를 쉽게 관리할 수 있습니다. 이 글에서는 Combine의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":4,"column":143,"offset":208},"end":{"line":4,"column":155,"offset":220}}}],"position":{"start":{"line":4,"column":143,"offset":208},"end":{"line":4,"column":155,"offset":220}}},"children":"allSatisfy"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":4,"column":157,"offset":222},"end":{"line":4,"column":172,"offset":237}}}],"position":{"start":{"line":4,"column":157,"offset":222},"end":{"line":4,"column":172,"offset":237}}},"children":"tryAllSatisfy"}}]," 연산자를 사용하여 SwiftUI에서 조건 검사를 구현하는 방법을 알아보겠습니다."]}],"\n",["$","h3",null,{"id":"9c32d287","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"1. Combine과 SwiftUI 소개"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Combine은 Apple이 제공하는 반응형 프로그래밍 프레임워크로, 데이터 스트림을 퍼블리셔(Publisher)와 서브스크라이버(Subscriber)를 통해 관리합니다. 다양한 연산자를 제공하여 데이터를 변환하고 필터링할 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 선언형 UI 프레임워크로, 상태 기반의 UI 업데이트를 간편하게 할 수 있습니다. Combine과 SwiftUI를 함께 사용하면 데이터 변경에 따라 UI를 자동으로 업데이트할 수 있어 매우 효율적입니다."}],"\n",["$","h3",null,{"id":"839c64ed","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"2. allSatisfy 연산자 사용법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":14,"column":1,"offset":597},"end":{"line":14,"column":13,"offset":609}}}],"position":{"start":{"line":14,"column":1,"offset":597},"end":{"line":14,"column":13,"offset":609}}},"children":"allSatisfy"}}]," 연산자는 퍼블리셔의 모든 요소가 주어진 조건을 만족하는지 확인합니다. 이 연산자는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Bool","position":{"start":{"line":14,"column":60,"offset":656},"end":{"line":14,"column":66,"offset":662}}}],"position":{"start":{"line":14,"column":60,"offset":656},"end":{"line":14,"column":66,"offset":662}}},"children":"Bool"}}]," 값을 반환하며, 조건을 만족하면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"true","position":{"start":{"line":14,"column":85,"offset":681},"end":{"line":14,"column":91,"offset":687}}}],"position":{"start":{"line":14,"column":85,"offset":681},"end":{"line":14,"column":91,"offset":687}}},"children":"true"}}],", 그렇지 않으면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"false","position":{"start":{"line":14,"column":101,"offset":697},"end":{"line":14,"column":108,"offset":704}}}],"position":{"start":{"line":14,"column":101,"offset":697},"end":{"line":14,"column":108,"offset":704}}},"children":"false"}}],"를 반환합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다음은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":16,"column":5,"offset":718},"end":{"line":16,"column":17,"offset":730}}}],"position":{"start":{"line":16,"column":5,"offset":718},"end":{"line":16,"column":17,"offset":730}}},"children":"allSatisfy"}}]," 연산자를 사용하여 배열의 모든 요소가 특정 조건을 만족하는지 확인하는 예제입니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\nimport Combine\n\nstruct ContentView: View {\n    @State private var allEven = false\n    @State private var cancellable: AnyCancellable?\n\n    var body: some View {\n        VStack {\n            Text(\"All values are even: \\(allEven ? \"Yes\" : \"No\")\")\n                .padding()\n\n            Button(\"Check All Even\") {\n                checkAllEven()\n            }\n        }\n    }\n\n    func checkAllEven() {\n        let values = [2, 4, 6, 8, 10].publisher\n        cancellable = values\n            .allSatisfy { $0 % 2 == 0 }\n            .sink { result in\n                allEven = result\n            }\n    }\n}\n"}],"position":{"start":{"line":18,"column":1,"offset":778},"end":{"line":46,"column":4,"offset":1407}}},"children":"import SwiftUI\nimport Combine\n\nstruct ContentView: View {\n    @State private var allEven = false\n    @State private var cancellable: AnyCancellable?\n\n    var body: some View {\n        VStack {\n            Text(\"All values are even: \\(allEven ? \"Yes\" : \"No\")\")\n                .padding()\n\n            Button(\"Check All Even\") {\n                checkAllEven()\n            }\n        }\n    }\n\n    func checkAllEven() {\n        let values = [2, 4, 6, 8, 10].publisher\n        cancellable = values\n            .allSatisfy { $0 % 2 == 0 }\n            .sink { result in\n                allEven = result\n            }\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 예제에서는 버튼을 눌러 배열 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"[2, 4, 6, 8, 10]","position":{"start":{"line":48,"column":19,"offset":1427},"end":{"line":48,"column":37,"offset":1445}}}],"position":{"start":{"line":48,"column":19,"offset":1427},"end":{"line":48,"column":37,"offset":1445}}},"children":"[2, 4, 6, 8, 10]"}}],"의 모든 값이 짝수인지 확인합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":48,"column":57,"offset":1465},"end":{"line":48,"column":69,"offset":1477}}}],"position":{"start":{"line":48,"column":57,"offset":1465},"end":{"line":48,"column":69,"offset":1477}}},"children":"allSatisfy"}}]," 연산자는 배열의 모든 요소가 짝수인지 검사하며, 결과는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allEven","position":{"start":{"line":48,"column":101,"offset":1509},"end":{"line":48,"column":110,"offset":1518}}}],"position":{"start":{"line":48,"column":101,"offset":1509},"end":{"line":48,"column":110,"offset":1518}}},"children":"allEven"}}]," 상태 변수에 저장됩니다."]}],"\n",["$","h3",null,{"id":"375abd65","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"3. tryAllSatisfy 연산자 사용법"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":52,"column":1,"offset":1564},"end":{"line":52,"column":16,"offset":1579}}}],"position":{"start":{"line":52,"column":1,"offset":1564},"end":{"line":52,"column":16,"offset":1579}}},"children":"tryAllSatisfy"}}]," 연산자는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":52,"column":22,"offset":1585},"end":{"line":52,"column":34,"offset":1597}}}],"position":{"start":{"line":52,"column":22,"offset":1585},"end":{"line":52,"column":34,"offset":1597}}},"children":"allSatisfy"}}],"와 유사하지만, 오류가 발생할 수 있는 조건을 처리할 수 있습니다. 주로 예외 처리가 필요한 경우 사용됩니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["다음은 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":54,"column":5,"offset":1664},"end":{"line":54,"column":20,"offset":1679}}}],"position":{"start":{"line":54,"column":5,"offset":1664},"end":{"line":54,"column":20,"offset":1679}}},"children":"tryAllSatisfy"}}]," 연산자를 사용하여 배열의 모든 요소가 특정 조건을 만족하는지 확인하는 예제입니다."]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":56,"column":1,"offset":1727},"end":{"line":102,"column":4,"offset":3065}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 예제에서는 배열 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"[2, 4, 6, 8, 10]","position":{"start":{"line":104,"column":12,"offset":3078},"end":{"line":104,"column":30,"offset":3096}}}],"position":{"start":{"line":104,"column":12,"offset":3078},"end":{"line":104,"column":30,"offset":3096}}},"children":"[2, 4, 6, 8, 10]"}}],"의 값 중 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"6","position":{"start":{"line":104,"column":36,"offset":3102},"end":{"line":104,"column":39,"offset":3105}}}],"position":{"start":{"line":104,"column":36,"offset":3102},"end":{"line":104,"column":39,"offset":3105}}},"children":"6"}}],"이 발견되면 오류를 발생시킵니다. 오류가 발생하면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"errorMessage","position":{"start":{"line":104,"column":67,"offset":3133},"end":{"line":104,"column":81,"offset":3147}}}],"position":{"start":{"line":104,"column":67,"offset":3133},"end":{"line":104,"column":81,"offset":3147}}},"children":"errorMessage"}}]," 상태 변수에 오류 메시지가 저장됩니다."]}],"\n",["$","h3",null,{"id":"79af9592","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"4. 실전 예제: 사용자 입력 검증"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 Combine의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":108,"column":13,"offset":3208},"end":{"line":108,"column":25,"offset":3220}}}],"position":{"start":{"line":108,"column":13,"offset":3208},"end":{"line":108,"column":25,"offset":3220}}},"children":"allSatisfy"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":108,"column":27,"offset":3222},"end":{"line":108,"column":42,"offset":3237}}}],"position":{"start":{"line":108,"column":27,"offset":3222},"end":{"line":108,"column":42,"offset":3237}}},"children":"tryAllSatisfy"}}]," 연산자를 사용하여 사용자 입력을 검증하는 실전 예제를 살펴보겠습니다. 사용자가 입력한 비밀번호가 특정 조건을 모두 만족하는지 확인하는 UI를 만들어 보겠습니다."]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":110,"column":1,"offset":3329},"end":{"line":150,"column":4,"offset":4607}}},"children":"$11"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 예제에서는 사용자가 입력한 비밀번호가 다음 조건을 모두 만족하는지 확인합니다:"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"비밀번호 길이가 8자 이상"}],"\n",["$","li","li-1",{"children":"대문자 포함"}],"\n",["$","li","li-2",{"children":"소문자 포함"}],"\n",["$","li","li-3",{"children":"숫자 포함"}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":159,"column":1,"offset":4704},"end":{"line":159,"column":13,"offset":4716}}}],"position":{"start":{"line":159,"column":1,"offset":4704},"end":{"line":159,"column":13,"offset":4716}}},"children":"allSatisfy"}}]," 연산자를 사용하여 모든 조건을 검사한 후, 결과를 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"isPasswordValid","position":{"start":{"line":159,"column":42,"offset":4745},"end":{"line":159,"column":59,"offset":4762}}}],"position":{"start":{"line":159,"column":42,"offset":4745},"end":{"line":159,"column":59,"offset":4762}}},"children":"isPasswordValid"}}]," 상태 변수에 저장합니다."]}],"\n",["$","h3",null,{"id":"062b3c0d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"5. 고급 예제: 사용자 입력 검증과 오류 처리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이번에는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":163,"column":6,"offset":4815},"end":{"line":163,"column":21,"offset":4830}}}],"position":{"start":{"line":163,"column":6,"offset":4815},"end":{"line":163,"column":21,"offset":4830}}},"children":"tryAllSatisfy"}}]," 연산자를 사용하여 사용자 입력을 검증하면서 오류를 처리하는 예제를 살펴보겠습니다."]}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$12"}],"position":{"start":{"line":165,"column":1,"offset":4878},"end":{"line":225,"column":4,"offset":7258}}},"children":"$13"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 예제에서는 비밀번호 검증 과정에서 발생할 수 있는 다양한 오류를 처리합니다. 각 조건이 만족되지 않으면 관련 오류 메시지가 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"errorMessage","position":{"start":{"line":227,"column":72,"offset":7331},"end":{"line":227,"column":86,"offset":7345}}}],"position":{"start":{"line":227,"column":72,"offset":7331},"end":{"line":227,"column":86,"offset":7345}}},"children":"errorMessage"}}]," 상태 변수에 저장됩니다."]}],"\n",["$","h3",null,{"id":"5b12bcf2","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Combine의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"allSatisfy","position":{"start":{"line":231,"column":10,"offset":7378},"end":{"line":231,"column":22,"offset":7390}}}],"position":{"start":{"line":231,"column":10,"offset":7378},"end":{"line":231,"column":22,"offset":7390}}},"children":"allSatisfy"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"tryAllSatisfy","position":{"start":{"line":231,"column":24,"offset":7392},"end":{"line":231,"column":39,"offset":7407}}}],"position":{"start":{"line":231,"column":24,"offset":7392},"end":{"line":231,"column":39,"offset":7407}}},"children":"tryAllSatisfy"}}]," 연산자를 사용하면 SwiftUI에서 효율적으로 조건 검사를 구현할 수 있습니다. 이 글에서는 배열의 모든 요소가 특정 조건을 만족하는지 확인하고, 사용자 입력을 검증하는 방법을"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"살펴보았습니다. Combine과 SwiftUI를 결합하여 데이터 검증과 UI 업데이트를 간편하게 구현할 수 있습니다. 이러한 기법을 활용하면 비동기 데이터 처리와 사용자 인터페이스 업데이트를 보다 효율적으로 관리할 수 있습니다."}]]}]}],["$","$L14",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L15",null,{"articleTitle":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기","toc":[{"tagName":"h2","title":"SwiftUI에서 Combine을 이용한 조건 검사: allSatisfy와 tryAllSatisfy 적용하기","id":"ce40a5e7"},{"tagName":"h3","title":"1. Combine과 SwiftUI 소개","id":"9c32d287"},{"tagName":"h3","title":"2. allSatisfy 연산자 사용법","id":"839c64ed"},{"tagName":"h3","title":"3. tryAllSatisfy 연산자 사용법","id":"375abd65"},{"tagName":"h3","title":"4. 실전 예제: 사용자 입력 검증","id":"79af9592"},{"tagName":"h3","title":"5. 고급 예제: 사용자 입력 검증과 오류 처리","id":"062b3c0d"},{"tagName":"h3","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

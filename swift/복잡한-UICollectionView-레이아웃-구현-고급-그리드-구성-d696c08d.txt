@@ -1,0 +1,208 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","%EB%B3%B5%EC%9E%A1%ED%95%9C-UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-d696c08d","d"],{"children":["__PAGE__?{\"slug\":\"복잡한-UICollectionView-레이아웃-구현-고급-그리드-구성-d696c08d\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","%EB%B3%B5%EC%9E%A1%ED%95%9C-UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-d696c08d","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"복잡한-UICollectionView-레이아웃-구현-고급-그리드-구성-d696c08d\"}"},"styles":[]}],"segment":["slug","%EB%B3%B5%EC%9E%A1%ED%95%9C-UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-d696c08d","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글에서는 Swift를 사용하여 복잡한 UICollectionView 레이아웃을 구현하는 방법을 다룹니다. 특히 고급 그리드 구성을 중점적으로 설명하며, 코드 예시와 함께 다양한 레이아웃 기법을 소개합니다."}],["$","meta","3",{"name":"keywords","content":"Swift,UICollectionView,iOS 개발,그리드 레이아웃"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/%EB%B3%B5%EC%9E%A1%ED%95%9C-UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-d696c08d"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글에서는 Swift를 사용하여 복잡한 UICollectionView 레이아웃을 구현하는 방법을 다룹니다. 특히 고급 그리드 구성을 중점적으로 설명하며, 코드 예시와 함께 다양한 레이아웃 기법을 소개합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/%EB%B3%B5%EC%9E%A1%ED%95%9C-UICollectionView-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EA%B5%AC%ED%98%84-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EA%B5%AC%EC%84%B1-d696c08d"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글에서는 Swift를 사용하여 복잡한 UICollectionView 레이아웃을 구현하는 방법을 다룹니다. 특히 고급 그리드 구성을 중점적으로 설명하며, 코드 예시와 함께 다양한 레이아웃 기법을 소개합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+14:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+15:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T48e,import UIKit
+
+class ViewController: UIViewController {
+    var collectionView: UICollectionView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupCollectionView()
+    }
+
+    func setupCollectionView() {
+        let layout = UICollectionViewFlowLayout()
+        collectionView = UICollectionView(frame: self.view.bounds, collectionViewLayout: layout)
+        collectionView.backgroundColor = UIColor.white
+        collectionView.delegate = self
+        collectionView.dataSource = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        self.view.addSubview(collectionView)
+    }
+}
+
+extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = UIColor.blue
+        return cell
+    }
+}
+f:T48e,import UIKit
+
+class ViewController: UIViewController {
+    var collectionView: UICollectionView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupCollectionView()
+    }
+
+    func setupCollectionView() {
+        let layout = UICollectionViewFlowLayout()
+        collectionView = UICollectionView(frame: self.view.bounds, collectionViewLayout: layout)
+        collectionView.backgroundColor = UIColor.white
+        collectionView.delegate = self
+        collectionView.dataSource = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        self.view.addSubview(collectionView)
+    }
+}
+
+extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = UIColor.blue
+        return cell
+    }
+}
+10:T713,import UIKit
+
+class AdvancedViewController: UIViewController {
+    var collectionView: UICollectionView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupCollectionView()
+    }
+
+    func setupCollectionView() {
+        collectionView = UICollectionView(frame: self.view.bounds, collectionViewLayout: createLayout())
+        collectionView.backgroundColor = UIColor.white
+        collectionView.delegate = self
+        collectionView.dataSource = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        self.view.addSubview(collectionView)
+    }
+
+    func createLayout() -> UICollectionViewLayout {
+        let itemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(1.0))
+        let item = NSCollectionLayoutItem(layoutSize: itemSize)
+
+        let groupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(0.5), heightDimension: .fractionalHeight(0.3))
+        let group = NSCollectionLayoutGroup.horizontal(layoutSize: groupSize, subitem: item, count: 2)
+
+        let section = NSCollectionLayoutSection(group: group)
+        section.orthogonalScrollingBehavior = .continuous
+
+        return UICollectionViewCompositionalLayout(section: section)
+    }
+}
+
+extension AdvancedViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = UIColor.blue
+        return cell
+    }
+}
+11:T713,import UIKit
+
+class AdvancedViewController: UIViewController {
+    var collectionView: UICollectionView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupCollectionView()
+    }
+
+    func setupCollectionView() {
+        collectionView = UICollectionView(frame: self.view.bounds, collectionViewLayout: createLayout())
+        collectionView.backgroundColor = UIColor.white
+        collectionView.delegate = self
+        collectionView.dataSource = self
+        collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "cell")
+        self.view.addSubview(collectionView)
+    }
+
+    func createLayout() -> UICollectionViewLayout {
+        let itemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(1.0))
+        let item = NSCollectionLayoutItem(layoutSize: itemSize)
+
+        let groupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(0.5), heightDimension: .fractionalHeight(0.3))
+        let group = NSCollectionLayoutGroup.horizontal(layoutSize: groupSize, subitem: item, count: 2)
+
+        let section = NSCollectionLayoutSection(group: group)
+        section.orthogonalScrollingBehavior = .continuous
+
+        return UICollectionViewCompositionalLayout(section: section)
+    }
+}
+
+extension AdvancedViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return 20
+    }
+
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell", for: indexPath)
+        cell.backgroundColor = UIColor.blue
+        return cell
+    }
+}
+12:T51a,func createAdvancedLayout() -> UICollectionViewLayout {
+    let smallItemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(0.5), heightDimension: .fractionalHeight(1.0))
+    let smallItem = NSCollectionLayoutItem(layoutSize: smallItemSize)
+
+    let largeItemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.7))
+    let largeItem = NSCollectionLayoutItem(layoutSize: largeItemSize)
+
+    let smallGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.3))
+    let smallGroup = NSCollectionLayoutGroup.horizontal(layoutSize: smallGroupSize, subitems: [smallItem])
+
+    let largeGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.7))
+    let largeGroup = NSCollectionLayoutGroup.horizontal(layoutSize: largeGroupSize, subitems: [largeItem])
+
+    let nestedGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(1.0))
+    let nestedGroup = NSCollectionLayoutGroup.vertical(layoutSize: nestedGroupSize, subitems: [smallGroup, largeGroup])
+
+    let section = NSCollectionLayoutSection(group: nestedGroup)
+
+    return UICollectionViewCompositionalLayout(section: section)
+}
+13:T51a,func createAdvancedLayout() -> UICollectionViewLayout {
+    let smallItemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(0.5), heightDimension: .fractionalHeight(1.0))
+    let smallItem = NSCollectionLayoutItem(layoutSize: smallItemSize)
+
+    let largeItemSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.7))
+    let largeItem = NSCollectionLayoutItem(layoutSize: largeItemSize)
+
+    let smallGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.3))
+    let smallGroup = NSCollectionLayoutGroup.horizontal(layoutSize: smallGroupSize, subitems: [smallItem])
+
+    let largeGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(0.7))
+    let largeGroup = NSCollectionLayoutGroup.horizontal(layoutSize: largeGroupSize, subitems: [largeItem])
+
+    let nestedGroupSize = NSCollectionLayoutSize(widthDimension: .fractionalWidth(1.0), heightDimension: .fractionalHeight(1.0))
+    let nestedGroup = NSCollectionLayoutGroup.vertical(layoutSize: nestedGroupSize, subitems: [smallGroup, largeGroup])
+
+    let section = NSCollectionLayoutSection(group: nestedGroup)
+
+    return UICollectionViewCompositionalLayout(section: section)
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-13"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"c99f522a","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"UICollectionView는 iOS 앱 개발에서 다양한 아이템을 효과적으로 배치하고 표시하는 데 매우 유용합니다. 간단한 그리드 레이아웃뿐만 아니라, 복잡한 레이아웃도 구현할 수 있습니다. 이번 글에서는 Swift를 사용하여 복잡한 UICollectionView 레이아웃을 구현하는 방법을 살펴보겠습니다."}],"\n",["$","h2",null,{"id":"4a385890","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"서비스 개요"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"먼저 기본적인 서비스를 설정합니다. 여기에서는 간단한 프로젝트 설정으로 시작해보겠습니다."}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":10,"column":1,"offset":280},"end":{"line":43,"column":4,"offset":1458}}},"children":"$f"}}]}],"\n",["$","h2",null,{"id":"7eb8691e","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"고급 레이아웃 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["고급 그리드 레이아웃을 구현하려면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewCompositionalLayout","position":{"start":{"line":47,"column":20,"offset":1494},"end":{"line":47,"column":57,"offset":1531}}}],"position":{"start":{"line":47,"column":20,"offset":1494},"end":{"line":47,"column":57,"offset":1531}}},"children":"UICollectionViewCompositionalLayout"}}],"을 사용하여 레이아웃을 구성할 수 있습니다. 이를 통해 복잡한 레이아웃을 쉽게 정의할 수 있습니다."]}],"\n",["$","h3",null,{"id":"fc9c0332","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"Compositional Layout 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아래와 같이 Compositional Layout을 설정할 수 있습니다:"}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":53,"column":1,"offset":1659},"end":{"line":98,"column":4,"offset":3482}}},"children":"$11"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"createLayout()","position":{"start":{"line":100,"column":8,"offset":3491},"end":{"line":100,"column":24,"offset":3507}}}],"position":{"start":{"line":100,"column":8,"offset":3491},"end":{"line":100,"column":24,"offset":3507}}},"children":"createLayout()"}}]," 메소드는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"UICollectionViewCompositionalLayout","position":{"start":{"line":100,"column":30,"offset":3513},"end":{"line":100,"column":67,"offset":3550}}}],"position":{"start":{"line":100,"column":30,"offset":3513},"end":{"line":100,"column":67,"offset":3550}}},"children":"UICollectionViewCompositionalLayout"}}],"을 생성하여 섹션, 그룹, 아이템을 구성합니다. 이를 통해 복잡한 레이아웃을 쉽게 정의할 수 있습니다."]}],"\n",["$","h2",null,{"id":"b41b31b3","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"복합적인 레이아웃"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"고급 레이아웃을 더욱 복합적으로 만들기 위해 셀 크기와 위치를 다양하게 정의할 수 있습니다. 예를 들어, 두 개의 다른 셀 크기를 가진 그룹을 하나의 섹션에 포함시킬 수 있습니다. 이를 통해 고급스러운 레이아웃을 만들 수 있습니다."}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$12"}],"position":{"start":{"line":106,"column":1,"offset":3754},"end":{"line":127,"column":4,"offset":5072}}},"children":"$13"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드는 작은 셀과 큰 셀을 포함하는 복합적인 그룹을 만드는 예시입니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"createAdvancedLayout()","position":{"start":{"line":129,"column":43,"offset":5116},"end":{"line":129,"column":67,"offset":5140}}}],"position":{"start":{"line":129,"column":43,"offset":5116},"end":{"line":129,"column":67,"offset":5140}}},"children":"createAdvancedLayout()"}}]," 메소드를 사용하여 이와 같은 복잡한 레이아웃을 정의할 수 있습니다."]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 글에서는 Swift를 사용하여 복잡한 UICollectionView 레이아웃을 구현하는 방법을 살펴보았습니다. 다양한 레이아웃 기법과 Compositional Layout을 활용하여 고급 그리드 구성을 구현할 수 있는 방법들을 알아보았습니다. 이러한 기술들은 iOS 앱 개발 시 유용하게 활용될 수 있습니다. 좀 더 복잡한 디자인이 요구되는 프로젝트에서 이번 글의 내용을 참고하여 다양한 레이아웃을 시도해보시기 바랍니다."}]]}]}],["$","$L14",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L15",null,{"articleTitle":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성","toc":[{"tagName":"h1","title":"복잡한 UICollectionView 레이아웃 구현: 고급 그리드 구성","id":"c99f522a"},{"tagName":"h2","title":"서비스 개요","id":"4a385890"},{"tagName":"h2","title":"고급 레이아웃 설정","id":"7eb8691e"},{"tagName":"h3","title":"Compositional Layout 설정","id":"fc9c0332"},{"tagName":"h2","title":"복합적인 레이아웃","id":"b41b31b3"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

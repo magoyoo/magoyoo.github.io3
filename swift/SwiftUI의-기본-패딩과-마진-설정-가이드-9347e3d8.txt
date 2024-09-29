@@ -1,0 +1,167 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%94%A9%EA%B3%BC-%EB%A7%88%EC%A7%84-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C-9347e3d8","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%94%A9%EA%B3%BC-%EB%A7%88%EC%A7%84-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C-9347e3d8","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8\"}"},"styles":[]}],"segment":["slug","SwiftUI%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%94%A9%EA%B3%BC-%EB%A7%88%EC%A7%84-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C-9347e3d8","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI의 기본 패딩과 마진 설정 가이드 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법에 대해 알아봅니다. SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로 직관적이고 효율적인 방식으로 UI를 구성할 수 있게 해줍니다. 패딩과 마진 설정은 깔끔한 레이아웃을 만드는 데 중요한 요소이며, 이를 어떻게 활용할지 알아보겠습니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,패딩,마진,레이아웃"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%94%A9%EA%B3%BC-%EB%A7%88%EC%A7%84-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C-9347e3d8"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI의 기본 패딩과 마진 설정 가이드 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI의 기본 패딩과 마진 설정 가이드 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법에 대해 알아봅니다. SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로 직관적이고 효율적인 방식으로 UI를 구성할 수 있게 해줍니다. 패딩과 마진 설정은 깔끔한 레이아웃을 만드는 데 중요한 요소이며, 이를 어떻게 활용할지 알아보겠습니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%EB%94%A9%EA%B3%BC-%EB%A7%88%EC%A7%84-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C-9347e3d8"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner5.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI의 기본 패딩과 마진 설정 가이드 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법에 대해 알아봅니다. SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로 직관적이고 효율적인 방식으로 UI를 구성할 수 있게 해줍니다. 패딩과 마진 설정은 깔끔한 레이아웃을 만드는 데 중요한 요소이며, 이를 어떻게 활용할지 알아보겠습니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner5.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+e:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+12:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:Tc88,
+# SwiftUI의 기본 패딩과 마진 설정 가이드
+
+SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로, 프로그래머가 손쉽게 UI를 구축할 수 있게 돕습니다. 이 가이드에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법을 설명합니다. 패딩과 마진은 UI 구성에서 레이아웃을 깔끔하게 정리하는 데 필수적인 요소입니다. 본문에서는 각 설정 요소를 어떻게 활용할 수 있는지 자세히 알아보겠습니다.
+
+## 패딩(Padding) 설정
+
+패딩은 컨텐츠와 그 컨테이너 간의 내부 여백을 뜻합니다. SwiftUI에서는 `padding()` 메서드를 사용하여 패딩을 설정할 수 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding()
+```
+위 코드에서 `padding()` 메서드는 텍스트에 기본 패딩을 추가해 줍니다. 이렇게 하면 텍스트 주위에 일정한 간격이 생깁니다.
+
+기본 패딩 외에도 특정 값으로 패딩을 설정할 수 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding(20)
+```
+이 코드는 텍스트 주위에 20포인트의 패딩을 추가합니다. 또한, 각 축에 대해 개별적으로 패딩을 설정할 수도 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding(.horizontal, 10)
+    .padding(.vertical, 20)
+```
+여기에서는 수평 축에 10포인트, 수직 축에 20포인트의 패딩을 설정했습니다.
+
+### 특정 좌표 방향 패딩
+
+SwiftUI에서는 패딩을 특정 좌표 방향으로 설정할 수 있는 기능을 제공합니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding([.leading, .bottom], 10)
+```
+이 코드에서는 왼쪽(`.leading`)과 아래쪽(`.bottom`)에 각각 10포인트의 패딩을 적용했습니다. 이런 방식으로 필요에 따라 다양한 패딩 설정이 가능합니다.
+
+## 마진(Margin) 설정
+
+마진은 컨텐츠의 외부 여백, 즉 다른 뷰와의 간격을 의미합니다. SwiftUI에서는 `Spacer`를 이용해 마진을 설정할 수 있습니다.
+
+```swift
+VStack {
+    Text("Above")
+    Spacer()
+    Text("Below")
+}
+```
+이 코드는 상단의 텍스트와 하단의 텍스트 사이에 스페이서를 배치하여 간격을 만들어 줍니다. 스페이서는 가변적인 공간 채우기에 유용합니다.
+
+### 간격 값 지정
+
+스페이서의 기본 기능 외에도 특정 값으로 간격을 설정할 수 있습니다.
+
+```swift
+VStack {
+    Text("Above")
+    Spacer().frame(height: 50)
+    Text("Below")
+}
+```
+여기에서 스페이서의 높이를 50포인트로 설정해 두 텍스트 사이에 고정된 간격을 만듭니다.
+
+## 결론
+
+SwiftUI에서 패딩과 마진을 설정하는 것은 매우 직관적이며 강력합니다. `padding()` 메서드를 사용하여 컨텐츠 주위에 여백을 추가하고, `Spacer`를 이용해 뷰들 사이의 간격을 쉽게 조절할 수 있습니다. 이러한 기본 요소를 잘 이해하고 활용하면, 더욱 깔끔하고 사용자 친화적인 UI를 만드는 데 큰 도움이 될 것입니다.
+
+### 추가 자료
+
+- [SwiftUI 공식 문서](https://developer.apple.com/documentation/swiftui/)
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
+
+10:Tc88,
+# SwiftUI의 기본 패딩과 마진 설정 가이드
+
+SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로, 프로그래머가 손쉽게 UI를 구축할 수 있게 돕습니다. 이 가이드에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법을 설명합니다. 패딩과 마진은 UI 구성에서 레이아웃을 깔끔하게 정리하는 데 필수적인 요소입니다. 본문에서는 각 설정 요소를 어떻게 활용할 수 있는지 자세히 알아보겠습니다.
+
+## 패딩(Padding) 설정
+
+패딩은 컨텐츠와 그 컨테이너 간의 내부 여백을 뜻합니다. SwiftUI에서는 `padding()` 메서드를 사용하여 패딩을 설정할 수 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding()
+```
+위 코드에서 `padding()` 메서드는 텍스트에 기본 패딩을 추가해 줍니다. 이렇게 하면 텍스트 주위에 일정한 간격이 생깁니다.
+
+기본 패딩 외에도 특정 값으로 패딩을 설정할 수 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding(20)
+```
+이 코드는 텍스트 주위에 20포인트의 패딩을 추가합니다. 또한, 각 축에 대해 개별적으로 패딩을 설정할 수도 있습니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding(.horizontal, 10)
+    .padding(.vertical, 20)
+```
+여기에서는 수평 축에 10포인트, 수직 축에 20포인트의 패딩을 설정했습니다.
+
+### 특정 좌표 방향 패딩
+
+SwiftUI에서는 패딩을 특정 좌표 방향으로 설정할 수 있는 기능을 제공합니다.
+
+```swift
+Text("Hello, SwiftUI!")
+    .padding([.leading, .bottom], 10)
+```
+이 코드에서는 왼쪽(`.leading`)과 아래쪽(`.bottom`)에 각각 10포인트의 패딩을 적용했습니다. 이런 방식으로 필요에 따라 다양한 패딩 설정이 가능합니다.
+
+## 마진(Margin) 설정
+
+마진은 컨텐츠의 외부 여백, 즉 다른 뷰와의 간격을 의미합니다. SwiftUI에서는 `Spacer`를 이용해 마진을 설정할 수 있습니다.
+
+```swift
+VStack {
+    Text("Above")
+    Spacer()
+    Text("Below")
+}
+```
+이 코드는 상단의 텍스트와 하단의 텍스트 사이에 스페이서를 배치하여 간격을 만들어 줍니다. 스페이서는 가변적인 공간 채우기에 유용합니다.
+
+### 간격 값 지정
+
+스페이서의 기본 기능 외에도 특정 값으로 간격을 설정할 수 있습니다.
+
+```swift
+VStack {
+    Text("Above")
+    Spacer().frame(height: 50)
+    Text("Below")
+}
+```
+여기에서 스페이서의 높이를 50포인트로 설정해 두 텍스트 사이에 고정된 간격을 만듭니다.
+
+## 결론
+
+SwiftUI에서 패딩과 마진을 설정하는 것은 매우 직관적이며 강력합니다. `padding()` 메서드를 사용하여 컨텐츠 주위에 여백을 추가하고, `Spacer`를 이용해 뷰들 사이의 간격을 쉽게 조절할 수 있습니다. 이러한 기본 요소를 잘 이해하고 활용하면, 더욱 깔끔하고 사용자 친화적인 UI를 만드는 데 큰 도움이 될 것입니다.
+
+### 추가 자료
+
+- [SwiftUI 공식 문서](https://developer.apple.com/documentation/swiftui/)
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner5.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI의 기본 패딩과 마진 설정 가이드"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI의 기본 패딩과 마진 설정 가이드"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-23"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"53d840e1","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI의 기본 패딩과 마진 설정 가이드"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로, 프로그래머가 손쉽게 UI를 구축할 수 있게 돕습니다. 이 가이드에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법을 설명합니다. 패딩과 마진은 UI 구성에서 레이아웃을 깔끔하게 정리하는 데 필수적인 요소입니다. 본문에서는 각 설정 요소를 어떻게 활용할 수 있는지 자세히 알아보겠습니다."}],"\n",["$","h2",null,{"id":"a4508800","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"패딩(Padding) 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["패딩은 컨텐츠와 그 컨테이너 간의 내부 여백을 뜻합니다. SwiftUI에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"padding()","position":{"start":{"line":8,"column":44,"offset":290},"end":{"line":8,"column":55,"offset":301}}}],"position":{"start":{"line":8,"column":44,"offset":290},"end":{"line":8,"column":55,"offset":301}}},"children":"padding()"}}]," 메서드를 사용하여 패딩을 설정할 수 있습니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"Text(\"Hello, SwiftUI!\")\n    .padding()\n"}],"position":{"start":{"line":10,"column":1,"offset":329},"end":{"line":13,"column":4,"offset":380}}},"children":"Text(\"Hello, SwiftUI!\")\n    .padding()\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"padding()","position":{"start":{"line":14,"column":8,"offset":388},"end":{"line":14,"column":19,"offset":399}}}],"position":{"start":{"line":14,"column":8,"offset":388},"end":{"line":14,"column":19,"offset":399}}},"children":"padding()"}}]," 메서드는 텍스트에 기본 패딩을 추가해 줍니다. 이렇게 하면 텍스트 주위에 일정한 간격이 생깁니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"기본 패딩 외에도 특정 값으로 패딩을 설정할 수 있습니다."}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"Text(\"Hello, SwiftUI!\")\n    .padding(20)\n"}],"position":{"start":{"line":18,"column":1,"offset":490},"end":{"line":21,"column":4,"offset":543}}},"children":"Text(\"Hello, SwiftUI!\")\n    .padding(20)\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 코드는 텍스트 주위에 20포인트의 패딩을 추가합니다. 또한, 각 축에 대해 개별적으로 패딩을 설정할 수도 있습니다."}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"Text(\"Hello, SwiftUI!\")\n    .padding(.horizontal, 10)\n    .padding(.vertical, 20)\n"}],"position":{"start":{"line":24,"column":1,"offset":612},"end":{"line":28,"column":4,"offset":706}}},"children":"Text(\"Hello, SwiftUI!\")\n    .padding(.horizontal, 10)\n    .padding(.vertical, 20)\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"여기에서는 수평 축에 10포인트, 수직 축에 20포인트의 패딩을 설정했습니다."}],"\n",["$","h3",null,{"id":"b8b12633","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"특정 좌표 방향 패딩"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI에서는 패딩을 특정 좌표 방향으로 설정할 수 있는 기능을 제공합니다."}],"\n",["$","pre","pre-3",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"Text(\"Hello, SwiftUI!\")\n    .padding([.leading, .bottom], 10)\n"}],"position":{"start":{"line":35,"column":1,"offset":816},"end":{"line":38,"column":4,"offset":890}}},"children":"Text(\"Hello, SwiftUI!\")\n    .padding([.leading, .bottom], 10)\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 코드에서는 왼쪽(",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":".leading","position":{"start":{"line":39,"column":12,"offset":902},"end":{"line":39,"column":22,"offset":912}}}],"position":{"start":{"line":39,"column":12,"offset":902},"end":{"line":39,"column":22,"offset":912}}},"children":".leading"}}],")과 아래쪽(",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":".bottom","position":{"start":{"line":39,"column":29,"offset":919},"end":{"line":39,"column":38,"offset":928}}}],"position":{"start":{"line":39,"column":29,"offset":919},"end":{"line":39,"column":38,"offset":928}}},"children":".bottom"}}],")에 각각 10포인트의 패딩을 적용했습니다. 이런 방식으로 필요에 따라 다양한 패딩 설정이 가능합니다."]}],"\n",["$","h2",null,{"id":"30022d02","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"마진(Margin) 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["마진은 컨텐츠의 외부 여백, 즉 다른 뷰와의 간격을 의미합니다. SwiftUI에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Spacer","position":{"start":{"line":43,"column":48,"offset":1052},"end":{"line":43,"column":56,"offset":1060}}}],"position":{"start":{"line":43,"column":48,"offset":1052},"end":{"line":43,"column":56,"offset":1060}}},"children":"Spacer"}}],"를 이용해 마진을 설정할 수 있습니다."]}],"\n",["$","pre","pre-4",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"VStack {\n    Text(\"Above\")\n    Spacer()\n    Text(\"Below\")\n}\n"}],"position":{"start":{"line":45,"column":1,"offset":1083},"end":{"line":51,"column":4,"offset":1155}}},"children":"VStack {\n    Text(\"Above\")\n    Spacer()\n    Text(\"Below\")\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이 코드는 상단의 텍스트와 하단의 텍스트 사이에 스페이서를 배치하여 간격을 만들어 줍니다. 스페이서는 가변적인 공간 채우기에 유용합니다."}],"\n",["$","h3",null,{"id":"b12ffb6d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"간격 값 지정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"스페이서의 기본 기능 외에도 특정 값으로 간격을 설정할 수 있습니다."}],"\n",["$","pre","pre-5",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"VStack {\n    Text(\"Above\")\n    Spacer().frame(height: 50)\n    Text(\"Below\")\n}\n"}],"position":{"start":{"line":58,"column":1,"offset":1287},"end":{"line":64,"column":4,"offset":1377}}},"children":"VStack {\n    Text(\"Above\")\n    Spacer().frame(height: 50)\n    Text(\"Below\")\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"여기에서 스페이서의 높이를 50포인트로 설정해 두 텍스트 사이에 고정된 간격을 만듭니다."}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI에서 패딩과 마진을 설정하는 것은 매우 직관적이며 강력합니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"padding()","position":{"start":{"line":69,"column":43,"offset":1478},"end":{"line":69,"column":54,"offset":1489}}}],"position":{"start":{"line":69,"column":43,"offset":1478},"end":{"line":69,"column":54,"offset":1489}}},"children":"padding()"}}]," 메서드를 사용하여 컨텐츠 주위에 여백을 추가하고, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Spacer","position":{"start":{"line":69,"column":83,"offset":1518},"end":{"line":69,"column":91,"offset":1526}}}],"position":{"start":{"line":69,"column":83,"offset":1518},"end":{"line":69,"column":91,"offset":1526}}},"children":"Spacer"}}],"를 이용해 뷰들 사이의 간격을 쉽게 조절할 수 있습니다. 이러한 기본 요소를 잘 이해하고 활용하면, 더욱 깔끔하고 사용자 친화적인 UI를 만드는 데 큰 도움이 될 것입니다."]}],"\n",["$","h3",null,{"id":"056a8b51","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"추가 자료"}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["$","$Le",null,{"props":{"href":"https://developer.apple.com/documentation/swiftui/","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/swiftui/"},"children":[{"type":"text","value":"SwiftUI 공식 문서","position":{"start":{"line":73,"column":4,"offset":1638},"end":{"line":73,"column":17,"offset":1651}}}],"position":{"start":{"line":73,"column":3,"offset":1637},"end":{"line":73,"column":70,"offset":1704}}},"children":"SwiftUI 공식 문서"},"post":{"id":"9347e3d8-c5ca-4393-b685-bcd839fe7766","title":"SwiftUI의 기본 패딩과 마진 설정 가이드","fileName":"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8","description":"이 글에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법에 대해 알아봅니다. SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로 직관적이고 효율적인 방식으로 UI를 구성할 수 있게 해줍니다. 패딩과 마진 설정은 깔끔한 레이아웃을 만드는 데 중요한 요소이며, 이를 어떻게 활용할지 알아보겠습니다.","date":"2024-07-23T06:04:20.456Z","tags":[{"name":"SwiftUI","path":"/tags/swiftui","id":"swiftui"},{"name":"패딩","path":"/tags/패딩","id":"패딩"},{"name":"마진","path":"/tags/마진","id":"마진"},{"name":"레이아웃","path":"/tags/레이아웃","id":"레이아웃"}],"banner":"/images/swiftBanner5.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8","content":"$f","category":"swift","readMin":"2.9"},"language":"kr"}]}],"\n",["$","li","li-1",{"children":["$","$Le",null,{"props":{"href":"https://www.apple.com/swift/playgrounds/","node":{"type":"element","tagName":"a","properties":{"href":"https://www.apple.com/swift/playgrounds/"},"children":[{"type":"text","value":"Swift Playgrounds","position":{"start":{"line":74,"column":4,"offset":1708},"end":{"line":74,"column":21,"offset":1725}}}],"position":{"start":{"line":74,"column":3,"offset":1707},"end":{"line":74,"column":64,"offset":1768}}},"children":"Swift Playgrounds"},"post":{"id":"9347e3d8-c5ca-4393-b685-bcd839fe7766","title":"SwiftUI의 기본 패딩과 마진 설정 가이드","fileName":"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8","description":"이 글에서는 SwiftUI에서 기본 패딩과 마진을 설정하는 방법에 대해 알아봅니다. SwiftUI는 애플이 제공하는 최신 GUI 프레임워크로 직관적이고 효율적인 방식으로 UI를 구성할 수 있게 해줍니다. 패딩과 마진 설정은 깔끔한 레이아웃을 만드는 데 중요한 요소이며, 이를 어떻게 활용할지 알아보겠습니다.","date":"2024-07-23T06:04:20.456Z","tags":[{"name":"SwiftUI","path":"/tags/swiftui","id":"swiftui"},{"name":"패딩","path":"/tags/패딩","id":"패딩"},{"name":"마진","path":"/tags/마진","id":"마진"},{"name":"레이아웃","path":"/tags/레이아웃","id":"레이아웃"}],"banner":"/images/swiftBanner5.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"SwiftUI의-기본-패딩과-마진-설정-가이드-9347e3d8","content":"$10","category":"swift","readMin":"2.9"},"language":"kr"}]}],"\n"]}]]}]}],["$","$L11",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L12",null,{"articleTitle":"SwiftUI의 기본 패딩과 마진 설정 가이드","toc":[{"tagName":"h1","title":"SwiftUI의 기본 패딩과 마진 설정 가이드","id":"53d840e1"},{"tagName":"h2","title":"패딩(Padding) 설정","id":"a4508800"},{"tagName":"h3","title":"특정 좌표 방향 패딩","id":"b8b12633"},{"tagName":"h2","title":"마진(Margin) 설정","id":"30022d02"},{"tagName":"h3","title":"간격 값 지정","id":"b12ffb6d"},{"tagName":"h2","title":"결론","id":"5b12bcf2"},{"tagName":"h3","title":"추가 자료","id":"056a8b51"}],"language":"kr"}]}]]}]]
+8:null

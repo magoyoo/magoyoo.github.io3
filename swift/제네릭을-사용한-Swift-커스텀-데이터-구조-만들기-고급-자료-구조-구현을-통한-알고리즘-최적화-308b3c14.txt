@@ -1,0 +1,148 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Swift-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B3%A0%EA%B8%89-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-308b3c14","d"],{"children":["__PAGE__?{\"slug\":\"제네릭을-사용한-Swift-커스텀-데이터-구조-만들기-고급-자료-구조-구현을-통한-알고리즘-최적화-308b3c14\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Swift-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B3%A0%EA%B8%89-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-308b3c14","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"제네릭을-사용한-Swift-커스텀-데이터-구조-만들기-고급-자료-구조-구현을-통한-알고리즘-최적화-308b3c14\"}"},"styles":[]}],"segment":["slug","%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Swift-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B3%A0%EA%B8%89-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-308b3c14","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화. | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"Swift에서 제네릭을 사용하여 커스텀 데이터 구조를 만드는 방법을 알아보도록 하겠습니다. 이러한 자료 구조는 알고리즘 최적화에 크게 기여할 수 있으며, 코드의 재사용성과 유연성을 향상시킵니다."}],["$","meta","3",{"name":"keywords","content":"Swift,제네릭,데이터 구조,알고리즘 최적화"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Swift-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B3%A0%EA%B8%89-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-308b3c14"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화. | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화. | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"Swift에서 제네릭을 사용하여 커스텀 데이터 구조를 만드는 방법을 알아보도록 하겠습니다. 이러한 자료 구조는 알고리즘 최적화에 크게 기여할 수 있으며, 코드의 재사용성과 유연성을 향상시킵니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Swift-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B3%A0%EA%B8%89-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B5%AC%ED%98%84%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%A0%81%ED%99%94-308b3c14"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화. | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"Swift에서 제네릭을 사용하여 커스텀 데이터 구조를 만드는 방법을 알아보도록 하겠습니다. 이러한 자료 구조는 알고리즘 최적화에 크게 기여할 수 있으며, 코드의 재사용성과 유연성을 향상시킵니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T712,class BinarySearchTree<T: Comparable> {
+    private class Node {
+        var value: T
+        var leftChild: Node?
+        var rightChild: Node?
+        
+        init(value: T) {
+            self.value = value
+        }
+    }
+    
+    private var root: Node?
+    
+    func insert(value: T) {
+        let newNode = Node(value: value)
+        if let root = root {
+            insertNode(root, newNode)
+        } else {
+            root = newNode
+        }
+    }
+    
+    private func insertNode(_ node: Node, _ newNode: Node) {
+        if newNode.value < node.value {
+            if let leftChild = node.leftChild {
+                insertNode(leftChild, newNode)
+            } else {
+                node.leftChild = newNode
+            }
+        } else {
+            if let rightChild = node.rightChild {
+                insertNode(rightChild, newNode)
+            } else {
+                node.rightChild = newNode
+            }
+        }
+    }
+    
+    func search(value: T) -> Bool {
+        return searchNode(root, value)
+    }
+    
+    private func searchNode(_ node: Node?, _ value: T) -> Bool {
+        guard let node = node else { return false }
+        if node.value == value {
+            return true
+        } else if value < node.value {
+            return searchNode(node.leftChild, value)
+        } else {
+            return searchNode(node.rightChild, value)
+        }
+    }
+    
+    func inOrderTraversal() -> [T] {
+        var result: [T] = []
+        inOrderTraversalNode(root, &result)
+        return result
+    }
+    
+    private func inOrderTraversalNode(_ node: Node?, _ result: inout [T]) {
+        guard let node = node else { return }
+        inOrderTraversalNode(node.leftChild, &result)
+        result.append(node.value)
+        inOrderTraversalNode(node.rightChild, &result)
+    }
+}
+f:T712,class BinarySearchTree<T: Comparable> {
+    private class Node {
+        var value: T
+        var leftChild: Node?
+        var rightChild: Node?
+        
+        init(value: T) {
+            self.value = value
+        }
+    }
+    
+    private var root: Node?
+    
+    func insert(value: T) {
+        let newNode = Node(value: value)
+        if let root = root {
+            insertNode(root, newNode)
+        } else {
+            root = newNode
+        }
+    }
+    
+    private func insertNode(_ node: Node, _ newNode: Node) {
+        if newNode.value < node.value {
+            if let leftChild = node.leftChild {
+                insertNode(leftChild, newNode)
+            } else {
+                node.leftChild = newNode
+            }
+        } else {
+            if let rightChild = node.rightChild {
+                insertNode(rightChild, newNode)
+            } else {
+                node.rightChild = newNode
+            }
+        }
+    }
+    
+    func search(value: T) -> Bool {
+        return searchNode(root, value)
+    }
+    
+    private func searchNode(_ node: Node?, _ value: T) -> Bool {
+        guard let node = node else { return false }
+        if node.value == value {
+            return true
+        } else if value < node.value {
+            return searchNode(node.leftChild, value)
+        } else {
+            return searchNode(node.rightChild, value)
+        }
+    }
+    
+    func inOrderTraversal() -> [T] {
+        var result: [T] = []
+        inOrderTraversalNode(root, &result)
+        return result
+    }
+    
+    private func inOrderTraversalNode(_ node: Node?, _ result: inout [T]) {
+        guard let node = node else { return }
+        inOrderTraversalNode(node.leftChild, &result)
+        result.append(node.value)
+        inOrderTraversalNode(node.rightChild, &result)
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화."}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화."}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-02"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"626fa1e9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Swift는 높은 생산성과 성능을 제공하는 언어로, 제네릭을 사용한 커스텀 데이터 구조를 이용하면 더욱 효율적이고 유연한 코드를 작성할 수 있습니다. 제네릭은 다양한 타입에 대해서 동일한 코드 베이스를 재사용할 수 있게 해주며, 타입 안전성을 유지하면서 코드의 가독성과 유지관리를 쉽게 만들어줍니다."}],"\n",["$","h2",null,{"id":"f78666b7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"제네릭 데이터 구조의 기본"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["제네릭 데이터 구조를 이해하기 위해 간단한 예제를 통해 기본 개념을 알아보겠습니다. 여기서는 Swift의 가장 기본적인 컬렉션 타입인 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Array","position":{"start":{"line":9,"column":76,"offset":324},"end":{"line":9,"column":83,"offset":331}}}],"position":{"start":{"line":9,"column":76,"offset":324},"end":{"line":9,"column":83,"offset":331}}},"children":"Array"}}],"를 제네릭으로 구현해보겠습니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"struct MyArray<T> {\n    private var elements: [T] = []\n    \n    mutating func addElement(element: T) {\n        elements.append(element)\n    }\n    \n    func getElement(at index: Int) -> T? {\n        guard index >= 0 && index < elements.count else { return nil }\n        return elements[index]\n    }\n}\n"}],"position":{"start":{"line":11,"column":1,"offset":350},"end":{"line":24,"column":4,"offset":662}}},"children":"struct MyArray<T> {\n    private var elements: [T] = []\n    \n    mutating func addElement(element: T) {\n        elements.append(element)\n    }\n    \n    func getElement(at index: Int) -> T? {\n        guard index >= 0 && index < elements.count else { return nil }\n        return elements[index]\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위의 예제에서 우리는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"MyArray","position":{"start":{"line":26,"column":13,"offset":676},"end":{"line":26,"column":22,"offset":685}}}],"position":{"start":{"line":26,"column":13,"offset":676},"end":{"line":26,"column":22,"offset":685}}},"children":"MyArray"}}],"라는 제네릭 구조체를 작성하였습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"T","position":{"start":{"line":26,"column":43,"offset":706},"end":{"line":26,"column":46,"offset":709}}}],"position":{"start":{"line":26,"column":43,"offset":706},"end":{"line":26,"column":46,"offset":709}}},"children":"T"}}],"는 타입 파라미터로 사용되어, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"MyArray","position":{"start":{"line":26,"column":63,"offset":726},"end":{"line":26,"column":72,"offset":735}}}],"position":{"start":{"line":26,"column":63,"offset":726},"end":{"line":26,"column":72,"offset":735}}},"children":"MyArray"}}],"가 어떤 타입의 요소도 포함할 수 있게 했습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"addElement","position":{"start":{"line":26,"column":100,"offset":763},"end":{"line":26,"column":112,"offset":775}}}],"position":{"start":{"line":26,"column":100,"offset":763},"end":{"line":26,"column":112,"offset":775}}},"children":"addElement"}}]," 메서드는 해당 타입 요소를 배열에 추가하는 기능을, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"getElement","position":{"start":{"line":26,"column":142,"offset":805},"end":{"line":26,"column":154,"offset":817}}}],"position":{"start":{"line":26,"column":142,"offset":805},"end":{"line":26,"column":154,"offset":817}}},"children":"getElement"}}]," 메서드는 해당 인덱스의 요소를 반환하는 기능을 제공합니다."]}],"\n",["$","h2",null,{"id":"98953b5a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"고급 자료 구조 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이제 제네릭을 사용하여 더욱 복잡한 데이터 구조를 구현해보겠습니다. 여기서는 이진 탐색 트리(Binary Search Tree)를 예로 들어 보겠습니다. 이진 탐색 트리는 정렬된 데이터 저장과 빠른 검색을 가능하게 합니다."}],"\n",["$","h3",null,{"id":"fa677cda","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"이진 탐색 트리의 정의"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이진 탐색 트리는 각 노드가 최대 두 개의 자식을 가지며, 왼쪽 자식은 부모보다 작은 값을, 오른쪽 자식은 부모보다 큰 값을 가집니다. 이 구조로 인해 검색, 삽입, 삭제 연산이 평균적으로 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"O(log n)","position":{"start":{"line":34,"column":107,"offset":1118},"end":{"line":34,"column":117,"offset":1128}}}],"position":{"start":{"line":34,"column":107,"offset":1118},"end":{"line":34,"column":117,"offset":1128}}},"children":"O(log n)"}}],"의 시간복잡도를 유지할 수 있습니다."]}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":36,"column":1,"offset":1150},"end":{"line":103,"column":4,"offset":2972}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드에서는 제네릭 클래스 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"BinarySearchTree","position":{"start":{"line":105,"column":17,"offset":2990},"end":{"line":105,"column":35,"offset":3008}}}],"position":{"start":{"line":105,"column":17,"offset":2990},"end":{"line":105,"column":35,"offset":3008}}},"children":"BinarySearchTree"}}],"를 정의하였습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"T","position":{"start":{"line":105,"column":46,"offset":3019},"end":{"line":105,"column":49,"offset":3022}}}],"position":{"start":{"line":105,"column":46,"offset":3019},"end":{"line":105,"column":49,"offset":3022}}},"children":"T"}}],"는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Comparable","position":{"start":{"line":105,"column":51,"offset":3024},"end":{"line":105,"column":63,"offset":3036}}}],"position":{"start":{"line":105,"column":51,"offset":3024},"end":{"line":105,"column":63,"offset":3036}}},"children":"Comparable"}}]," 프로토콜을 준수하는 모든 타입을 사용할 수 있게 설정하였습니다. 각 노드는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Node","position":{"start":{"line":105,"column":106,"offset":3079},"end":{"line":105,"column":112,"offset":3085}}}],"position":{"start":{"line":105,"column":106,"offset":3079},"end":{"line":105,"column":112,"offset":3085}}},"children":"Node"}}]," 클래스의 인스턴스로 구성되며, 각각의 노드는 한 개의 값을 가지며 왼쪽과 오른쪽 자식을 가질 수 있습니다."]}],"\n",["$","h3",null,{"id":"c14d5112","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"이진 탐색 트리의 주요 연산"}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["삽입(",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"insert","position":{"start":{"line":109,"column":6,"offset":3173},"end":{"line":109,"column":14,"offset":3181}}}],"position":{"start":{"line":109,"column":6,"offset":3173},"end":{"line":109,"column":14,"offset":3181}}},"children":"insert"}}],"): 새로운 노드를 트리에 삽입합니다. 비교 연산을 통해 적절한 위치에 배치됩니다."]}],"\n",["$","li","li-1",{"children":["검색(",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"search","position":{"start":{"line":110,"column":6,"offset":3233},"end":{"line":110,"column":14,"offset":3241}}}],"position":{"start":{"line":110,"column":6,"offset":3233},"end":{"line":110,"column":14,"offset":3241}}},"children":"search"}}],"): 주어진 값을 트리 내에서 검색합니다. 값을 찾으면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"true","position":{"start":{"line":110,"column":45,"offset":3272},"end":{"line":110,"column":51,"offset":3278}}}],"position":{"start":{"line":110,"column":45,"offset":3272},"end":{"line":110,"column":51,"offset":3278}}},"children":"true"}}],", 찾지 못하면 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"false","position":{"start":{"line":110,"column":60,"offset":3287},"end":{"line":110,"column":67,"offset":3294}}}],"position":{"start":{"line":110,"column":60,"offset":3287},"end":{"line":110,"column":67,"offset":3294}}},"children":"false"}}],"를 반환합니다."]}],"\n",["$","li","li-2",{"children":["중위 순회(",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"inOrderTraversal","position":{"start":{"line":111,"column":9,"offset":3311},"end":{"line":111,"column":27,"offset":3329}}}],"position":{"start":{"line":111,"column":9,"offset":3311},"end":{"line":111,"column":27,"offset":3329}}},"children":"inOrderTraversal"}}],"): 트리를 중위 순회하며 값들을 오름차순으로 반환합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"d21ad924","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"알고리즘 최적화"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"제네릭을 활용한 데이터 구조는 알고리즘 최적화에 큰 도움을 줍니다. 여기서는 이진 탐색 트리를 예로 들어 설명하였습니다. 각 데이터 구조는 특정한 문제를 해결하기 위해 설계되었으며 제네릭을 통해 코드의 유연성과 재사용성을 크게 향상시킬 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"다른 일반적인 데이터 구조와 알고리즘에도 동일한 원리를 적용할 수 있습니다. 예를 들어, 스택(Stack), 큐(Queue), 힙(Heap) 등을 제네릭으로 구현하여 다양한 타입의 데이터에 대해 동작할 수 있게 할 수 있습니다."}],"\n",["$","h3",null,{"id":"ed8464a3","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"마무리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Swift의 강력한 제네릭 시스템을 통해 커스텀 데이터 구조를 사용하면 더욱 효율적이고 확장 가능한 코드를 작성할 수 있습니다. 이를 통해 우리는 복잡한 알고리즘을 최적화하고, 다양한 상황에 맞춤형 솔루션을 제공할 수 있습니다. 제네릭의 가능성을 최대한 활용하여 한층 더 발전된 소프트웨어를 개발해보십시오."}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화.","toc":[{"tagName":"h1","title":"제네릭을 사용한 Swift 커스텀 데이터 구조 만들기: 고급 자료 구조 구현을 통한 알고리즘 최적화","id":"626fa1e9"},{"tagName":"h2","title":"제네릭 데이터 구조의 기본","id":"f78666b7"},{"tagName":"h2","title":"고급 자료 구조 구현","id":"98953b5a"},{"tagName":"h3","title":"이진 탐색 트리의 정의","id":"fa677cda"},{"tagName":"h3","title":"이진 탐색 트리의 주요 연산","id":"c14d5112"},{"tagName":"h2","title":"알고리즘 최적화","id":"d21ad924"},{"tagName":"h3","title":"마무리","id":"ed8464a3"}],"language":"kr"}]}]]}]]
+8:null

@@ -1,0 +1,164 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["algorithm",{"children":[["slug","A-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B8%B8-%EC%B0%BE%EA%B8%B0-%EC%A0%84%EB%9E%B5-b624eaa7","d"],{"children":["__PAGE__?{\"slug\":\"A-탐색-알고리즘과-지능형-경로-찾기-효율적인-길-찾기-전략-b624eaa7\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children",["slug","A-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B8%B8-%EC%B0%BE%EA%B8%B0-%EC%A0%84%EB%9E%B5-b624eaa7","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"A-탐색-알고리즘과-지능형-경로-찾기-효율적인-길-찾기-전략-b624eaa7\"}"},"styles":[]}],"segment":["slug","A-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B8%B8-%EC%B0%BE%EA%B8%B0-%EC%A0%84%EB%9E%B5-b624eaa7","d"]},"styles":[]}],"segment":"algorithm"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"A* 탐색 알고리즘은 지능형 경로 찾기 문제에서 가장 널리 사용되는 알고리즘 중 하나입니다. 이 글에서는 A* 알고리즘의 기본 원리, 작동 방식, 그리고 이를 활용한 예제들을 통해 효율적인 길 찾기 전략을 자세히 설명합니다."}],["$","meta","3",{"name":"keywords","content":"A* 알고리즘,경로 찾기,AI,탐색 알고리즘"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/algorithm/A-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B8%B8-%EC%B0%BE%EA%B8%B0-%EC%A0%84%EB%9E%B5-b624eaa7"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"A* 탐색 알고리즘은 지능형 경로 찾기 문제에서 가장 널리 사용되는 알고리즘 중 하나입니다. 이 글에서는 A* 알고리즘의 기본 원리, 작동 방식, 그리고 이를 활용한 예제들을 통해 효율적인 길 찾기 전략을 자세히 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/algorithm/A-%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%A7%80%EB%8A%A5%ED%98%95-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B8%B8-%EC%B0%BE%EA%B8%B0-%EC%A0%84%EB%9E%B5-b624eaa7"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"A* 탐색 알고리즘은 지능형 경로 찾기 문제에서 가장 널리 사용되는 알고리즘 중 하나입니다. 이 글에서는 A* 알고리즘의 기본 원리, 작동 방식, 그리고 이를 활용한 예제들을 통해 효율적인 길 찾기 전략을 자세히 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+e:T8b6,import heapq
+
+class Node:
+    def __init__(self, position, parent=None):
+        self.position = position
+        self.parent = parent
+        self.g = 0
+        self.h = 0
+        self.f = 0
+
+    def __eq__(self, other):
+        return self.position == other.position
+
+    def __lt__(self, other):
+        return self.f < other.f
+
+    def __repr__(self):
+        return f'({self.position}, g: {self.g}, h: {self.h}, f: {self.f})'
+
+# 휴리스틱 함수 (맨해튼 거리)
+def heuristic(current, goal):
+    return abs(current[0] - goal[0]) + abs(current[1] - goal[1])
+
+# A* 알고리즘 구현
+def a_star(start, goal, grid):
+    start_node = Node(start)
+    goal_node = Node(goal)
+
+    open_list = []
+    closed_list = []
+
+    heapq.heappush(open_list, start_node)
+
+    while open_list:
+        current_node = heapq.heappop(open_list)
+        closed_list.append(current_node)
+
+        if current_node == goal_node:
+            path = []
+            while current_node is not None:
+                path.append(current_node.position)
+                current_node = current_node.parent
+            return path[::-1]
+
+        children = []
+        for new_position in [(0, -1), (0, 1), (-1, 0), (1, 0)]:
+            node_position = (current_node.position[0] + new_position[0],
+                            current_node.position[1] + new_position[1])
+
+            if node_position[0] < 0 or node_position[0] >= len(grid) or \
+               node_position[1] < 0 or node_position[1] >= len(grid[0]):
+                continue
+
+            if grid[node_position[0]][node_position[1]] != 0:
+                continue
+
+            new_node = Node(node_position, current_node)
+
+            if new_node in closed_list:
+                continue
+
+            new_node.g = current_node.g + 1
+            new_node.h = heuristic(new_node.position, goal_node.position)
+            new_node.f = new_node.g + new_node.h
+
+            if new_node in open_list:
+                index = open_list.index(new_node)
+                if new_node.g < open_list[index].g:
+                    open_list[index].g = new_node.g
+                    open_list[index].f = new_node.f
+            else:
+                heapq.heappush(open_list, new_node)
+
+    return None
+f:T8b6,import heapq
+
+class Node:
+    def __init__(self, position, parent=None):
+        self.position = position
+        self.parent = parent
+        self.g = 0
+        self.h = 0
+        self.f = 0
+
+    def __eq__(self, other):
+        return self.position == other.position
+
+    def __lt__(self, other):
+        return self.f < other.f
+
+    def __repr__(self):
+        return f'({self.position}, g: {self.g}, h: {self.h}, f: {self.f})'
+
+# 휴리스틱 함수 (맨해튼 거리)
+def heuristic(current, goal):
+    return abs(current[0] - goal[0]) + abs(current[1] - goal[1])
+
+# A* 알고리즘 구현
+def a_star(start, goal, grid):
+    start_node = Node(start)
+    goal_node = Node(goal)
+
+    open_list = []
+    closed_list = []
+
+    heapq.heappush(open_list, start_node)
+
+    while open_list:
+        current_node = heapq.heappop(open_list)
+        closed_list.append(current_node)
+
+        if current_node == goal_node:
+            path = []
+            while current_node is not None:
+                path.append(current_node.position)
+                current_node = current_node.parent
+            return path[::-1]
+
+        children = []
+        for new_position in [(0, -1), (0, 1), (-1, 0), (1, 0)]:
+            node_position = (current_node.position[0] + new_position[0],
+                            current_node.position[1] + new_position[1])
+
+            if node_position[0] < 0 or node_position[0] >= len(grid) or \
+               node_position[1] < 0 or node_position[1] >= len(grid[0]):
+                continue
+
+            if grid[node_position[0]][node_position[1]] != 0:
+                continue
+
+            new_node = Node(node_position, current_node)
+
+            if new_node in closed_list:
+                continue
+
+            new_node.g = current_node.g + 1
+            new_node.h = heuristic(new_node.position, goal_node.position)
+            new_node.f = new_node.g + new_node.h
+
+            if new_node in open_list:
+                index = open_list.index(new_node)
+                if new_node.g < open_list[index].g:
+                    open_list[index].g = new_node.g
+                    open_list[index].f = new_node.f
+            else:
+                heapq.heappush(open_list, new_node)
+
+    return None
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/algorithmImg.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-06-23"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"42436e3f","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"A* 탐색 알고리즘과 지능형 경로 찾기: 효율적인 길 찾기 전략"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"A* 탐색 알고리즘은 컴퓨터 과학 분야에서 널리 사용되는 경로 찾기 알고리즘 중 하나입니다. 특히, 그래프 이론과 인공지능 분야에서 최단경로 문제를 해결하기 위해 자주 사용됩니다. 이 글에서는 A* 알고리즘의 기본 개념, 작동 원리, 구현 방법, 그리고 다양한 응용 분야에 대해 살펴보겠습니다."}],"\n",["$","h2",null,{"id":"88515ff4","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"A* 알고리즘의 기본 개념"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["A* 알고리즘은 주어진 시작 노드에서 목표 노드까지의 최단 경로를 찾는 데 사용됩니다. 이 알고리즘은 비용 함수 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n) = g(n) + h(n)","position":{"start":{"line":8,"column":64,"offset":288},"end":{"line":8,"column":84,"offset":308}}}],"position":{"start":{"line":8,"column":64,"offset":288},"end":{"line":8,"column":84,"offset":308}}},"children":"f(n) = g(n) + h(n)"}}],"을 기반으로 작동합니다. 여기서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"g(n)","position":{"start":{"line":8,"column":102,"offset":326},"end":{"line":8,"column":108,"offset":332}}}],"position":{"start":{"line":8,"column":102,"offset":326},"end":{"line":8,"column":108,"offset":332}}},"children":"g(n)"}}],"은 시작 노드에서 현재 노드 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"n","position":{"start":{"line":8,"column":124,"offset":348},"end":{"line":8,"column":127,"offset":351}}}],"position":{"start":{"line":8,"column":124,"offset":348},"end":{"line":8,"column":127,"offset":351}}},"children":"n"}}],"까지의 실제 비용이고, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"h(n)","position":{"start":{"line":8,"column":140,"offset":364},"end":{"line":8,"column":146,"offset":370}}}],"position":{"start":{"line":8,"column":140,"offset":364},"end":{"line":8,"column":146,"offset":370}}},"children":"h(n)"}}],"은 현재 노드 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"n","position":{"start":{"line":8,"column":154,"offset":378},"end":{"line":8,"column":157,"offset":381}}}],"position":{"start":{"line":8,"column":154,"offset":378},"end":{"line":8,"column":157,"offset":381}}},"children":"n"}}],"에서 목표 노드까지의 추정 비용(휴리스틱)입니다. 이 두 값을 더한 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n)","position":{"start":{"line":8,"column":195,"offset":419},"end":{"line":8,"column":201,"offset":425}}}],"position":{"start":{"line":8,"column":195,"offset":419},"end":{"line":8,"column":201,"offset":425}}},"children":"f(n)"}}]," 값이 가장 작은 노드를 선택하여 탐색을 진행합니다."]}],"\n",["$","h3",null,{"id":"dd6c95f1","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"비용 함수와 휴리스틱 함수"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":["비용 함수 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n)","position":{"start":{"line":12,"column":12,"offset":487},"end":{"line":12,"column":18,"offset":493}}}],"position":{"start":{"line":12,"column":12,"offset":487},"end":{"line":12,"column":18,"offset":493}}},"children":"f(n)"}}]]}],": 비용 함수는 경로의 총 비용을 나타냅니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n) = g(n) + h(n)","position":{"start":{"line":12,"column":46,"offset":521},"end":{"line":12,"column":66,"offset":541}}}],"position":{"start":{"line":12,"column":46,"offset":521},"end":{"line":12,"column":66,"offset":541}}},"children":"f(n) = g(n) + h(n)"}}],"으로 계산되며, 여기서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"g(n)","position":{"start":{"line":12,"column":79,"offset":554},"end":{"line":12,"column":85,"offset":560}}}],"position":{"start":{"line":12,"column":79,"offset":554},"end":{"line":12,"column":85,"offset":560}}},"children":"g(n)"}}],"은 시작 노드에서 현재 노드까지의 실제 경로 비용, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"h(n)","position":{"start":{"line":12,"column":114,"offset":589},"end":{"line":12,"column":120,"offset":595}}}],"position":{"start":{"line":12,"column":114,"offset":589},"end":{"line":12,"column":120,"offset":595}}},"children":"h(n)"}}],"은 현재 노드에서 목표 노드까지의 예측된 비용입니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":["휴리스틱 함수 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"h(n)","position":{"start":{"line":13,"column":14,"offset":638},"end":{"line":13,"column":20,"offset":644}}}],"position":{"start":{"line":13,"column":14,"offset":638},"end":{"line":13,"column":20,"offset":644}}},"children":"h(n)"}}]]}],": 휴리스틱 함수는 목표 노드까지의 추정 비용을 나타냅니다. 이는 주로 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"유클리드 거리","position":{"start":{"line":13,"column":62,"offset":686},"end":{"line":13,"column":71,"offset":695}}}],"position":{"start":{"line":13,"column":62,"offset":686},"end":{"line":13,"column":71,"offset":695}}},"children":"유클리드 거리"}}],", ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"맨해튼 거리","position":{"start":{"line":13,"column":73,"offset":697},"end":{"line":13,"column":81,"offset":705}}}],"position":{"start":{"line":13,"column":73,"offset":697},"end":{"line":13,"column":81,"offset":705}}},"children":"맨해튼 거리"}}]," 또는 문제에 맞게 정의된 다른 함수들을 사용하여 계산됩니다."]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["휴리스틱 함수가 실제 비용보다 과소 평가되면(즉, ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"h(n) <= 실제 비용","position":{"start":{"line":15,"column":29,"offset":769},"end":{"line":15,"column":44,"offset":784}}}],"position":{"start":{"line":15,"column":29,"offset":769},"end":{"line":15,"column":44,"offset":784}}},"children":"h(n) <= 실제 비용"}}],"), A* 알고리즘은 최적의 경로를 보장합니다."]}],"\n",["$","h2",null,{"id":"f164c582","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"A* 알고리즘의 작동 원리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"A* 알고리즘은 다음의 세 가지 주요 단계로 구성됩니다:"}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"초기화"}],": 오픈 리스트와 클로즈드 리스트를 초기화합니다. 오픈 리스트에는 탐색할 노드들이, 클로즈드 리스트에는 이미 탐색한 노드들이 저장됩니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"탐색"}],": 시작 노드를 오픈 리스트에 추가하고, 오픈 리스트가 비어 있지 않은 동안 다음 단계를 반복합니다:\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["오픈 리스트에서 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n)","position":{"start":{"line":23,"column":15,"offset":1031},"end":{"line":23,"column":21,"offset":1037}}}],"position":{"start":{"line":23,"column":15,"offset":1031},"end":{"line":23,"column":21,"offset":1037}}},"children":"f(n)"}}]," 값이 가장 작은 노드를 선택합니다."]}],"\n",["$","li","li-1",{"children":"선택한 노드를 클로즈드 리스트에 추가합니다."}],"\n",["$","li","li-2",{"children":"목표 노드에 도달했는지 확인합니다. 목표 노드에 도달했다면 경로를 반환하고 알고리즘을 종료합니다."}],"\n",["$","li","li-3",{"children":"현재 노드의 모든 이웃 노드를 검사하고, 아직 탐색되지 않은 노드들을 오픈 리스트에 추가합니다."}],"\n"]}],"\n"]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"경로 재구성"}],": 목표 노드에 도달했을 때, 탐색을 통해 거친 노드들을 역추적하여 최적의 경로를 재구성합니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"46893401","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"A* 알고리즘 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"아래는 파이썬으로 A* 알고리즘을 구현한 예제입니다."}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":33,"column":1,"offset":1321},"end":{"line":108,"column":4,"offset":3530}}},"children":"$f"}}]}],"\n",["$","h2",null,{"id":"ac0714be","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"A* 알고리즘의 응용"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"A* 알고리즘은 다양한 분야에서 활용됩니다. 대표적인 예로는 다음과 같습니다:"}],"\n",["$","ol","ol-2",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"게임 개발"}],": 게임에서 캐릭터의 경로를 계획하거나 몬스터의 AI를 구현하는 데 사용됩니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"로봇 공학"}],": 로봇의 이동 경로를 계획하여 장애물을 피하면서 목표 지점까지 도달하게 합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"지도 및 내비게이션 시스템"}],": 지도 앱이나 내비게이션 소프트웨어에서 최적의 경로를 찾는 데 사용됩니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"네트워크 라우팅"}],": 네트워크 패킷이 최적의 경로를 통해 전달되도록 라우팅하는 데 활용됩니다."]}],"\n"]}],"\n",["$","h3",null,{"id":"3813f157","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"게임 개발에서의 활용"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"게임 개발에서는 캐릭터의 이동 경로를 계획하기 위해 A* 알고리즘을 많이 사용합니다. 예를 들어, 플레이어가 특정 위치로 이동하려고 할 때, A* 알고리즘은 현재 위치에서 목표 위치까지의 최적 경로를 찾아냅니다. 이러한 기능은 게임의 몰입감과 현실감을 높이는 데 크게 기여합니다."}],"\n",["$","h3",null,{"id":"12e9cecc","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"로봇 공학에서의 응용"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"로봇 공학에서는 로봇이 장애물을 피하면서 목표 지점까지 효율적으로 이동하기 위해 A* 알고리즘을 사용합니다. 이 알고리즘을 적용하면 로봇이 미리 정의된 경로를 따르지 않아도 매번 최적의 경로를 찾을 수 있어 유연한 동작이 가능합니다."}],"\n",["$","h3",null,{"id":"dc04505e","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"지도 및 내비게이션 시스템"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"지도 앱이나 내비게이션 소프트웨어는 사용자에게 최단 경로를 제공하기 위해 A* 알고리즘을 사용합니다. A* 알고리즘은 도로 상황, 교통량 등을 반영하여 실시간으로 최적의 경로를 찾아내는 데 유용합니다."}],"\n",["$","h3",null,{"id":"c4e8365a","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"네트워크 라우팅"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"네트워크 라우팅에서 A* 알고리즘을 사용하면 데이터 패킷이 네트워크를 통해 최적의 경로를 따라 전달될 수 있습니다. 이는 네트워크 성능을 향상시키고 전송 지연을 최소화하는 데 도움이 됩니다."}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["A* 탐색 알고리즘은 다양한 분야에서 경로 찾기 문제를 해결하는 데 효과적인 도구입니다. 이 알고리즘은 비용 함수 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"f(n) = g(n) + h(n)","position":{"start":{"line":137,"column":65,"offset":4482},"end":{"line":137,"column":85,"offset":4502}}}],"position":{"start":{"line":137,"column":65,"offset":4482},"end":{"line":137,"column":85,"offset":4502}}},"children":"f(n) = g(n) + h(n)"}}],"을 사용하여 최적 경로를 찾고, 휴리스틱 함수를 통해 탐색 효율을 높입니다. 게임 개발, 로봇 공학, 지도 및 내비게이션 시스템, 네트워크 라우팅 등 여러 응용 분야에서 중요한 역할을 합니다. A* 알고리즘을 잘 이해하고 활용하면 다양한 문제에서 효율적인 해결책을 찾을 수 있습니다."]}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"A 탐색 알고리즘과 지능형 경로 찾기*: 효율적인 길 찾기 전략","toc":[{"tagName":"h1","title":"A* 탐색 알고리즘과 지능형 경로 찾기: 효율적인 길 찾기 전략","id":"42436e3f"},{"tagName":"h2","title":"A* 알고리즘의 기본 개념","id":"88515ff4"},{"tagName":"h3","title":"비용 함수와 휴리스틱 함수","id":"dd6c95f1"},{"tagName":"h2","title":"A* 알고리즘의 작동 원리","id":"f164c582"},{"tagName":"h2","title":"A* 알고리즘 구현","id":"46893401"},{"tagName":"h2","title":"A* 알고리즘의 응용","id":"ac0714be"},{"tagName":"h3","title":"게임 개발에서의 활용","id":"3813f157"},{"tagName":"h3","title":"로봇 공학에서의 응용","id":"12e9cecc"},{"tagName":"h3","title":"지도 및 내비게이션 시스템","id":"dc04505e"},{"tagName":"h3","title":"네트워크 라우팅","id":"c4e8365a"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

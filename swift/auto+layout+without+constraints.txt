@@ -1,0 +1,325 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","auto%2Blayout%2Bwithout%2Bconstraints","d"],{"children":["__PAGE__?{\"slug\":\"auto+layout+without+constraints\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","auto%2Blayout%2Bwithout%2Bconstraints","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"auto+layout+without+constraints\"}"},"styles":[]}],"segment":["slug","auto%2Blayout%2Bwithout%2Bconstraints","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints) | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다."}],["$","meta","3",{"name":"keywords","content":"swift,auth layout,document,번역,UIKit"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/auto+layout+without+constraints"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints) | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints) | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/auto+layout+without+constraints"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/auto0202.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints) | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/auto0202.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+12:I{"id":63222,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"Image","async":false}
+16:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+17:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+f:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+10:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+11:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+13:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+14:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+15:Ted8,
+# 개요
+
+---
+
+> 해당 문서는 학습 목적으로 Apple 공식 문서인 [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다.
+
+# StackView
+
+---
+
+StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다.
+
+- axis ([UIStackView](https://developer.apple.com/documentation/uikit/uistackview)만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다.
+- orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다.
+- distribution: 축을 따라 뷰의 레이아웃을 정의합니다.
+- [alignment](https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment): 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다.
+- [spacing](https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing): 인접한 보기 사이의 간격을 정의합니다.
+
+StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다.
+
+개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다.
+
+레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다.
+
+![image01](/images/auto0201.jpg)
+
+Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다.
+
+> NOTE
+>
+> Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 [Unsatisfiable Layouts](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1)을 참조하십시오.
+
+또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다.
+
+![image02](/images/auto0202.jpg)
+
+일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다.
+
+StackView 사용에 대한 자세한 내용은 _[UIStackView Class Reference](https://developer.apple.com/documentation/uikit/uistackview)_ 또는 [NSStackView Class Reference](https://developer.apple.com/documentation/appkit/nsstackview)를 참조하십시오.
+
+> NOTE
+>
+> 중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/auto0202.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2023-04-18"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"476966c5","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"개요"}],"\n",["$","hr","hr-0",{}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["해당 문서는 학습 목적으로 Apple 공식 문서인 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/"},"children":[{"type":"text","value":"Auto Layout Guide","position":{"start":{"line":6,"column":32,"offset":43},"end":{"line":6,"column":49,"offset":60}}}],"position":{"start":{"line":6,"column":31,"offset":42},"end":{"line":6,"column":149,"offset":160}}},"children":"Auto Layout Guide"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$e","category":"swift"},"language":"kr"}],"을 번역한 글입니다. 다소 오역이 있을 수 있어 잘못된 내용이 있을 수 있습니다. 문제가 되거나 오류가 있다면 댓글 부탁드립니다."]}],"\n"]}],"\n",["$","h1",null,{"id":"aa5ce4b9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"StackView"}],"\n",["$","hr","hr-1",{}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"StackView를 활용하면 복잡한 Constraints 없이 Auto Layout을 쉽게 구현할 수 있습니다. 단일 Stack View는 사용자 인터페이스 요소의 행 또는 열을 정의합니다. StackView는 속성은 아래와 같습니다."}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["axis (",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uistackview","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uistackview"},"children":[{"type":"text","value":"UIStackView","position":{"start":{"line":14,"column":10,"offset":394},"end":{"line":14,"column":21,"offset":405}}}],"position":{"start":{"line":14,"column":9,"offset":393},"end":{"line":14,"column":83,"offset":467}}},"children":"UIStackView"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$f","category":"swift"},"language":"kr"}],"만 해당) : 스택 뷰의 방향(수직 또는 수평)을 정의합니다."]}],"\n",["$","li","li-1",{"children":"orientation: (NSStackView만 해당) stack view의 방향(세로 또는 가로)을 정의합니다."}],"\n",["$","li","li-2",{"children":"distribution: 축을 따라 뷰의 레이아웃을 정의합니다."}],"\n",["$","li","li-3",{"children":[["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uistackview/1616243-alignment"},"children":[{"type":"text","value":"alignment","position":{"start":{"line":17,"column":4,"offset":609},"end":{"line":17,"column":13,"offset":618}}}],"position":{"start":{"line":17,"column":3,"offset":608},"end":{"line":17,"column":93,"offset":698}}},"children":"alignment"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$10","category":"swift"},"language":"kr"}],": 스택 뷰의 축에 수직인 뷰의 레이아웃을 정의합니다."]}],"\n",["$","li","li-4",{"children":[["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uistackview/1616225-spacing"},"children":[{"type":"text","value":"spacing","position":{"start":{"line":18,"column":4,"offset":732},"end":{"line":18,"column":11,"offset":739}}}],"position":{"start":{"line":18,"column":3,"offset":731},"end":{"line":18,"column":89,"offset":817}}},"children":"spacing"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$11","category":"swift"},"language":"kr"}],": 인접한 보기 사이의 간격을 정의합니다."]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"StackView를 사용하려면 Interface Builder에서 세로 또는 가로 Stack View를 캔버스로 드래그합니다. 그런 다음 콘텐츠를 끌어서 스택에 놓습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"개체에 고유 콘텐츠 크기가 있는 경우 해당 크기로 스택에 나타납니다. 고유 콘텐츠 크기가 없는 경우 Interface Builder는 기본 크기를 제공합니다. 개체의 크기를 조정할 수 있으며 Interface Builder는 크기를 유지하기 위해 제약 조건을 추가합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"레이아웃을 더 세밀하게 조정하려면 속성 관리자를 사용하여 StackView의 속성을 수정할 수 있습니다. 예를 들어, 다음 예제에서는 8pt 간격과 Fills Equally 분포를 사용합니다."}],"\n",["$","$L12",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/auto0201.jpg","alt":"image01"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Stack View는 또한 Arrangeed View의 content-hugging 및 compression-resistance 우선순위에 따라 레이아웃을 기반으로 합니다. 크기 속성을 사용하여 수정할 수 있습니다."}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"NOTE"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Arrangeed View에 직접 제약 조건을 추가하여 레이아웃을 추가로 수정할 수 있습니다. 그러나 가능한 충돌을 피하고 싶을 것입니다. 일반적으로 보기의 크기가 지정된 차원에 대한 기본 콘텐츠 크기로 기본 설정되면 해당 차원에 대한 제약 조건을 안전하게 추가할 수 있습니다. 충돌 제약 조건에 대한 자세한 내용은 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ConflictingLayouts.html#//apple_ref/doc/uid/TP40010853-CH19-SW1"},"children":[{"type":"text","value":"Unsatisfiable Layouts","position":{"start":{"line":32,"column":181,"offset":1546},"end":{"line":32,"column":202,"offset":1567}}}],"position":{"start":{"line":32,"column":180,"offset":1545},"end":{"line":32,"column":365,"offset":1730}}},"children":"Unsatisfiable Layouts"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$13","category":"swift"},"language":"kr"}],"을 참조하십시오."]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"또한 다른 StackView 내에 StackView를 중첩하여 더 복잡한 레이아웃을 구축할 수 있습니다."}],"\n",["$","$L12",null,{"className":"w-full h-auto md:my-[40px] my-[30px] rounded-[10px]","width":200,"height":200,"src":"/images/auto0202.jpg","alt":"image02"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"일반적으로 StackView를 사용하여 가능한 한 많은 레이아웃을 관리하십시오. Stack View만으로는 목표를 달성할 수 없는 경우에만 제약 조건을 생성합니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["StackView 사용에 대한 자세한 내용은 ",["$","em",null,{"className":"bg-[rgba(238,220,130,0.4)] font-normal not-italic p-[2px] rounded-[2px]","children":["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/uikit/uistackview","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/uikit/uistackview"},"children":[{"type":"text","value":"UIStackView Class Reference","position":{"start":{"line":40,"column":28,"offset":1955},"end":{"line":40,"column":55,"offset":1982}}}],"position":{"start":{"line":40,"column":27,"offset":1954},"end":{"line":40,"column":117,"offset":2044}}},"children":"UIStackView Class Reference"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$14","category":"swift"},"language":"kr"}]}]," 또는 ",["$","$Ld",null,{"props":{"href":"https://developer.apple.com/documentation/appkit/nsstackview","node":{"type":"element","tagName":"a","properties":{"href":"https://developer.apple.com/documentation/appkit/nsstackview"},"children":[{"type":"text","value":"NSStackView Class Reference","position":{"start":{"line":40,"column":123,"offset":2050},"end":{"line":40,"column":150,"offset":2077}}}],"position":{"start":{"line":40,"column":122,"offset":2049},"end":{"line":40,"column":213,"offset":2140}}},"children":"NSStackView Class Reference"},"post":{"title":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","description":"apple 공식 문서인 Auto Layout Guide 중 Auto Layout Without Constraints Chapter를 번역한 글입니다.","date":"2023-04-18T10:22:40.322Z","tags":[{"name":"swift","path":"/tags/swift","id":"swift"},{"name":"auth layout","path":"/tags/auth-layout","id":"auth-layout"},{"name":"document","path":"/tags/document","id":"document"},{"name":"번역","path":"/tags/번역","id":"번역"},{"name":"UIKit","path":"/tags/uikit","id":"uikit"}],"author":"마고유","banner":"/images/auto0202.jpg","project":"swift auto layout","readMin":"3.0","totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"auto+layout+without+constraints","content":"$15","category":"swift"},"language":"kr"}],"를 참조하십시오."]}],"\n",["$","blockquote",null,{"className":"bg-gray-100 p-[40px] md:my-[30px] my-[20px] rounded-[16px]","children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"NOTE"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"중첩된 Stack View를 창의적으로 사용하면 복잡한 사용자 인터페이스를 만들 수 있지만 constraints(제약 조건은) 여전히 중요합니다. 최소한 항상 가장 바깥쪽 스택의 위치(및 가능하면 크기)를 정의하는 제약 조건이 필요합니다."}],"\n"]}]]}]}],["$","$L16",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L17",null,{"articleTitle":"[번역] Constraints 없는 오토레이아웃(Auto Layout Without Constraints)","toc":[{"tagName":"h1","title":"개요","id":"476966c5"},{"tagName":"h1","title":"StackView","id":"aa5ce4b9"}],"language":"kr"}]}]]}]]
+8:null

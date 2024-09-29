@@ -1,0 +1,308 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["notion",{"children":[["slug","Notion-API-Table-CRUD-1%ED%83%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-API%EB%A1%9C-%EC%9E%90%EC%9C%A0%EC%9E%90%EC%9E%AC%EB%A1%9C-92b0e686","d"],{"children":["__PAGE__?{\"slug\":\"Notion-API-Table-CRUD-1탄-테이블-데이터를-API로-자유자재로-92b0e686\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","notion","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","notion","children",["slug","Notion-API-Table-CRUD-1%ED%83%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-API%EB%A1%9C-%EC%9E%90%EC%9C%A0%EC%9E%90%EC%9E%AC%EB%A1%9C-92b0e686","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"Notion-API-Table-CRUD-1탄-테이블-데이터를-API로-자유자재로-92b0e686\"}"},"styles":[]}],"segment":["slug","Notion-API-Table-CRUD-1%ED%83%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-API%EB%A1%9C-%EC%9E%90%EC%9C%A0%EC%9E%90%EC%9E%AC%EB%A1%9C-92b0e686","d"]},"styles":[]}],"segment":"notion"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다."}],["$","meta","3",{"name":"keywords","content":"notion,업무능률,업무관리"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/notion/Notion-API-Table-CRUD-1%ED%83%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-API%EB%A1%9C-%EC%9E%90%EC%9C%A0%EC%9E%90%EC%9E%AC%EB%A1%9C-92b0e686"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/notion/Notion-API-Table-CRUD-1%ED%83%84-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-API%EB%A1%9C-%EC%9E%90%EC%9C%A0%EC%9E%90%EC%9E%AC%EB%A1%9C-92b0e686"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/notionBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/notionBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+d:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+f:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"MarkDownCode","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","998:static/chunks/app/notion/[slug]/page-74f48671b9a5e2c0.js"],"name":"","async":false}
+e:T2098,
+# Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로
+
+Notion은 개인과 팀 모두에게 강력한 조직화 도구를 제공합니다. 이를 통해 작업 공간을 체계적으로 관리하고, 다양한 정보를 한 곳에 모아 생산성을 높일 수 있습니다. 특히 Notion API의 도입으로, 개발자들은 Notion의 기능을 외부 애플리케이션과 통합하고, 작업을 자동화할 수 있는 새로운 가능성을 열게 되었습니다. 이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다.
+
+## Notion API 활용 용도
+
+Notion API는 다양한 용도로 활용될 수 있습니다. 다음은 Notion API의 주요 활용 용도입니다:
+
+1. **작업 자동화**: 반복적인 작업을 자동화하여 시간을 절약할 수 있습니다. 예를 들어, 특정 조건이 충족될 때마다 Notion 데이터베이스에 새로운 항목을 자동으로 추가하거나 업데이트할 수 있습니다.
+2. **외부 애플리케이션과의 통합**: Notion 데이터를 다른 애플리케이션과 쉽게 통합할 수 있습니다. 예를 들어, 슬랙과 연동하여 Notion 데이터베이스의 변경 사항을 실시간으로 알림 받을 수 있습니다.
+3. **데이터 분석 및 보고서 생성**: Notion 데이터베이스의 데이터를 추출하여 분석하고, 보고서를 자동으로 생성할 수 있습니다.
+4. **사용자 정의 인터페이스 구축**: Notion API를 사용하여 사용자 정의 웹 애플리케이션이나 모바일 애플리케이션을 구축할 수 있습니다. 이를 통해 Notion의 데이터를 보다 효율적으로 관리할 수 있습니다.
+
+## Notion의 Table과 Page 개념
+
+Notion에서 Table과 Page는 데이터를 조직화하는 기본 단위입니다. 이 두 가지 개념을 이해하는 것은 Notion API를 효과적으로 사용하는 데 매우 중요합니다.
+
+### Table
+
+Notion의 Table은 데이터베이스의 한 형태입니다. 테이블은 여러 개의 행과 열로 구성되며, 각 열은 특정 속성을 나타냅니다. 테이블의 각 행은 고유한 데이터 항목을 나타내며, 이 항목은 여러 속성을 가질 수 있습니다. 예를 들어, 프로젝트 관리 테이블은 각 행이 개별 프로젝트를 나타내고, 열은 프로젝트 이름, 시작일, 마감일, 상태 등의 속성을 나타낼 수 있습니다.
+
+### Page
+
+Notion의 Page는 하나의 문서나 노트처럼 작동합니다. 페이지는 텍스트, 이미지, 테이블, 리스트 등 다양한 콘텐츠를 포함할 수 있습니다. 또한, 페이지는 다른 페이지를 포함할 수 있어 계층 구조를 형성할 수 있습니다. 데이터베이스 내의 각 행도 Notion에서는 페이지로 간주됩니다. 즉, 테이블의 각 행은 해당 데이터 항목에 대한 세부 정보를 담고 있는 페이지로 볼 수 있습니다.
+
+## Notion API를 사용한 기본적인 CRUD 작업
+
+Notion API를 사용하면 테이블 데이터를 자유자재로 다룰 수 있습니다. 여기서는 기본적인 CRUD 작업을 통해 Notion API의 활용 방법을 살펴보겠습니다.
+
+### 준비 작업
+
+먼저, Notion API를 사용하기 위한 준비 작업이 필요합니다.
+
+1. **Notion API 키 생성**: Notion 웹사이트에서 로그인 후, [My Integrations](https://www.notion.so/my-integrations) 페이지로 이동하여 새 통합을 생성하고, 생성된 통합의 API 키를 복사합니다.
+2. **접근 권한 설정**: 수정하려는 데이터베이스나 페이지를 열고, 오른쪽 상단의 "공유" 버튼을 클릭하여 생성한 통합을 페이지에 초대합니다.
+
+### 데이터 생성 (Create)
+
+데이터베이스에 새로운 항목을 생성하려면 POST 요청을 사용합니다. 예를 들어, Python에서 `requests` 라이브러리를 사용하여 새로운 항목을 추가할 수 있습니다.
+
+```python
+import requests
+import json
+
+# Notion API 키와 데이터베이스 ID 설정
+NOTION_API_KEY = 'your_notion_api_key'
+DATABASE_ID = 'your_database_id'
+
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/pages>"
+
+# HTTP 요청 헤더 설정
+headers = {
+    "Authorization": f"Bearer {NOTION_API_KEY}",
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28"
+}
+
+# 생성할 데이터 설정
+data = {
+    "parent": { "database_id": DATABASE_ID },
+    "properties": {
+        "Name": {
+            "title": [
+                {
+                    "text": {
+                        "content": "새 항목 제목"
+                    }
+                }
+            ]
+        },
+        "Description": {
+            "rich_text": [
+                {
+                    "text": {
+                        "content": "새 항목 설명"
+                    }
+                }
+            ]
+        }
+    }
+}
+
+# 데이터 생성 요청
+response = requests.post(url, headers=headers, data=json.dumps(data))
+
+# 응답 확인
+if response.status_code == 200:
+    print("데이터가 성공적으로 생성되었습니다.")
+else:
+    print(f"데이터 생성에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+```
+
+### 데이터 읽기 (Read)
+
+데이터베이스의 항목을 읽으려면 GET 요청을 사용합니다. 다음은 Python을 사용하여 데이터베이스의 항목을 읽는 예제입니다.
+
+```python
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/databases/{DATABASE_ID}/query>"
+
+# 데이터 읽기 요청
+response = requests.post(url, headers=headers)
+
+# 응답 확인
+if response.status_code == 200:
+    data = response.json()
+    print("데이터를 성공적으로 읽어왔습니다.")
+    print(json.dumps(data, indent=2))
+else:
+    print(f"데이터 읽기에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+```
+
+### 데이터 수정 (Update)
+
+기존 항목을 수정하려면 PATCH 요청을 사용합니다. 예를 들어, 특정 페이지의 제목을 변경할 수 있습니다.
+
+```python
+# 수정할 페이지 ID 설정
+PAGE_ID = 'your_page_id'
+
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/pages/{PAGE_ID}>"
+
+# 수정할 데이터 설정
+data = {
+    "properties": {
+        "Name": {
+            "title": [
+                {
+                    "text": {
+                        "content": "수정된 제목"
+                    }
+                }
+            ]
+        }
+    }
+}
+
+# 데이터 수정 요청
+response = requests.patch(url, headers=headers, data=json.dumps(data))
+
+# 응답 확인
+if response.status_code == 200:
+    print("데이터가 성공적으로 수정되었습니다.")
+else:
+    print(f"데이터 수정에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+```
+
+### 데이터 삭제 (Delete)
+
+Notion에서 데이터를 삭제하는 것은 해당 항목을 아카이브하는 것입니다. 이를 위해 PATCH 요청을 사용하여 `archived` 속성을 `True`로 설정합니다.
+
+```python
+# 삭제할 페이지 ID 설정
+PAGE_ID = 'your_page_id'
+
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/pages/{PAGE_ID}>"
+
+# 페이지 아카이브 설정
+data = {
+    "archived": True
+}
+
+# 데이터 삭제 요청 (아카이브)
+response = requests.patch(url, headers=headers, data=json.dumps(data))
+
+# 응답 확인
+if response.status_code == 200:
+    print("데이터가 성공적으로 삭제(아카이브)되었습니다.")
+else:
+    print(f"데이터 삭제(아카이브)에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+```
+
+## 결론
+
+Notion API를 사용하면 Notion의 데이터를 효율적으로 관리하고 자동화할 수 있습니다. 이 가이드에서는 Notion API를 통해 데이터를 생성, 읽기, 수정 및 삭제하는 방법을 다루었습니다. Notion API를 사용하여 생산성을 높이고, 워크플로우를 자동화하며, 더 나은 조직화를 경험해 보세요. Notion API는 매우 강력한 도구이며, 이를 활용하여 다양한 작업을 자동화하고 통합할 수 있습니다.
+10:T4f8,import requests
+import json
+
+# Notion API 키와 데이터베이스 ID 설정
+NOTION_API_KEY = 'your_notion_api_key'
+DATABASE_ID = 'your_database_id'
+
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/pages>"
+
+# HTTP 요청 헤더 설정
+headers = {
+    "Authorization": f"Bearer {NOTION_API_KEY}",
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28"
+}
+
+# 생성할 데이터 설정
+data = {
+    "parent": { "database_id": DATABASE_ID },
+    "properties": {
+        "Name": {
+            "title": [
+                {
+                    "text": {
+                        "content": "새 항목 제목"
+                    }
+                }
+            ]
+        },
+        "Description": {
+            "rich_text": [
+                {
+                    "text": {
+                        "content": "새 항목 설명"
+                    }
+                }
+            ]
+        }
+    }
+}
+
+# 데이터 생성 요청
+response = requests.post(url, headers=headers, data=json.dumps(data))
+
+# 응답 확인
+if response.status_code == 200:
+    print("데이터가 성공적으로 생성되었습니다.")
+else:
+    print(f"데이터 생성에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+11:T4f8,import requests
+import json
+
+# Notion API 키와 데이터베이스 ID 설정
+NOTION_API_KEY = 'your_notion_api_key'
+DATABASE_ID = 'your_database_id'
+
+# API 엔드포인트 URL 설정
+url = f"<https://api.notion.com/v1/pages>"
+
+# HTTP 요청 헤더 설정
+headers = {
+    "Authorization": f"Bearer {NOTION_API_KEY}",
+    "Content-Type": "application/json",
+    "Notion-Version": "2022-06-28"
+}
+
+# 생성할 데이터 설정
+data = {
+    "parent": { "database_id": DATABASE_ID },
+    "properties": {
+        "Name": {
+            "title": [
+                {
+                    "text": {
+                        "content": "새 항목 제목"
+                    }
+                }
+            ]
+        },
+        "Description": {
+            "rich_text": [
+                {
+                    "text": {
+                        "content": "새 항목 설명"
+                    }
+                }
+            ]
+        }
+    }
+}
+
+# 데이터 생성 요청
+response = requests.post(url, headers=headers, data=json.dumps(data))
+
+# 응답 확인
+if response.status_code == 200:
+    print("데이터가 성공적으로 생성되었습니다.")
+else:
+    print(f"데이터 생성에 실패했습니다. 응답 코드: {response.status_code}")
+    print(response.json())
+
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/notionBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-06-12"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"bfa6a513","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion은 개인과 팀 모두에게 강력한 조직화 도구를 제공합니다. 이를 통해 작업 공간을 체계적으로 관리하고, 다양한 정보를 한 곳에 모아 생산성을 높일 수 있습니다. 특히 Notion API의 도입으로, 개발자들은 Notion의 기능을 외부 애플리케이션과 통합하고, 작업을 자동화할 수 있는 새로운 가능성을 열게 되었습니다. 이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다."}],"\n",["$","h2",null,{"id":"33c285f7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Notion API 활용 용도"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion API는 다양한 용도로 활용될 수 있습니다. 다음은 Notion API의 주요 활용 용도입니다:"}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"작업 자동화"}],": 반복적인 작업을 자동화하여 시간을 절약할 수 있습니다. 예를 들어, 특정 조건이 충족될 때마다 Notion 데이터베이스에 새로운 항목을 자동으로 추가하거나 업데이트할 수 있습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"외부 애플리케이션과의 통합"}],": Notion 데이터를 다른 애플리케이션과 쉽게 통합할 수 있습니다. 예를 들어, 슬랙과 연동하여 Notion 데이터베이스의 변경 사항을 실시간으로 알림 받을 수 있습니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"데이터 분석 및 보고서 생성"}],": Notion 데이터베이스의 데이터를 추출하여 분석하고, 보고서를 자동으로 생성할 수 있습니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"사용자 정의 인터페이스 구축"}],": Notion API를 사용하여 사용자 정의 웹 애플리케이션이나 모바일 애플리케이션을 구축할 수 있습니다. 이를 통해 Notion의 데이터를 보다 효율적으로 관리할 수 있습니다."]}],"\n"]}],"\n",["$","h2",null,{"id":"575016b9","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Notion의 Table과 Page 개념"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion에서 Table과 Page는 데이터를 조직화하는 기본 단위입니다. 이 두 가지 개념을 이해하는 것은 Notion API를 효과적으로 사용하는 데 매우 중요합니다."}],"\n",["$","h3",null,{"id":"0424f6e7","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"Table"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion의 Table은 데이터베이스의 한 형태입니다. 테이블은 여러 개의 행과 열로 구성되며, 각 열은 특정 속성을 나타냅니다. 테이블의 각 행은 고유한 데이터 항목을 나타내며, 이 항목은 여러 속성을 가질 수 있습니다. 예를 들어, 프로젝트 관리 테이블은 각 행이 개별 프로젝트를 나타내고, 열은 프로젝트 이름, 시작일, 마감일, 상태 등의 속성을 나타낼 수 있습니다."}],"\n",["$","h3",null,{"id":"fb06270f","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"Page"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion의 Page는 하나의 문서나 노트처럼 작동합니다. 페이지는 텍스트, 이미지, 테이블, 리스트 등 다양한 콘텐츠를 포함할 수 있습니다. 또한, 페이지는 다른 페이지를 포함할 수 있어 계층 구조를 형성할 수 있습니다. 데이터베이스 내의 각 행도 Notion에서는 페이지로 간주됩니다. 즉, 테이블의 각 행은 해당 데이터 항목에 대한 세부 정보를 담고 있는 페이지로 볼 수 있습니다."}],"\n",["$","h2",null,{"id":"de46e2fd","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Notion API를 사용한 기본적인 CRUD 작업"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion API를 사용하면 테이블 데이터를 자유자재로 다룰 수 있습니다. 여기서는 기본적인 CRUD 작업을 통해 Notion API의 활용 방법을 살펴보겠습니다."}],"\n",["$","h3",null,{"id":"f60ef07c","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"준비 작업"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"먼저, Notion API를 사용하기 위한 준비 작업이 필요합니다."}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"Notion API 키 생성"}],": Notion 웹사이트에서 로그인 후, ",["$","$Ld",null,{"props":{"href":"https://www.notion.so/my-integrations","node":{"type":"element","tagName":"a","properties":{"href":"https://www.notion.so/my-integrations"},"children":[{"type":"text","value":"My Integrations","position":{"start":{"line":35,"column":47,"offset":1684},"end":{"line":35,"column":62,"offset":1699}}}],"position":{"start":{"line":35,"column":46,"offset":1683},"end":{"line":35,"column":102,"offset":1739}}},"children":"My Integrations"},"post":{"id":"92b0e686-88cb-460e-a0ce","title":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로","fileName":"Notion-API-Table-CRUD-1탄-테이블-데이터를-API로-자유자재로-92b0e686","description":"이 글에서는 Notion API를 활용하여 테이블 데이터를 자유자재로 다루는 방법을 다룹니다. 기본적인 CRUD(Create, Read, Update, Delete) 작업을 통해 Notion API의 활용 방법을 자세히 설명합니다.","date":"2024-06-12T06:13:40.115Z","tags":[{"name":"notion","path":"/tags/notion","id":"notion"},{"name":"업무능률","path":"/tags/업무능률","id":"업무능률"},{"name":"업무관리","path":"/tags/업무관리","id":"업무관리"}],"banner":"/images/notionBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"Notion-API-Table-CRUD-1탄-테이블-데이터를-API로-자유자재로-92b0e686","content":"$e","category":"notion","readMin":"7.7"},"language":"kr"}]," 페이지로 이동하여 새 통합을 생성하고, 생성된 통합의 API 키를 복사합니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"접근 권한 설정"}],": 수정하려는 데이터베이스나 페이지를 열고, 오른쪽 상단의 \"공유\" 버튼을 클릭하여 생성한 통합을 페이지에 초대합니다."]}],"\n"]}],"\n",["$","h3",null,{"id":"10d3707d","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"데이터 생성 (Create)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["데이터베이스에 새로운 항목을 생성하려면 POST 요청을 사용합니다. 예를 들어, Python에서 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"requests","position":{"start":{"line":40,"column":55,"offset":1942},"end":{"line":40,"column":65,"offset":1952}}}],"position":{"start":{"line":40,"column":55,"offset":1942},"end":{"line":40,"column":65,"offset":1952}}},"children":"requests"}}]," 라이브러리를 사용하여 새로운 항목을 추가할 수 있습니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":42,"column":1,"offset":1986},"end":{"line":95,"column":4,"offset":3103}}},"children":"$11"}}]}],"\n",["$","h3",null,{"id":"13e67144","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"데이터 읽기 (Read)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"데이터베이스의 항목을 읽으려면 GET 요청을 사용합니다. 다음은 Python을 사용하여 데이터베이스의 항목을 읽는 예제입니다."}],"\n",["$","pre","pre-1",{"children":["$","$Lf",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/databases/{DATABASE_ID}/query>\"\n\n# 데이터 읽기 요청\nresponse = requests.post(url, headers=headers)\n\n# 응답 확인\nif response.status_code == 200:\n    data = response.json()\n    print(\"데이터를 성공적으로 읽어왔습니다.\")\n    print(json.dumps(data, indent=2))\nelse:\n    print(f\"데이터 읽기에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}],"position":{"start":{"line":101,"column":1,"offset":3196},"end":{"line":117,"column":4,"offset":3587}}},"children":"# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/databases/{DATABASE_ID}/query>\"\n\n# 데이터 읽기 요청\nresponse = requests.post(url, headers=headers)\n\n# 응답 확인\nif response.status_code == 200:\n    data = response.json()\n    print(\"데이터를 성공적으로 읽어왔습니다.\")\n    print(json.dumps(data, indent=2))\nelse:\n    print(f\"데이터 읽기에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}}]}],"\n",["$","h3",null,{"id":"96e60f06","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"데이터 수정 (Update)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"기존 항목을 수정하려면 PATCH 요청을 사용합니다. 예를 들어, 특정 페이지의 제목을 변경할 수 있습니다."}],"\n",["$","pre","pre-2",{"children":["$","$Lf",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"# 수정할 페이지 ID 설정\nPAGE_ID = 'your_page_id'\n\n# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/pages/{PAGE_ID}>\"\n\n# 수정할 데이터 설정\ndata = {\n    \"properties\": {\n        \"Name\": {\n            \"title\": [\n                {\n                    \"text\": {\n                        \"content\": \"수정된 제목\"\n                    }\n                }\n            ]\n        }\n    }\n}\n\n# 데이터 수정 요청\nresponse = requests.patch(url, headers=headers, data=json.dumps(data))\n\n# 응답 확인\nif response.status_code == 200:\n    print(\"데이터가 성공적으로 수정되었습니다.\")\nelse:\n    print(f\"데이터 수정에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}],"position":{"start":{"line":123,"column":1,"offset":3672},"end":{"line":155,"column":4,"offset":4299}}},"children":"# 수정할 페이지 ID 설정\nPAGE_ID = 'your_page_id'\n\n# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/pages/{PAGE_ID}>\"\n\n# 수정할 데이터 설정\ndata = {\n    \"properties\": {\n        \"Name\": {\n            \"title\": [\n                {\n                    \"text\": {\n                        \"content\": \"수정된 제목\"\n                    }\n                }\n            ]\n        }\n    }\n}\n\n# 데이터 수정 요청\nresponse = requests.patch(url, headers=headers, data=json.dumps(data))\n\n# 응답 확인\nif response.status_code == 200:\n    print(\"데이터가 성공적으로 수정되었습니다.\")\nelse:\n    print(f\"데이터 수정에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}}]}],"\n",["$","h3",null,{"id":"691f2be6","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"데이터 삭제 (Delete)"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["Notion에서 데이터를 삭제하는 것은 해당 항목을 아카이브하는 것입니다. 이를 위해 PATCH 요청을 사용하여 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"archived","position":{"start":{"line":159,"column":64,"offset":4385},"end":{"line":159,"column":74,"offset":4395}}}],"position":{"start":{"line":159,"column":64,"offset":4385},"end":{"line":159,"column":74,"offset":4395}}},"children":"archived"}}]," 속성을 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"True","position":{"start":{"line":159,"column":79,"offset":4400},"end":{"line":159,"column":85,"offset":4406}}}],"position":{"start":{"line":159,"column":79,"offset":4400},"end":{"line":159,"column":85,"offset":4406}}},"children":"True"}}],"로 설정합니다."]}],"\n",["$","pre","pre-3",{"children":["$","$Lf",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"# 삭제할 페이지 ID 설정\nPAGE_ID = 'your_page_id'\n\n# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/pages/{PAGE_ID}>\"\n\n# 페이지 아카이브 설정\ndata = {\n    \"archived\": True\n}\n\n# 데이터 삭제 요청 (아카이브)\nresponse = requests.patch(url, headers=headers, data=json.dumps(data))\n\n# 응답 확인\nif response.status_code == 200:\n    print(\"데이터가 성공적으로 삭제(아카이브)되었습니다.\")\nelse:\n    print(f\"데이터 삭제(아카이브)에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}],"position":{"start":{"line":161,"column":1,"offset":4416},"end":{"line":183,"column":4,"offset":4861}}},"children":"# 삭제할 페이지 ID 설정\nPAGE_ID = 'your_page_id'\n\n# API 엔드포인트 URL 설정\nurl = f\"<https://api.notion.com/v1/pages/{PAGE_ID}>\"\n\n# 페이지 아카이브 설정\ndata = {\n    \"archived\": True\n}\n\n# 데이터 삭제 요청 (아카이브)\nresponse = requests.patch(url, headers=headers, data=json.dumps(data))\n\n# 응답 확인\nif response.status_code == 200:\n    print(\"데이터가 성공적으로 삭제(아카이브)되었습니다.\")\nelse:\n    print(f\"데이터 삭제(아카이브)에 실패했습니다. 응답 코드: {response.status_code}\")\n    print(response.json())\n\n"}}]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"Notion API를 사용하면 Notion의 데이터를 효율적으로 관리하고 자동화할 수 있습니다. 이 가이드에서는 Notion API를 통해 데이터를 생성, 읽기, 수정 및 삭제하는 방법을 다루었습니다. Notion API를 사용하여 생산성을 높이고, 워크플로우를 자동화하며, 더 나은 조직화를 경험해 보세요. Notion API는 매우 강력한 도구이며, 이를 활용하여 다양한 작업을 자동화하고 통합할 수 있습니다."}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로","toc":[{"tagName":"h1","title":"Notion API: Table CRUD: 1탄 테이블 데이터를 API로 자유자재로","id":"bfa6a513"},{"tagName":"h2","title":"Notion API 활용 용도","id":"33c285f7"},{"tagName":"h2","title":"Notion의 Table과 Page 개념","id":"575016b9"},{"tagName":"h3","title":"Table","id":"0424f6e7"},{"tagName":"h3","title":"Page","id":"fb06270f"},{"tagName":"h2","title":"Notion API를 사용한 기본적인 CRUD 작업","id":"de46e2fd"},{"tagName":"h3","title":"준비 작업","id":"f60ef07c"},{"tagName":"h3","title":"데이터 생성 (Create)","id":"10d3707d"},{"tagName":"h3","title":"데이터 읽기 (Read)","id":"13e67144"},{"tagName":"h3","title":"데이터 수정 (Update)","id":"96e60f06"},{"tagName":"h3","title":"데이터 삭제 (Delete)","id":"691f2be6"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

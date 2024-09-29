@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+>
+  <url>
+    <loc
+      >https://magomercy.com/web/Nextjs에-Styled-Components-적용하기-쉽게
+      따라하는-가이드</loc
+    >
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/failed+to+parse+url</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/next+react+로+blog만드는+법+주의사항</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/개발자+도구+console+창+꾸미기</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/구글+애드센스+광고+모양+커스텀+하기</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc
+      >https://magomercy.com/web/다음-네이버-구글-각각-SEO를-따로-해줘야-하나요-검색엔진-최적화-시-고려해야-할-점</loc
+    >
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/블로그+컨셉과+리뉴얼</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://magomercy.com/web/타일링이란+무엇인가요</loc>
+    <lastmod>2024-09-29</lastmod>
+  </url>
+</urlset>

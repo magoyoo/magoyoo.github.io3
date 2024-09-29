@@ -1,0 +1,209 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firebase-Auth-%ED%99%9C%EC%9A%A9-b260e40b","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI-사용자-인증-구현하기-Firebase-Auth-활용-b260e40b\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firebase-Auth-%ED%99%9C%EC%9A%A9-b260e40b","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI-사용자-인증-구현하기-Firebase-Auth-활용-b260e40b\"}"},"styles":[]}],"segment":["slug","SwiftUI-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firebase-Auth-%ED%99%9C%EC%9A%A9-b260e40b","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"이 글은 SwiftUI와 Firebase Auth를 활용하여 사용자의 인증 시스템을 구현하는 방법을 다룹니다. Firebase Auth의 기본 설정부터 SwiftUI와의 통합 방법을 단계별로 차근차근 설명합니다."}],["$","meta","3",{"name":"keywords","content":"SwiftUI,Firebase Auth,사용자 인증,모바일 개발"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firebase-Auth-%ED%99%9C%EC%9A%A9-b260e40b"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"이 글은 SwiftUI와 Firebase Auth를 활용하여 사용자의 인증 시스템을 구현하는 방법을 다룹니다. Firebase Auth의 기본 설정부터 SwiftUI와의 통합 방법을 단계별로 차근차근 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Firebase-Auth-%ED%99%9C%EC%9A%A9-b260e40b"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"이 글은 SwiftUI와 Firebase Auth를 활용하여 사용자의 인증 시스템을 구현하는 방법을 다룹니다. Firebase Auth의 기본 설정부터 SwiftUI와의 통합 방법을 단계별로 차근차근 설명합니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner1.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":62313,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+f:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T1c4a,
+# SwiftUI 사용자 인증 구현하기: Firebase Auth 활용
+
+SwiftUI는 iOS 애플리케이션 개발을 위한 강력하고 직관적인 프레임워크입니다. 앱에 사용자 인증 기능을 추가하는 것은 많은 애플리케이션에서 필수적인 요소입니다. 이 글에서는 Firebase Auth를 사용하여 SwiftUI 애플리케이션에 사용자 인증 시스템을 구현하는 방법을 설명하겠습니다.
+
+## Firebase Auth 설정
+
+첫 번째로, Firebase 프로젝트를 설정하고 Firebase Auth를 구성하는 방법을 알아보겠습니다.
+
+1. **Firebase에 프로젝트 생성**: Firebase 콘솔(https://console.firebase.google.com/)로 이동하여 새 프로젝트를 생성합니다.
+2. **iOS 앱 등록하기**: Firebase 프로젝트에 iOS 앱을 추가합니다. `GoogleService-Info.plist` 파일을 다운로드하여 Xcode 프로젝트에 추가합니다.
+3. **Firebase Auth 활성화하기**: Firebase 콘솔에서 'Authentication' 섹션으로 이동하여 이메일/비밀번호 인증을 활성화합니다.
+4. **Firebase SDK 설치**: Swift Package Manager(SPM)나 CocoaPods를 사용하여 Firebase SDK를 설치합니다. Swift Package Manager를 사용하는 경우 다음 처럼 사용합니다:
+   ```swift
+   dependencies: [
+       .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "8.0.0")
+   ]
+   ```
+
+## SwiftUI 프로젝트 설정
+
+이제 Xcode 프로젝트에서 SwiftUI를 사용하여 Firebase Auth를 설정하는 과정을 시작하겠습니다. Firebase 초기화를 위해 `AppDelegate`와 `SceneDelegate`를 설정해야 합니다.
+
+1. **AppDelegate 설정**: `AppDelegate` 파일을 생성하고, Firebase를 초기화합니다.
+   ```swift
+   import UIKit
+   import Firebase
+
+   @UIApplicationMain
+   class AppDelegate: UIResponder, UIApplicationDelegate {
+
+       func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+           FirebaseApp.configure()
+           return true
+       }
+   }
+   ```
+
+2. **SceneDelegate 설정**: `SceneDelegate` 파일을 업데이트합니다.
+   ```swift
+   import UIKit
+   import SwiftUI
+
+   class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+       var window: UIWindow?
+
+       func scene(_ scene: UIScene, willConnectTo session: UIScene.Session, options connectionOptions: UIScene.ConnectionOptions) {
+           let contentView = ContentView()
+           if let windowScene = scene as? UIWindowScene {
+               let window = UIWindow(windowScene: windowScene)
+               window.rootViewController = UIHostingController(rootView: contentView)
+               self.window = window
+               window.makeKeyAndVisible()
+           }
+       }
+   }
+   ```
+
+## 사용자 인터페이스 작성
+
+사용자 인증 인터페이스를 작성하기 위해 SwiftUI 뷰를 생성합니다.
+
+1. **로그인 화면**: `LoginView`를 생성하여 사용자로부터 이메일과 비밀번호를 입력받는 화면을 만듭니다.
+   ```swift
+   import SwiftUI
+
+   struct LoginView: View {
+       @State private var email: String = ""
+       @State private var password: String = ""
+       @ObservedObject var viewModel: AuthViewModel
+
+       var body: some View {
+           VStack {
+               TextField("Email", text: $email)
+                   .autocapitalization(.none)
+                   .padding()
+                   .background(Color.gray.opacity(0.2))
+                   .cornerRadius(5.0)
+               SecureField("Password", text: $password)
+                   .padding()
+                   .background(Color.gray.opacity(0.2))
+                   .cornerRadius(5.0)
+               Button(action: {
+                   viewModel.signIn(email: email, password: password)
+               }) {
+                   Text("Login")
+                       .foregroundColor(.white)
+                       .padding()
+                       .background(Color.blue)
+                       .cornerRadius(5.0)
+               }
+           }
+           .padding()
+       }
+   }
+   ```
+
+2. **회원가입 화면**: 사용자가 새로운 계정을 생성할 수 있는 `SignUpView`를 만듭니다.
+   ```swift
+   import SwiftUI
+
+   struct SignUpView: View {
+       @State private var email: String = ""
+       @State private var password: String = ""
+       @ObservedObject var viewModel: AuthViewModel
+
+       var body: some View {
+           VStack {
+               TextField("Email", text: $email)
+                   .autocapitalization(.none)
+                   .padding()
+                   .background(Color.gray.opacity(0.2))
+                   .cornerRadius(5.0)
+               SecureField("Password", text: $password)
+                   .padding()
+                   .background(Color.gray.opacity(0.2))
+                   .cornerRadius(5.0)
+               Button(action: {
+                   viewModel.signUp(email: email, password: password)
+               }) {
+                   Text("Sign Up")
+                       .foregroundColor(.white)
+                       .padding()
+                       .background(Color.green)
+                       .cornerRadius(5.0)
+               }
+           }
+           .padding()
+       }
+   }
+   ```
+
+## ViewModel 설정
+
+이제 Firebase Auth를 사용하여 실제 인증 로직을 처리하는 `AuthViewModel`을 구성합니다.
+
+1. **AuthViewModel**: Firebase를 사용하여 사용자 인증을 처리합니다.
+   ```swift
+   import Foundation
+   import FirebaseAuth
+
+   class AuthViewModel: ObservableObject {
+       @Published var isLoggedIn: Bool = false
+       private var auth = Auth.auth()
+
+       func signIn(email: String, password: String) {
+           auth.signIn(withEmail: email, password: password) { [weak self] result, error in
+               if let error = error {
+                   print("Error signing in: \(error.localizedDescription)")
+               } else {
+                   self?.isLoggedIn = true
+               }
+           }
+       }
+
+       func signUp(email: String, password: String) {
+           auth.createUser(withEmail: email, password: password) { [weak self] result, error in
+               if let error = error {
+                   print("Error signing up: \(error.localizedDescription)")
+               } else {
+                   self?.isLoggedIn = true
+               }
+           }
+       }
+   }
+   ```
+
+## 통합 및 완료
+
+이제 모든 구성 요소를 통합하여 전체 애플리케이션을 완성합니다.
+1. **ContentView**에서 조건에 따라 다른 뷰를 보여줍니다.
+   ```swift
+   import SwiftUI
+
+   struct ContentView: View {
+       @StateObject var viewModel = AuthViewModel()
+
+       var body: some View {
+           if viewModel.isLoggedIn {
+               Text("Welcome!")
+           } else {
+               VStack {
+                   LoginView(viewModel: viewModel)
+                   SignUpView(viewModel: viewModel)
+               }
+           }
+       }
+   }
+   ```
+
+이렇게 하면 Firebase Auth를 사용한 SwiftUI 애플리케이션의 사용자 인증 기능이 완성됩니다. 이제 사용자 인증 상태에 따라 적절한 화면을 표시할 수 있게 되었습니다.
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner1.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-08-02"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"f2b01ff9","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI는 iOS 애플리케이션 개발을 위한 강력하고 직관적인 프레임워크입니다. 앱에 사용자 인증 기능을 추가하는 것은 많은 애플리케이션에서 필수적인 요소입니다. 이 글에서는 Firebase Auth를 사용하여 SwiftUI 애플리케이션에 사용자 인증 시스템을 구현하는 방법을 설명하겠습니다."}],"\n",["$","h2",null,{"id":"4d8223bf","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"Firebase Auth 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"첫 번째로, Firebase 프로젝트를 설정하고 Firebase Auth를 구성하는 방법을 알아보겠습니다."}],"\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"Firebase에 프로젝트 생성"}],": Firebase 콘솔(",["$","$Ld",null,{"props":{"href":"https://console.firebase.google.com/)%EB%A1%9C","node":{"type":"element","tagName":"a","properties":{"href":"https://console.firebase.google.com/)%EB%A1%9C"},"children":[{"type":"text","value":"https://console.firebase.google.com/)로","position":{"start":{"line":10,"column":39,"offset":329},"end":{"line":10,"column":77,"offset":367}}}],"position":{"start":{"line":10,"column":39,"offset":329},"end":{"line":10,"column":77,"offset":367}}},"children":"https://console.firebase.google.com/)로"},"post":{"id":"b260e40b-0adb-42af-94be-046474913a97","title":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용","fileName":"SwiftUI-사용자-인증-구현하기-Firebase-Auth-활용-b260e40b","description":"이 글은 SwiftUI와 Firebase Auth를 활용하여 사용자의 인증 시스템을 구현하는 방법을 다룹니다. Firebase Auth의 기본 설정부터 SwiftUI와의 통합 방법을 단계별로 차근차근 설명합니다.","date":"2024-08-02T06:00:28.642Z","tags":[{"name":"SwiftUI","path":"/tags/swiftui","id":"swiftui"},{"name":"Firebase Auth","path":"/tags/firebase-auth","id":"firebase-auth"},{"name":"사용자 인증","path":"/tags/사용자-인증","id":"사용자-인증"},{"name":"모바일 개발","path":"/tags/모바일-개발","id":"모바일-개발"}],"banner":"/images/swiftBanner1.jpg","author":"마고유","project":null,"totalCnt":0,"monthlyCnt":0,"weeklyCnt":0,"slug":"SwiftUI-사용자-인증-구현하기-Firebase-Auth-활용-b260e40b","content":"$e","category":"swift","readMin":"5.8"},"language":"kr"}]," 이동하여 새 프로젝트를 생성합니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"iOS 앱 등록하기"}],": Firebase 프로젝트에 iOS 앱을 추가합니다. ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"GoogleService-Info.plist","position":{"start":{"line":11,"column":49,"offset":436},"end":{"line":11,"column":75,"offset":462}}}],"position":{"start":{"line":11,"column":49,"offset":436},"end":{"line":11,"column":75,"offset":462}}},"children":"GoogleService-Info.plist"}}]," 파일을 다운로드하여 Xcode 프로젝트에 추가합니다."]}],"\n",["$","li","li-2",{"children":[["$","strong",null,{"className":"font-black","children":"Firebase Auth 활성화하기"}],": Firebase 콘솔에서 'Authentication' 섹션으로 이동하여 이메일/비밀번호 인증을 활성화합니다."]}],"\n",["$","li","li-3",{"children":[["$","strong",null,{"className":"font-black","children":"Firebase SDK 설치"}],": Swift Package Manager(SPM)나 CocoaPods를 사용하여 Firebase SDK를 설치합니다. Swift Package Manager를 사용하는 경우 다음 처럼 사용합니다:\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"dependencies: [\n    .package(url: \"https://github.com/firebase/firebase-ios-sdk.git\", from: \"8.0.0\")\n]\n"}],"position":{"start":{"line":14,"column":4,"offset":719},"end":{"line":18,"column":7,"offset":846}}},"children":"dependencies: [\n    .package(url: \"https://github.com/firebase/firebase-ios-sdk.git\", from: \"8.0.0\")\n]\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"32dd8f90","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"SwiftUI 프로젝트 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 Xcode 프로젝트에서 SwiftUI를 사용하여 Firebase Auth를 설정하는 과정을 시작하겠습니다. Firebase 초기화를 위해 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AppDelegate","position":{"start":{"line":22,"column":81,"offset":948},"end":{"line":22,"column":94,"offset":961}}}],"position":{"start":{"line":22,"column":81,"offset":948},"end":{"line":22,"column":94,"offset":961}}},"children":"AppDelegate"}}],"와 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SceneDelegate","position":{"start":{"line":22,"column":96,"offset":963},"end":{"line":22,"column":111,"offset":978}}}],"position":{"start":{"line":22,"column":96,"offset":963},"end":{"line":22,"column":111,"offset":978}}},"children":"SceneDelegate"}}],"를 설정해야 합니다."]}],"\n",["$","ol","ol-1",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"AppDelegate 설정"}],": ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AppDelegate","position":{"start":{"line":24,"column":24,"offset":1014},"end":{"line":24,"column":37,"offset":1027}}}],"position":{"start":{"line":24,"column":24,"offset":1014},"end":{"line":24,"column":37,"offset":1027}}},"children":"AppDelegate"}}]," 파일을 생성하고, Firebase를 초기화합니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import UIKit\nimport Firebase\n\n@UIApplicationMain\nclass AppDelegate: UIResponder, UIApplicationDelegate {\n\n    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {\n        FirebaseApp.configure()\n        return true\n    }\n}\n"}],"position":{"start":{"line":25,"column":4,"offset":1059},"end":{"line":37,"column":7,"offset":1413}}},"children":"import UIKit\nimport Firebase\n\n@UIApplicationMain\nclass AppDelegate: UIResponder, UIApplicationDelegate {\n\n    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {\n        FirebaseApp.configure()\n        return true\n    }\n}\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"SceneDelegate 설정"}],": ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SceneDelegate","position":{"start":{"line":39,"column":26,"offset":1440},"end":{"line":39,"column":41,"offset":1455}}}],"position":{"start":{"line":39,"column":26,"offset":1440},"end":{"line":39,"column":41,"offset":1455}}},"children":"SceneDelegate"}}]," 파일을 업데이트합니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import UIKit\nimport SwiftUI\n\nclass SceneDelegate: UIResponder, UIWindowSceneDelegate {\n\n    var window: UIWindow?\n\n    func scene(_ scene: UIScene, willConnectTo session: UIScene.Session, options connectionOptions: UIScene.ConnectionOptions) {\n        let contentView = ContentView()\n        if let windowScene = scene as? UIWindowScene {\n            let window = UIWindow(windowScene: windowScene)\n            window.rootViewController = UIHostingController(rootView: contentView)\n            self.window = window\n            window.makeKeyAndVisible()\n        }\n    }\n}\n"}],"position":{"start":{"line":40,"column":4,"offset":1472},"end":{"line":58,"column":7,"offset":2101}}},"children":"import UIKit\nimport SwiftUI\n\nclass SceneDelegate: UIResponder, UIWindowSceneDelegate {\n\n    var window: UIWindow?\n\n    func scene(_ scene: UIScene, willConnectTo session: UIScene.Session, options connectionOptions: UIScene.ConnectionOptions) {\n        let contentView = ContentView()\n        if let windowScene = scene as? UIWindowScene {\n            let window = UIWindow(windowScene: windowScene)\n            window.rootViewController = UIHostingController(rootView: contentView)\n            self.window = window\n            window.makeKeyAndVisible()\n        }\n    }\n}\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"b18646df","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"사용자 인터페이스 작성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"사용자 인증 인터페이스를 작성하기 위해 SwiftUI 뷰를 생성합니다."}],"\n",["$","ol","ol-2",{"children":["\n",["$","li","li-0",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"로그인 화면"}],": ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"LoginView","position":{"start":{"line":64,"column":16,"offset":2176},"end":{"line":64,"column":27,"offset":2187}}}],"position":{"start":{"line":64,"column":16,"offset":2176},"end":{"line":64,"column":27,"offset":2187}}},"children":"LoginView"}}],"를 생성하여 사용자로부터 이메일과 비밀번호를 입력받는 화면을 만듭니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\n\nstruct LoginView: View {\n    @State private var email: String = \"\"\n    @State private var password: String = \"\"\n    @ObservedObject var viewModel: AuthViewModel\n\n    var body: some View {\n        VStack {\n            TextField(\"Email\", text: $email)\n                .autocapitalization(.none)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            SecureField(\"Password\", text: $password)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            Button(action: {\n                viewModel.signIn(email: email, password: password)\n            }) {\n                Text(\"Login\")\n                    .foregroundColor(.white)\n                    .padding()\n                    .background(Color.blue)\n                    .cornerRadius(5.0)\n            }\n        }\n        .padding()\n    }\n}\n"}],"position":{"start":{"line":65,"column":4,"offset":2230},"end":{"line":97,"column":7,"offset":3277}}},"children":"import SwiftUI\n\nstruct LoginView: View {\n    @State private var email: String = \"\"\n    @State private var password: String = \"\"\n    @ObservedObject var viewModel: AuthViewModel\n\n    var body: some View {\n        VStack {\n            TextField(\"Email\", text: $email)\n                .autocapitalization(.none)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            SecureField(\"Password\", text: $password)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            Button(action: {\n                viewModel.signIn(email: email, password: password)\n            }) {\n                Text(\"Login\")\n                    .foregroundColor(.white)\n                    .padding()\n                    .background(Color.blue)\n                    .cornerRadius(5.0)\n            }\n        }\n        .padding()\n    }\n}\n"}}]}],"\n"]}],"\n",["$","li","li-1",{"children":["\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"회원가입 화면"}],": 사용자가 새로운 계정을 생성할 수 있는 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SignUpView","position":{"start":{"line":99,"column":39,"offset":3317},"end":{"line":99,"column":51,"offset":3329}}}],"position":{"start":{"line":99,"column":39,"offset":3317},"end":{"line":99,"column":51,"offset":3329}}},"children":"SignUpView"}}],"를 만듭니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\n\nstruct SignUpView: View {\n    @State private var email: String = \"\"\n    @State private var password: String = \"\"\n    @ObservedObject var viewModel: AuthViewModel\n\n    var body: some View {\n        VStack {\n            TextField(\"Email\", text: $email)\n                .autocapitalization(.none)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            SecureField(\"Password\", text: $password)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            Button(action: {\n                viewModel.signUp(email: email, password: password)\n            }) {\n                Text(\"Sign Up\")\n                    .foregroundColor(.white)\n                    .padding()\n                    .background(Color.green)\n                    .cornerRadius(5.0)\n            }\n        }\n        .padding()\n    }\n}\n"}],"position":{"start":{"line":100,"column":4,"offset":3340},"end":{"line":132,"column":7,"offset":4391}}},"children":"import SwiftUI\n\nstruct SignUpView: View {\n    @State private var email: String = \"\"\n    @State private var password: String = \"\"\n    @ObservedObject var viewModel: AuthViewModel\n\n    var body: some View {\n        VStack {\n            TextField(\"Email\", text: $email)\n                .autocapitalization(.none)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            SecureField(\"Password\", text: $password)\n                .padding()\n                .background(Color.gray.opacity(0.2))\n                .cornerRadius(5.0)\n            Button(action: {\n                viewModel.signUp(email: email, password: password)\n            }) {\n                Text(\"Sign Up\")\n                    .foregroundColor(.white)\n                    .padding()\n                    .background(Color.green)\n                    .cornerRadius(5.0)\n            }\n        }\n        .padding()\n    }\n}\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"4847b02a","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"ViewModel 설정"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 Firebase Auth를 사용하여 실제 인증 로직을 처리하는 ",["$","$Lf",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"AuthViewModel","position":{"start":{"line":136,"column":39,"offset":4448},"end":{"line":136,"column":54,"offset":4463}}}],"position":{"start":{"line":136,"column":39,"offset":4448},"end":{"line":136,"column":54,"offset":4463}}},"children":"AuthViewModel"}}],"을 구성합니다."]}],"\n",["$","ol","ol-3",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"AuthViewModel"}],": Firebase를 사용하여 사용자 인증을 처리합니다.\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import Foundation\nimport FirebaseAuth\n\nclass AuthViewModel: ObservableObject {\n    @Published var isLoggedIn: Bool = false\n    private var auth = Auth.auth()\n\n    func signIn(email: String, password: String) {\n        auth.signIn(withEmail: email, password: password) { [weak self] result, error in\n            if let error = error {\n                print(\"Error signing in: \\(error.localizedDescription)\")\n            } else {\n                self?.isLoggedIn = true\n            }\n        }\n    }\n\n    func signUp(email: String, password: String) {\n        auth.createUser(withEmail: email, password: password) { [weak self] result, error in\n            if let error = error {\n                print(\"Error signing up: \\(error.localizedDescription)\")\n            } else {\n                self?.isLoggedIn = true\n            }\n        }\n    }\n}\n"}],"position":{"start":{"line":139,"column":4,"offset":4528},"end":{"line":167,"column":7,"offset":5459}}},"children":"import Foundation\nimport FirebaseAuth\n\nclass AuthViewModel: ObservableObject {\n    @Published var isLoggedIn: Bool = false\n    private var auth = Auth.auth()\n\n    func signIn(email: String, password: String) {\n        auth.signIn(withEmail: email, password: password) { [weak self] result, error in\n            if let error = error {\n                print(\"Error signing in: \\(error.localizedDescription)\")\n            } else {\n                self?.isLoggedIn = true\n            }\n        }\n    }\n\n    func signUp(email: String, password: String) {\n        auth.createUser(withEmail: email, password: password) { [weak self] result, error in\n            if let error = error {\n                print(\"Error signing up: \\(error.localizedDescription)\")\n            } else {\n                self?.isLoggedIn = true\n            }\n        }\n    }\n}\n"}}]}],"\n"]}],"\n"]}],"\n",["$","h2",null,{"id":"5fffb1ae","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"통합 및 완료"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이제 모든 구성 요소를 통합하여 전체 애플리케이션을 완성합니다."}],"\n",["$","ol","ol-4",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"ContentView"}],"에서 조건에 따라 다른 뷰를 보여줍니다.\n",["$","pre","pre-0",{"children":["$","$Lf",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\n\nstruct ContentView: View {\n    @StateObject var viewModel = AuthViewModel()\n\n    var body: some View {\n        if viewModel.isLoggedIn {\n            Text(\"Welcome!\")\n        } else {\n            VStack {\n                LoginView(viewModel: viewModel)\n                SignUpView(viewModel: viewModel)\n            }\n        }\n    }\n}\n"}],"position":{"start":{"line":173,"column":4,"offset":5553},"end":{"line":190,"column":7,"offset":5959}}},"children":"import SwiftUI\n\nstruct ContentView: View {\n    @StateObject var viewModel = AuthViewModel()\n\n    var body: some View {\n        if viewModel.isLoggedIn {\n            Text(\"Welcome!\")\n        } else {\n            VStack {\n                LoginView(viewModel: viewModel)\n                SignUpView(viewModel: viewModel)\n            }\n        }\n    }\n}\n"}}]}],"\n"]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이렇게 하면 Firebase Auth를 사용한 SwiftUI 애플리케이션의 사용자 인증 기능이 완성됩니다. 이제 사용자 인증 상태에 따라 적절한 화면을 표시할 수 있게 되었습니다."}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용","toc":[{"tagName":"h1","title":"SwiftUI 사용자 인증 구현하기: Firebase Auth 활용","id":"f2b01ff9"},{"tagName":"h2","title":"Firebase Auth 설정","id":"4d8223bf"},{"tagName":"h2","title":"SwiftUI 프로젝트 설정","id":"32dd8f90"},{"tagName":"h2","title":"사용자 인터페이스 작성","id":"b18646df"},{"tagName":"h2","title":"ViewModel 설정","id":"4847b02a"},{"tagName":"h2","title":"통합 및 완료","id":"5fffb1ae"}],"language":"kr"}]}]]}]]
+8:null

@@ -1,0 +1,120 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["algorithm",{"children":[["slug","MinHeap%EC%9D%B4%EB%9E%80-%EC%B5%9C%EC%86%8C%ED%9E%99-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%9E%99%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90","d"],{"children":["__PAGE__?{\"slug\":\"MinHeap이란-최소힙-쉽게-이해하는-힙하게-구현하자\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children",["slug","MinHeap%EC%9D%B4%EB%9E%80-%EC%B5%9C%EC%86%8C%ED%9E%99-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%9E%99%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"MinHeap이란-최소힙-쉽게-이해하는-힙하게-구현하자\"}"},"styles":[]}],"segment":["slug","MinHeap%EC%9D%B4%EB%9E%80-%EC%B5%9C%EC%86%8C%ED%9E%99-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%9E%99%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90","d"]},"styles":[]}],"segment":"algorithm"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자! | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"MinHeap은 부모 노드가 자식 노드보다 항상 작거나 같은 값을 가지는 완전 이진 트리입니다. 최소값을 빠르게 찾을 수 있어 우선순위 큐, 다익스트라 알고리즘, 힙 정렬 등 다양한 애플리케이션에서 사용됩니다. 이 글에서는 MinHeap의 개념, 작동 원리, 구현 방법 및 활용 사례를 다룹니다. 이를 통해 효율적인 데이터 관리를 위한 MinHeap의 활용법을 배울 수 있습니다."}],["$","meta","3",{"name":"keywords","content":"알고리즘"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/algorithm/MinHeap%EC%9D%B4%EB%9E%80-%EC%B5%9C%EC%86%8C%ED%9E%99-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%9E%99%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자! | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자! | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"MinHeap은 부모 노드가 자식 노드보다 항상 작거나 같은 값을 가지는 완전 이진 트리입니다. 최소값을 빠르게 찾을 수 있어 우선순위 큐, 다익스트라 알고리즘, 힙 정렬 등 다양한 애플리케이션에서 사용됩니다. 이 글에서는 MinHeap의 개념, 작동 원리, 구현 방법 및 활용 사례를 다룹니다. 이를 통해 효율적인 데이터 관리를 위한 MinHeap의 활용법을 배울 수 있습니다."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/algorithm/MinHeap%EC%9D%B4%EB%9E%80-%EC%B5%9C%EC%86%8C%ED%9E%99-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%9E%99%ED%95%98%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EC%9E%90"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자! | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"MinHeap은 부모 노드가 자식 노드보다 항상 작거나 같은 값을 가지는 완전 이진 트리입니다. 최소값을 빠르게 찾을 수 있어 우선순위 큐, 다익스트라 알고리즘, 힙 정렬 등 다양한 애플리케이션에서 사용됩니다. 이 글에서는 MinHeap의 개념, 작동 원리, 구현 방법 및 활용 사례를 다룹니다. 이를 통해 효율적인 데이터 관리를 위한 MinHeap의 활용법을 배울 수 있습니다."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/algorithmImg.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"MarkDownCode","async":false}
+10:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+11:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","406:static/chunks/app/algorithm/[slug]/page-94b16d6f374c2d4c.js"],"name":"","async":false}
+e:T578,class MinHeap:
+    def __init__(self):
+        self.heap = []
+
+    def parent(self, i):
+        return (i - 1) // 2
+
+    def leftChild(self, i):
+        return 2 * i + 1
+
+    def rightChild(self, i):
+        return 2 * i + 2
+
+    def insert(self, key):
+        self.heap.append(key)
+        self.heapifyUp(len(self.heap) - 1)
+
+    def heapifyUp(self, i):
+        while i != 0 and self.heap[self.parent(i)] > self.heap[i]:
+            self.heap[self.parent(i)], self.heap[i] = self.heap[i], self.heap[self.parent(i)]
+            i = self.parent(i)
+
+    def removeMin(self):
+        if len(self.heap) == 0:
+            return None
+        if len(self.heap) == 1:
+            return self.heap.pop()
+
+        root = self.heap[0]
+        self.heap[0] = self.heap.pop()
+        self.heapifyDown(0)
+        return root
+
+    def heapifyDown(self, i):
+        smallest = i
+        left = self.leftChild(i)
+        right = self.rightChild(i)
+
+        if left < len(self.heap) and self.heap[left] < self.heap[smallest]:
+            smallest = left
+
+        if right < len(self.heap) and self.heap[right] < self.heap[smallest]:
+            smallest = right
+
+        if smallest != i:
+            self.heap[i], self.heap[smallest] = self.heap[smallest], self.heap[i]
+            self.heapifyDown(smallest)
+
+    def getMin(self):
+        if len(self.heap) == 0:
+            return None
+        return self.heap[0]
+f:T578,class MinHeap:
+    def __init__(self):
+        self.heap = []
+
+    def parent(self, i):
+        return (i - 1) // 2
+
+    def leftChild(self, i):
+        return 2 * i + 1
+
+    def rightChild(self, i):
+        return 2 * i + 2
+
+    def insert(self, key):
+        self.heap.append(key)
+        self.heapifyUp(len(self.heap) - 1)
+
+    def heapifyUp(self, i):
+        while i != 0 and self.heap[self.parent(i)] > self.heap[i]:
+            self.heap[self.parent(i)], self.heap[i] = self.heap[i], self.heap[self.parent(i)]
+            i = self.parent(i)
+
+    def removeMin(self):
+        if len(self.heap) == 0:
+            return None
+        if len(self.heap) == 1:
+            return self.heap.pop()
+
+        root = self.heap[0]
+        self.heap[0] = self.heap.pop()
+        self.heapifyDown(0)
+        return root
+
+    def heapifyDown(self, i):
+        smallest = i
+        left = self.leftChild(i)
+        right = self.rightChild(i)
+
+        if left < len(self.heap) and self.heap[left] < self.heap[smallest]:
+            smallest = left
+
+        if right < len(self.heap) and self.heap[right] < self.heap[smallest]:
+            smallest = right
+
+        if smallest != i:
+            self.heap[i], self.heap[smallest] = self.heap[smallest], self.heap[i]
+            self.heapifyDown(smallest)
+
+    def getMin(self):
+        if len(self.heap) == 0:
+            return None
+        return self.heap[0]
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/algorithmImg.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자!"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자!"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-05-30"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h2",null,{"id":"7597bed8","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"MinHeap이란? 쉽게 이해하는 힙하게 구현하자!"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"데이터 구조에서 힙(Heap)은 매우 중요한 역할을 합니다. 특히 MinHeap은 효율적인 데이터 관리와 빠른 접근이 필요한 다양한 애플리케이션에서 널리 사용됩니다. 이번 글에서는 MinHeap의 개념과 작동 원리, 구현 방법 및 활용 사례에 대해 자세히 알아보겠습니다."}],"\n",["$","h3",null,{"id":"07db04cf","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"1. MinHeap이란?"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"MinHeap은 완전 이진 트리(Complete Binary Tree)로, 부모 노드의 값이 자식 노드의 값보다 항상 작거나 같은 특성을 가진 데이터 구조입니다. 즉, 트리의 루트 노드는 항상 가장 작은 값을 가지게 됩니다. 이러한 특성 덕분에 MinHeap은 최소값을 빠르게 찾는 데 매우 효율적입니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"MinHeap의 주요 특징"}],":"]}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"완전 이진 트리"}],": 트리가 완전하게 채워져야 하며, 마지막 레벨만 부분적으로 채워질 수 있습니다."]}],"\n",["$","li","li-1",{"children":[["$","strong",null,{"className":"font-black","children":"부모-자식 관계"}],": 부모 노드의 값은 항상 자식 노드의 값보다 작거나 같습니다."]}],"\n"]}],"\n",["$","h3",null,{"id":"7b7f8d99","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"2. MinHeap의 작동 원리"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"MinHeap에서 주요 연산은 삽입(insert)과 삭제(delete)입니다. 이 두 연산이 어떻게 작동하는지 살펴보겠습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"1. 삽입 연산"}],":\n새로운 요소를 삽입할 때, 트리의 마지막 자리에 추가된 후, 부모 노드와 비교하며 올바른 위치로 이동합니다(이 과정을 힙화라고 합니다)."]}],"\n",["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"단계"}],":\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"요소를 트리의 마지막 위치에 삽입합니다."}],"\n",["$","li","li-1",{"children":"부모 노드와 비교하여 부모 노드보다 작으면 위치를 교환합니다."}],"\n",["$","li","li-2",{"children":"올바른 위치에 도달할 때까지 이 과정을 반복합니다."}],"\n"]}],"\n"]}],"\n"]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"2. 삭제 연산"}],":\n루트 노드를 삭제할 때, 트리의 마지막 요소를 루트 노드로 이동한 후, 자식 노드와 비교하며 올바른 위치로 이동합니다(이 과정도 힙화라고 합니다)."]}],"\n",["$","ul","ul-2",{"children":["\n",["$","li","li-0",{"children":[["$","strong",null,{"className":"font-black","children":"단계"}],":\n",["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":"루트 노드를 제거하고 트리의 마지막 요소를 루트 노드로 이동시킵니다."}],"\n",["$","li","li-1",{"children":"자식 노드들과 비교하여 더 작은 자식 노드와 위치를 교환합니다."}],"\n",["$","li","li-2",{"children":"올바른 위치에 도달할 때까지 이 과정을 반복합니다."}],"\n"]}],"\n"]}],"\n"]}],"\n",["$","h3",null,{"id":"e35b3710","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"3. MinHeap의 구현"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"이제 Python을 사용하여 MinHeap을 구현해보겠습니다. 여기서는 리스트를 이용한 MinHeap 구현 방법을 소개합니다."}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-python","node":{"type":"element","tagName":"code","properties":{"className":["language-python"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":39,"column":1,"offset":1130},"end":{"line":92,"column":4,"offset":2543}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["위 코드에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"MinHeap","position":{"start":{"line":94,"column":9,"offset":2553},"end":{"line":94,"column":18,"offset":2562}}}],"position":{"start":{"line":94,"column":9,"offset":2553},"end":{"line":94,"column":18,"offset":2562}}},"children":"MinHeap"}}]," 클래스를 정의하고, 삽입과 삭제 연산을 포함한 주요 메서드를 구현했습니다. ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"heapifyUp","position":{"start":{"line":94,"column":61,"offset":2605},"end":{"line":94,"column":72,"offset":2616}}}],"position":{"start":{"line":94,"column":61,"offset":2605},"end":{"line":94,"column":72,"offset":2616}}},"children":"heapifyUp"}}],"과 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"heapifyDown","position":{"start":{"line":94,"column":74,"offset":2618},"end":{"line":94,"column":87,"offset":2631}}}],"position":{"start":{"line":94,"column":74,"offset":2618},"end":{"line":94,"column":87,"offset":2631}}},"children":"heapifyDown"}}]," 메서드는 각각 삽입과 삭제 연산 후에 힙 구조를 유지하는 역할을 합니다."]}],"\n",["$","h3",null,{"id":"e7d82669","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"4. MinHeap의 활용 사례"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"MinHeap은 다양한 상황에서 활용될 수 있습니다. 몇 가지 대표적인 사례를 살펴보겠습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"1. 우선순위 큐"}],":\n우선순위 큐는 각 요소가 우선순위를 가지는 큐입니다. MinHeap은 높은 우선순위를 가진 요소를 빠르게 찾을 수 있어 우선순위 큐 구현에 유용합니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"2. 다익스트라 알고리즘"}],":\n그래프에서 최단 경로를 찾는 다익스트라 알고리즘은 MinHeap을 사용하여 가장 적은 비용으로 경로를 확장하는 정점을 빠르게 찾습니다."]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":[["$","strong",null,{"className":"font-black","children":"3. 정렬 알고리즘"}],":\n힙 정렬(Heap Sort)은 MinHeap 또는 MaxHeap을 사용하여 배열을 정렬하는 효율적인 알고리즘입니다."]}],"\n",["$","h3",null,{"id":"5b12bcf2","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"MinHeap은 효율적인 데이터 관리와 빠른 접근이 필요한 다양한 애플리케이션에서 널리 사용되는 강력한 데이터 구조입니다. Python에서 MinHeap을 이해하고 구현하면, 복잡한 문제를 더 쉽게 해결할 수 있습니다. 이번 가이드에서는 MinHeap의 개념, 작동 원리, 구현 방법 및 활용 사례를 자세히 살펴보았습니다. 이를 통해 여러분의 개발 스킬을 한 단계 업그레이드하시길 바랍니다."}]]}]}],["$","$L10",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L11",null,{"articleTitle":"MinHeap이란? 최소힙을 쉽게 이해하고 힙하게 구현하자!","toc":[{"tagName":"h2","title":"MinHeap이란? 쉽게 이해하는 힙하게 구현하자!","id":"7597bed8"},{"tagName":"h3","title":"1. MinHeap이란?","id":"07db04cf"},{"tagName":"h3","title":"2. MinHeap의 작동 원리","id":"7b7f8d99"},{"tagName":"h3","title":"3. MinHeap의 구현","id":"e35b3710"},{"tagName":"h3","title":"4. MinHeap의 활용 사례","id":"e7d82669"},{"tagName":"h3","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null

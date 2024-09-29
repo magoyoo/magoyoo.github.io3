@@ -1,0 +1,216 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/98e4530578c425d7.css",{"as":"style"}]
+0:["BTzIZmIeYXT3BlsSUt3SU",[[["",{"children":["swift",{"children":[["slug","SwiftUI-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%BC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-492d9932","d"],{"children":["__PAGE__?{\"slug\":\"SwiftUI-커스텀-폼-컴포넌트-만들기-492d9932\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98e4530578c425d7.css","precedence":"next"}]],"$L4"]]]]
+5:I{"id":42879,"chunks":["185:static/chunks/app/layout-b198f10c98e34978.js"],"name":"GoogleAnalytics","async":false}
+6:I{"id":47767,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+7:I{"id":57920,"chunks":["272:static/chunks/webpack-2f2428fbb7549638.js","971:static/chunks/fd9d1056-695585668d16e3fb.js","596:static/chunks/596-e6a99af3279f5db8.js"],"name":"default","async":false}
+3:[null,["$","html",null,{"lang":"ko","children":[["$","$L5",null,{}],["$","body",null,{"className":"__className_aaf875","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","swift","children",["slug","SwiftUI-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%BC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-492d9932","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L8","$L9",null],"segment":"__PAGE__?{\"slug\":\"SwiftUI-커스텀-폼-컴포넌트-만들기-492d9932\"}"},"styles":[]}],"segment":["slug","SwiftUI-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%BC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-492d9932","d"]},"styles":[]}],"segment":"swift"},"styles":[]}]}]]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"SwiftUI 커스텀 폼 컴포넌트 만들기 | 마고자비 블로그"}],["$","meta","2",{"name":"description","content":"SwiftUI를 활용하여 커스텀 폼 컴포넌트를 만드는 방법에 대해 알아봅니다. SwiftUI의 강력한 기능을 사용하여 재사용 가능하고, UX를 강화하는 폼 컴포넌트를 만들어보세요."}],["$","meta","3",{"name":"keywords","content":"Swift,SwiftUI,커스텀 컴포넌트,모바일 앱"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"}],["$","link","5",{"rel":"canonical","href":"https://magomercy.com/swift/SwiftUI-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%BC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-492d9932"}],["$","meta","6",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"SwiftUI 커스텀 폼 컴포넌트 만들기 | 마고자비 블로그"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"SwiftUI 커스텀 폼 컴포넌트 만들기 | 마고자비 블로그"}],["$","meta","10",{"property":"og:description","content":"SwiftUI를 활용하여 커스텀 폼 컴포넌트를 만드는 방법에 대해 알아봅니다. SwiftUI의 강력한 기능을 사용하여 재사용 가능하고, UX를 강화하는 폼 컴포넌트를 만들어보세요."}],["$","meta","11",{"property":"og:url","content":"https://magomercy.com/swift/SwiftUI-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%BC-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-492d9932"}],["$","meta","12",{"property":"og:site_name","content":"마고자비 블로그 | 마구잡이로 하고 싶은 것을 합니다."}],["$","meta","13",{"property":"og:locale","content":"kr"}],["$","meta","14",{"property":"og:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:creator","content":"마고자비 블로그"}],["$","meta","18",{"name":"twitter:title","content":"SwiftUI 커스텀 폼 컴포넌트 만들기 | 마고자비 블로그"}],["$","meta","19",{"name":"twitter:description","content":"SwiftUI를 활용하여 커스텀 폼 컴포넌트를 만드는 방법에 대해 알아봅니다. SwiftUI의 강력한 기능을 사용하여 재사용 가능하고, UX를 강화하는 폼 컴포넌트를 만들어보세요."}],["$","meta","20",{"name":"twitter:image","content":"https://magomercy.com/images/swiftBanner4.jpg"}],["$","link","21",{"rel":"icon","href":"https://magomercy.com/favicon32.png"}],["$","link","22",{"rel":"apple-touch-icon","href":"https://magomercy.com/favicon32.png"}],["$","meta","23",{"name":"next-size-adjust"}]]
+a:I{"id":22873,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+b:I{"id":84423,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+c:I{"id":2346,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+d:I{"id":67490,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"MarkDownCode","async":false}
+12:I{"id":87272,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+13:I{"id":55026,"chunks":["986:static/chunks/986-5f83c849e7b0dffa.js","754:static/chunks/754-8b5d90286cb88ad9.js","543:static/chunks/543-fe4d83430fed7822.js","288:static/chunks/app/swift/[slug]/page-4841b882b9c15aba.js"],"name":"","async":false}
+e:T6e0,import SwiftUI
+
+struct CustomLoginForm: View {
+    @State private var email: String = ""
+    @State private var password: String = ""
+    @State private var isEmailValid: Bool = true
+    @State private var isPasswordValid: Bool = true
+
+    var body: some View {
+        VStack {
+            TextField("Email", text: $email, onEditingChanged: { _ in
+                self.isEmailValid = self.isValidEmail(self.email)
+            })
+            .textFieldStyle(RoundedBorderTextFieldStyle())
+            .padding()
+            .overlay(RoundedRectangle(cornerRadius: 5)
+                        .stroke(self.isEmailValid ? Color.gray : Color.red, lineWidth: 1))
+
+            SecureField("Password", text: $password, onCommit: {
+                self.isPasswordValid = self.isValidPassword(self.password)
+            })
+            .textFieldStyle(RoundedBorderTextFieldStyle())
+            .padding()
+            .overlay(RoundedRectangle(cornerRadius: 5)
+                        .stroke(self.isPasswordValid ? Color.gray : Color.red, lineWidth: 1))
+
+            Button(action: {
+                print("Email: \(email), Password: \(password)")
+            }) {
+                Text("Login")
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(8)
+            }
+        }
+        .padding()
+    }
+
+    private func isValidEmail(_ email: String) -> Bool {
+        let emailRegEx = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,64}"
+        let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegEx)
+        return emailTest.evaluate(with: email)
+    }
+
+    private func isValidPassword(_ password: String) -> Bool {
+        return password.count >= 6
+    }
+}
+f:T6e0,import SwiftUI
+
+struct CustomLoginForm: View {
+    @State private var email: String = ""
+    @State private var password: String = ""
+    @State private var isEmailValid: Bool = true
+    @State private var isPasswordValid: Bool = true
+
+    var body: some View {
+        VStack {
+            TextField("Email", text: $email, onEditingChanged: { _ in
+                self.isEmailValid = self.isValidEmail(self.email)
+            })
+            .textFieldStyle(RoundedBorderTextFieldStyle())
+            .padding()
+            .overlay(RoundedRectangle(cornerRadius: 5)
+                        .stroke(self.isEmailValid ? Color.gray : Color.red, lineWidth: 1))
+
+            SecureField("Password", text: $password, onCommit: {
+                self.isPasswordValid = self.isValidPassword(self.password)
+            })
+            .textFieldStyle(RoundedBorderTextFieldStyle())
+            .padding()
+            .overlay(RoundedRectangle(cornerRadius: 5)
+                        .stroke(self.isPasswordValid ? Color.gray : Color.red, lineWidth: 1))
+
+            Button(action: {
+                print("Email: \(email), Password: \(password)")
+            }) {
+                Text("Login")
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(8)
+            }
+        }
+        .padding()
+    }
+
+    private func isValidEmail(_ email: String) -> Bool {
+        let emailRegEx = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,64}"
+        let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegEx)
+        return emailTest.evaluate(with: email)
+    }
+
+    private func isValidPassword(_ password: String) -> Bool {
+        return password.count >= 6
+    }
+}
+10:T64c,import SwiftUI
+
+struct ValidatedTextField: View {
+    let title: String
+    @Binding var text: String
+    var validator: ((String) -> Bool)
+    @State private var isValid: Bool = true
+
+    var body: some View {
+        TextField(title, text: $text, onEditingChanged: { _ in
+            self.isValid = self.validator(self.text)
+        })
+        .textFieldStyle(RoundedBorderTextFieldStyle())
+        .padding()
+        .overlay(RoundedRectangle(cornerRadius: 5)
+                    .stroke(self.isValid ? Color.gray : Color.red, lineWidth: 1))
+    }
+}
+
+struct CustomLoginForm: View {
+    @State private var email: String = ""
+    @State private var password: String = ""
+
+    var body: some View {
+        VStack {
+            ValidatedTextField(title: "Email", text: $email, validator: isValidEmail)
+            ValidatedTextField(title: "Password", text: $password, validator: isValidPassword)
+
+            Button(action: {
+                print("Email: \(email), Password: \(password)")
+            }) {
+                Text("Login")
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(8)
+            }
+        }
+        .padding()
+    }
+
+    private func isValidEmail(_ email: String) -> Bool {
+        let emailRegEx = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,64}"
+        let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegEx)
+        return emailTest.evaluate(with: email)
+    }
+
+    private func isValidPassword(_ password: String) -> Bool {
+        return password.count >= 6
+    }
+}
+11:T64c,import SwiftUI
+
+struct ValidatedTextField: View {
+    let title: String
+    @Binding var text: String
+    var validator: ((String) -> Bool)
+    @State private var isValid: Bool = true
+
+    var body: some View {
+        TextField(title, text: $text, onEditingChanged: { _ in
+            self.isValid = self.validator(self.text)
+        })
+        .textFieldStyle(RoundedBorderTextFieldStyle())
+        .padding()
+        .overlay(RoundedRectangle(cornerRadius: 5)
+                    .stroke(self.isValid ? Color.gray : Color.red, lineWidth: 1))
+    }
+}
+
+struct CustomLoginForm: View {
+    @State private var email: String = ""
+    @State private var password: String = ""
+
+    var body: some View {
+        VStack {
+            ValidatedTextField(title: "Email", text: $email, validator: isValidEmail)
+            ValidatedTextField(title: "Password", text: $password, validator: isValidPassword)
+
+            Button(action: {
+                print("Email: \(email), Password: \(password)")
+            }) {
+                Text("Login")
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(8)
+            }
+        }
+        .padding()
+    }
+
+    private func isValidEmail(_ email: String) -> Bool {
+        let emailRegEx = "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,64}"
+        let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegEx)
+        return emailTest.evaluate(with: email)
+    }
+
+    private func isValidPassword(_ password: String) -> Bool {
+        return password.count >= 6
+    }
+}
+9:[["$","$La",null,{"language":"kr","screenType":"ARTICLE_DETAIL"}],["$","section",null,{"className":"flex fixed top-0 left-0 w-full  md:h-[600px] h-[300px] justify-center","style":{"backgroundImage":"url(/images/swiftBanner4.jpg)","backgroundPosition":"center","backgroundSize":"contain","backgroundRepeat":"no-repeat"},"children":[["$","div",null,{"className":"w-full md:h-[600px] h-[300px]  bg-[#171E24] bg-opacity-[0.35] absolute top-0 left-0"}],["$","div",null,{"className":"hidden md:flex flex-col justify-end w-[100%] md:w-[700px] px-[20px] pb-[100px]","children":["$","h1",null,{"className":"font-semibold text-[40px] text-gray-100 text-shadow-default z-40","children":"SwiftUI 커스텀 폼 컴포넌트 만들기"}]}]]}],["$","main",null,{"className":"flex flex-row justify-center md:py-[120px] py-[60px] bg-white md:mt-[600px] mt-[300px] relative z-30 ","children":[["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","div",null,{"className":"toc sticky top-[90px] flex flex-col","children":["$","$Lb",null,{}]}]}],["$","article",null,{"className":"flex flex-col w-full md:w-[600px] px-[20px] md:px-[0px] gap-[40px]","children":[["$","div",null,{"className":"md:hidden border-b-[0.6px] pb-[40px] border-gray-200","children":["$","h1",null,{"className":"text-[28px] font-bold leading-[150%]","children":"SwiftUI 커스텀 폼 컴포넌트 만들기"}]}],["$","div",null,{"className":"flex flex-col","children":[["$","$Lc",null,{}],["$","div",null,{"children":["작성일 : ",["$","time",null,{"children":"2024-07-31"}]]}]]}],["$","div",null,{"children":["$","div",null,{"className":"md-to-html","children":[["$","h1",null,{"id":"e322feba","className":"md:text-[42px] text-[26px] font-bold leading-[150%] md:py-[50px] py-[30px] text-gray-900","children":"SwiftUI 커스텀 폼 컴포넌트 만들기"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI는 애플 생태계에서 앱 개발을 쉽게 하고 빠르게 만들 수 있는 강력한 프레임워크입니다. 이번 글에서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"커스텀 폼 컴포넌트","position":{"start":{"line":4,"column":65,"offset":91},"end":{"line":4,"column":77,"offset":103}}}],"position":{"start":{"line":4,"column":65,"offset":91},"end":{"line":4,"column":77,"offset":103}}},"children":"커스텀 폼 컴포넌트"}}],"를 SwiftUI로 만드는 법을 다루어 보겠습니다. 커스텀 폼 컴포넌트를 이용하면 코드의 재사용성을 높이고, 일관된 사용자 경험(UX)을 제공할 수 있습니다."]}],"\n",["$","h2",null,{"id":"73a74ed7","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"커스텀 폼 컴포넌트의 필요성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"폼 컴포넌트는 사용자가 데이터를 입력하거나 선택하는 화면에서 자주 사용됩니다. 하지만 기본 제공되는 폼 컴포넌트만으로는 다양한 요구사항을 모두 충족시키기 어렵습니다. 다행히도 SwiftUI를 사용하면 커스텀 폼 컴포넌트를 쉽게 만들 수 있으며, 이를 통해 원하는 대로 다양한 형태의 입력 방식을 구현할 수 있습니다."}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"예를 들어, 간단한 로그인 폼에서부터 복잡한 사용자 정보 입력 폼까지 다양한 형태의 폼을 커스텀할 수 있습니다. 이제 간단한 텍스트 필드와 버튼을 포함한 로그인 폼 컴포넌트를 만들어 보겠습니다."}],"\n",["$","h2",null,{"id":"56b02e37","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"기본적인 SwiftUI 컴포넌트"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["SwiftUI에는 폼을 만들기 위한 기본 컴포넌트가 많이 제공됩니다. 여기서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"TextField","position":{"start":{"line":14,"column":45,"offset":567},"end":{"line":14,"column":56,"offset":578}}}],"position":{"start":{"line":14,"column":45,"offset":567},"end":{"line":14,"column":56,"offset":578}}},"children":"TextField"}}],", ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SecureField","position":{"start":{"line":14,"column":58,"offset":580},"end":{"line":14,"column":71,"offset":593}}}],"position":{"start":{"line":14,"column":58,"offset":580},"end":{"line":14,"column":71,"offset":593}}},"children":"SecureField"}}],", ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Button","position":{"start":{"line":14,"column":73,"offset":595},"end":{"line":14,"column":81,"offset":603}}}],"position":{"start":{"line":14,"column":73,"offset":595},"end":{"line":14,"column":81,"offset":603}}},"children":"Button"}}]," 등을 사용하여 간단한 폼을 만들어 보겠습니다."]}],"\n",["$","pre","pre-0",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"import SwiftUI\n\nstruct LoginForm: View {\n    @State private var username: String = \"\"\n    @State private var password: String = \"\"\n\n    var body: some View {\n        VStack {\n            TextField(\"Username\", text: $username)\n                .textFieldStyle(RoundedBorderTextFieldStyle())\n                .padding()\n            \n            SecureField(\"Password\", text: $password)\n                .textFieldStyle(RoundedBorderTextFieldStyle())\n                .padding()\n\n            Button(action: {\n                print(\"Username: \\(username), Password: \\(password)\")\n            }) {\n                Text(\"Login\")\n                    .padding()\n                    .background(Color.blue)\n                    .foregroundColor(.white)\n                    .cornerRadius(8)\n            }\n        }\n        .padding()\n    }\n}\n"}],"position":{"start":{"line":16,"column":1,"offset":631},"end":{"line":46,"column":4,"offset":1470}}},"children":"import SwiftUI\n\nstruct LoginForm: View {\n    @State private var username: String = \"\"\n    @State private var password: String = \"\"\n\n    var body: some View {\n        VStack {\n            TextField(\"Username\", text: $username)\n                .textFieldStyle(RoundedBorderTextFieldStyle())\n                .padding()\n            \n            SecureField(\"Password\", text: $password)\n                .textFieldStyle(RoundedBorderTextFieldStyle())\n                .padding()\n\n            Button(action: {\n                print(\"Username: \\(username), Password: \\(password)\")\n            }) {\n                Text(\"Login\")\n                    .padding()\n                    .background(Color.blue)\n                    .foregroundColor(.white)\n                    .cornerRadius(8)\n            }\n        }\n        .padding()\n    }\n}\n"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이 컴포넌트는 사용자로부터 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"username","position":{"start":{"line":48,"column":16,"offset":1487},"end":{"line":48,"column":26,"offset":1497}}}],"position":{"start":{"line":48,"column":16,"offset":1487},"end":{"line":48,"column":26,"offset":1497}}},"children":"username"}}],"과 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"password","position":{"start":{"line":48,"column":28,"offset":1499},"end":{"line":48,"column":38,"offset":1509}}}],"position":{"start":{"line":48,"column":28,"offset":1499},"end":{"line":48,"column":38,"offset":1509}}},"children":"password"}}],"를 입력받아, 로그인 버튼을 클릭했을 때 해당 정보를 출력하는 간단한 입력 폼입니다. 이제 이 폼을 더욱 커스텀할 수 있도록 확장해보겠습니다."]}],"\n",["$","h2",null,{"id":"4acf9cde","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"커스터마이징 폼 컴포넌트"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"기본 폼 요소들을 조합하여 더 복잡한 커스텀 폼을 만들어보겠습니다. 여기에서는 다양한 입력 타입을 지원하는 폼을 만들어보겠습니다."}],"\n",["$","h3",null,{"id":"26caaad0","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"유효성 검사 추가"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"폼 입력 시 실시간으로 유효성을 검사하여 사용자에게 피드백을 줄 수 있도록 하겠습니다. 이메일 형식 검사와 비밀번호 최소 길이 체크를 추가해 보겠습니다."}],"\n",["$","pre","pre-1",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$e"}],"position":{"start":{"line":58,"column":1,"offset":1784},"end":{"line":108,"column":4,"offset":3556}}},"children":"$f"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["여기서는 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"TextField","position":{"start":{"line":110,"column":6,"offset":3563},"end":{"line":110,"column":17,"offset":3574}}}],"position":{"start":{"line":110,"column":6,"offset":3563},"end":{"line":110,"column":17,"offset":3574}}},"children":"TextField"}}],"와 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"SecureField","position":{"start":{"line":110,"column":19,"offset":3576},"end":{"line":110,"column":32,"offset":3589}}}],"position":{"start":{"line":110,"column":19,"offset":3576},"end":{"line":110,"column":32,"offset":3589}}},"children":"SecureField"}}]," 컴포넌트의 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"overlay","position":{"start":{"line":110,"column":39,"offset":3596},"end":{"line":110,"column":48,"offset":3605}}}],"position":{"start":{"line":110,"column":39,"offset":3596},"end":{"line":110,"column":48,"offset":3605}}},"children":"overlay"}}],"를 사용하여 유효성 검사 결과에 따라 테두리 색상이 변경되도록 했습니다. 각각의 필드가 올바르게 입력되었는지의 여부를 보여줍니다."]}],"\n",["$","h2",null,{"id":"3d730136","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"커스텀 폼 컴포넌트의 재사용성"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"앞서 작성한 커스텀 폼 컴포넌트는 이번 프로젝트에만 사용될 것이 아니라, 다른 프로젝트에서도 재사용될 수 있도록 설계되어야 합니다. 이를 위해 컴포넌트를 모듈화하고, 다양한 입력 타입을 지원하는 범용 컴포넌트로 확장할 필요가 있습니다."}],"\n",["$","h3",null,{"id":"64bac223","className":"md:text-[24px] text-[20px] font-medium leading-[140%] md:py-[30px] py-[18px] text-gray-800","children":"모듈화 및 확장 예시"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["특정 입력값에 대한 유효성 검사를 커스터마이징할 수 있도록 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"Validator","position":{"start":{"line":118,"column":34,"offset":3883},"end":{"line":118,"column":45,"offset":3894}}}],"position":{"start":{"line":118,"column":34,"offset":3883},"end":{"line":118,"column":45,"offset":3894}}},"children":"Validator"}}],"타입을 도입해 봅시다."]}],"\n",["$","pre","pre-2",{"children":["$","$Ld",null,{"props":{"className":"language-swift","node":{"type":"element","tagName":"code","properties":{"className":["language-swift"]},"children":[{"type":"text","value":"$10"}],"position":{"start":{"line":120,"column":1,"offset":3908},"end":{"line":172,"column":4,"offset":5532}}},"children":"$11"}}]}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":["이제 ",["$","$Ld",null,{"props":{"node":{"type":"element","tagName":"code","properties":{},"children":[{"type":"text","value":"ValidatedTextField","position":{"start":{"line":174,"column":4,"offset":5537},"end":{"line":174,"column":24,"offset":5557}}}],"position":{"start":{"line":174,"column":4,"offset":5537},"end":{"line":174,"column":24,"offset":5557}}},"children":"ValidatedTextField"}}],"를 사용하여 쉽게 폼 입력을 검증할 수 있으며, 이 컴포넌트를 다른 프로젝트에서도 재사용할 수 있습니다."]}],"\n",["$","h2",null,{"id":"5b12bcf2","className":"md:text-[32px] text-[22px] font-semibold leading-[145%] md:py-[30px] py-[20px] text-gray-800","children":"결론"}],"\n",["$","p",null,{"className":"md:text-[16px] text-[15px] leading-[180%] text-gray-800 md:py-[20px] py-[20px]","children":"SwiftUI를 사용하면 다양한 커스텀 폼 컴포넌트를 쉽게 만들 수 있습니다. 이러한 커스텀 컴포넌트를 통해 일관된 사용자 경험을 제공하고, 코드의 재사용성을 높일 수 있습니다. 이번 글에서는 간단한 예제를 통해 커스터마이징 방법을 살펴보았으나, 실제 프로젝트에서는 더 복잡하고 다양한 요구사항을 충족시키기 위해 추가적인 확장이 필요할 수 있습니다. SwiftUI의 강력한 기능을 활용하여 나만의 커스텀 폼 컴포넌트를 만들어 보세요."}]]}]}],["$","$L12",null,{}]]}],["$","div",null,{"className":"xl:flex hidden w-[300px]","children":["$","$L13",null,{"articleTitle":"SwiftUI 커스텀 폼 컴포넌트 만들기","toc":[{"tagName":"h1","title":"SwiftUI 커스텀 폼 컴포넌트 만들기","id":"e322feba"},{"tagName":"h2","title":"커스텀 폼 컴포넌트의 필요성","id":"73a74ed7"},{"tagName":"h2","title":"기본적인 SwiftUI 컴포넌트","id":"56b02e37"},{"tagName":"h2","title":"커스터마이징 폼 컴포넌트","id":"4acf9cde"},{"tagName":"h3","title":"유효성 검사 추가","id":"26caaad0"},{"tagName":"h2","title":"커스텀 폼 컴포넌트의 재사용성","id":"3d730136"},{"tagName":"h3","title":"모듈화 및 확장 예시","id":"64bac223"},{"tagName":"h2","title":"결론","id":"5b12bcf2"}],"language":"kr"}]}]]}]]
+8:null
